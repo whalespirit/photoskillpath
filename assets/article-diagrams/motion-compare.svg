@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Motion comparison diagram</title><desc id="desc">A fast shutter freezes a cyclist while a slow shutter shows motion.</desc>
+  <rect width="900" height="520" fill="#eff5fb"/>
+  <g font-family="Arial, sans-serif" font-weight="800" font-size="20" letter-spacing="2" fill="#151515"><text x="92" y="65">FREEZE</text><text x="608" y="65">SHOW MOTION</text></g>
+  <g stroke="#a7b4c2" stroke-width="3"><path d="M70 393h335"/><path d="M495 393h335"/></g>
+  <g fill="none" stroke="#2347f5" stroke-width="9" stroke-linecap="round"><circle cx="205" cy="347" r="49"/><circle cx="335" cy="347" r="49"/><path d="M205 347 260 260l75 87m-75-87 30-73 67 26m-97 47 84 0"/></g>
+  <g opacity=".18" fill="none" stroke="#2347f5" stroke-width="9" stroke-linecap="round"><circle cx="588" cy="347" r="49"/><circle cx="718" cy="347" r="49"/><path d="M588 347 643 260l75 87m-75-87 30-73 67 26m-97 47 84 0"/></g>
+  <g opacity=".42" fill="none" stroke="#2347f5" stroke-width="9" stroke-linecap="round"><circle cx="620" cy="347" r="49"/><circle cx="750" cy="347" r="49"/><path d="M620 347 675 260l75 87m-75-87 30-73 67 26m-97 47 84 0"/></g>
+  <g fill="none" stroke="#2347f5" stroke-width="9" stroke-linecap="round"><circle cx="652" cy="347" r="49"/><circle cx="782" cy="347" r="49"/><path d="M652 347 707 260l75 87m-75-87 30-73 67 26m-97 47 84 0"/></g>
+  <g fill="#ff5c35" font-family="Arial, sans-serif" font-size="22" font-weight="800"><text x="92" y="453">FAST SHUTTER</text><text x="608" y="453">SLOWER SHUTTER</text></g>
+</svg>

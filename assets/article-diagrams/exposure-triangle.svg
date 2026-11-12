@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Exposure triangle decision diagram</title><desc id="desc">Aperture, shutter speed, and ISO are connected to a visible photographic result.</desc>
+  <rect width="900" height="520" fill="#dceaff"/>
+  <g fill="none" stroke="#2347f5" stroke-width="5"><path d="M450 76 170 408h560z"/><circle cx="450" cy="76" r="42" fill="#f7f8f8"/><circle cx="170" cy="408" r="42" fill="#f7f8f8"/><circle cx="730" cy="408" r="42" fill="#f7f8f8"/></g>
+  <circle cx="450" cy="270" r="98" fill="#151515"/><circle cx="450" cy="270" r="69" fill="#ff5c35"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle"><g fill="#151515" font-size="18" font-weight="700" letter-spacing="2"><text x="450" y="27">EXPOSURE</text><text x="115" y="474">SHUTTER</text><text x="785" y="474">ISO</text></g><g fill="#151515" font-size="29" font-weight="800"><text x="450" y="84">APERTURE</text><text x="170" y="416">TIME</text><text x="730" y="416">SENSITIVITY</text></g><g fill="#fff" font-size="18" font-weight="800"><text x="450" y="264">VISIBLE</text><text x="450" y="288">RESULT</text></g></g>
+  <g font-family="Arial, sans-serif" fill="#3b526b" font-size="18"><text x="92" y="145">background blur</text><text x="621" y="146">brightness / noise</text><text x="365" y="458">motion</text></g>
+</svg>

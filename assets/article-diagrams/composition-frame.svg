@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Composition grid diagram</title><desc id="desc">A subject sits near a rule-of-thirds intersection while a line directs the eye toward it.</desc>
+  <rect width="900" height="520" fill="#dceaff"/>
+  <rect x="82" y="62" width="736" height="396" fill="#f7f8f8" stroke="#151515" stroke-width="6"/>
+  <g stroke="#2347f5" stroke-width="2" opacity=".68"><path d="M327 62v396M573 62v396M82 194h736M82 326h736"/></g>
+  <path d="M102 426 376 280 573 195" fill="none" stroke="#151515" stroke-width="12" stroke-linecap="round"/><path d="M573 195l-32-7 15 29" fill="none" stroke="#151515" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="573" cy="194" r="31" fill="#ff5c35" stroke="#151515" stroke-width="6"/>
+  <g font-family="Arial, sans-serif" font-weight="800"><text x="111" y="39" fill="#ff5c35" font-size="18" letter-spacing="2">FRAME WITH INTENTION</text><text x="602" y="185" fill="#151515" font-size="20">SUBJECT</text><text x="117" y="487" fill="#3b526b" font-size="18">A line can lead the eye.</text></g>
+</svg>

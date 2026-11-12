@@ -1,0 +1,225 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Portrait Mode vs Regular Photo: Which Gives You More Control?",
+    "slug": "portrait-mode-vs-regular-photo",
+    "primary_category": "phone",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Choose portrait mode for a supported, separable subject; choose regular Photo when edges, motion, context, or reversibility matter more than blur. / 主体易分离且设备支持时用人像模式；边缘、运动、环境或可回退性更重要时选普通模式。",
+    "seo_title": "Portrait Mode vs Regular Photo: Which Gives You More Control?",
+    "meta_description": "Choose portrait mode for a supported, separable subject; choose regular Photo when edges, motion, context, or reversibility matter more than blur. / 主体易分离且设备支持时用人像模式；边缘、运动、环境或可回退性更重要时选普通模式。",
+    "target_reader": "A phone user deciding whether to use portrait mode. / 不确定是否使用人像模式的手机用户。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 1050,
+      "max": 1350,
+      "reason": "Approved Batch 03 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A comparison because the reader needs a scene-based choice between two capture modes.",
+    "direct_answer_contract": "Give the conditional choice first, then compare four criteria.",
+    "unique_reader_deliverable": "A scene-to-mode selection matrix.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "A concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Choose portrait mode for a supported, separable subject; choose regular Photo when edges, motion, context, or reversibility matter more than blur. / 主体易分离且设备支持时用人像模式；边缘、运动、环境或可回退性更重要时选普通模式。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Article-specific sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "decision": "Choose portrait or regular Photo mode by scene conditions.",
+      "options": [
+        "Portrait mode",
+        "Regular Photo mode"
+      ],
+      "matched_criteria": [
+        "Subject separation",
+        "Edge complexity",
+        "Movement",
+        "Editing flexibility"
+      ],
+      "verification_date": "2026-11-10",
+      "decision_matrix": "Each row names a scene, a starting mode, a reason, and a visible check."
+    }
+  },
+  "body_markdown": "Portrait mode is not simply “regular photo with more blur.” It asks the phone to create a depth-of-field effect and separate a subject from its background. Regular Photo mode records the scene without making that portrait effect the main promise. The better choice depends on the scene you need to keep readable.\n\nUse portrait mode when the phone supports the subject, the edges are reasonably clear, the subject is not moving too much, and background separation is genuinely useful. Use regular Photo when the scene has complex edges, important context, motion, or a background that should remain natural. The choice is about control, not status.\n\n## What portrait mode adds\n\nGoogle Camera documents Portrait as a mode for focusing on a subject and blurring the background. Apple describes Portrait mode as creating a depth-of-field effect that keeps the subject sharp while blurring foreground and background; supported iPhones can also adjust or remove the effect later. These are device-specific examples, not universal behavior for every phone.\n\nThe effect can make a person, pet, or object stand out from a simple background. It can also become visually distracting when the cutout around hair, glasses, fingers, branches, or thin objects is difficult for the phone to interpret. The blur may look attractive at first glance while an edge error becomes visible when you inspect it.\n\n## What regular Photo mode preserves\n\nRegular Photo mode is often the clearer starting point when the whole scene matters. A person standing beside a doorway may need the doorway as context. A still object with a complicated outline may be easier to inspect without a computational boundary. A moving subject may be easier to follow when the phone is not trying to build a portrait separation at the same time.\n\nThis does not mean regular Photo always produces a sharper or more natural file. It means the mode makes a different promise. You are asking the camera to record the scene rather than to create a specific background effect.\n\n## The four-criterion matrix\n\n| Scene question | Start with Portrait when… | Start with Regular Photo when… | Check |\n|---|---|---|---|\n| Is the subject easy to separate? | The outline is clear and the background is simple | Hair, mesh, branches, or overlapping objects complicate the edge | Look around the subject’s contour |\n| Does movement matter? | The subject can stay relatively still | The subject or camera will move during capture | Inspect hands, feet, and background |\n| Does context matter? | The background is mainly distraction | The location explains the photograph | Compare whether the background remains useful |\n| Will you edit later? | The device documents adjustable depth or lighting | You want a neutral original to compare and crop | Check available device editing controls |\n\nThe matrix is a starting decision, not a test score. A phone may offer a portrait effect in regular Photo mode, or allow the effect to be added later. Follow the current device documentation for the exact model.\n\n## Three scene comparisons\n\n**A person with a complex edge.** Imagine a person wearing a hat beside a leafy plant. Make a regular Photo frame first. If Portrait mode is available, make a second frame and inspect the hat brim, hair, fingers, and leaves. Choose the mode whose edge treatment remains believable and whose background supports the intended subject.\n\n**A static object.** A mug or small product on a table may suit Portrait mode when the background is distracting and the outline is simple. If the label, handle, and front edge all need to remain readable, regular Photo may be easier to judge. The useful check is the object’s complete edge, not only the blur behind it.\n\n**A moving subject.** A person walking or a dog turning its head can change position while the phone captures. Regular Photo is often the safer comparison when motion is central, but the current phone’s focus and motion features still matter. If the phone documents a portrait mode for moving subjects, test it against regular Photo rather than assuming the result.\n\n## Edge complexity is a real choice criterion\n\nComputational portrait effects work from the phone’s interpretation of subject and background. Complex edges are therefore a visual check for the reader, while Apple’s documentation also shows that portrait effects and depth adjustments are available only on supported models and under supported conditions such as subject distance and light. Google’s Pixel help likewise labels Portrait mode and blur tools as device-specific.\n\nThat makes edge inspection more useful than the preview thumbnail. Zoom into hair, glasses, fingers, plant leaves, and the boundary between a bright shirt and a bright wall. If the edge looks artificial, switch to regular Photo or reduce the effect when the device allows it.\n\n## Keep the choice reversible when possible\n\nSome devices let you adjust depth or remove a portrait effect after capture. Apple documents changing depth of field and turning Portrait off on supported photos. Other phones may not preserve the same flexibility. Save a copy or keep the regular frame when the scene matters and the effect is experimental.\n\nThe safest workflow is to compare the original-looking frame with the portrait-treated frame at the same size. Ask: Is the subject easier to find? Are the edges believable? Does the background still explain the scene? If the answer is unclear, regular Photo is a useful baseline.\n\nPortrait mode is a tool for a particular visual relationship, not a default upgrade. Choose it when separation is supported by the subject and device. Choose regular Photo when context, motion, complex edges, or a neutral original matter more.\n\nIf your phone offers a portrait effect from a regular Photo capture, treat that as a documented device feature rather than a general rule. Check whether the original remains available, whether depth can be adjusted, and whether the effect can be removed. If the answers are unclear, keep the regular frame as the baseline and compare any stylized version against it.\n\nThe same scene can also deserve two different choices for two different uses. A profile image may benefit from separation, while a record of a place may need the full background. Decide where the photograph will be used before treating blur as the goal.\n\nWhen the phone warns that the subject is too close, too far away, or the scene is too dark, treat that warning as part of the mode’s limits. Move the subject or switch modes only when the change still serves the intended photograph.",
+  "claims": [
+    {
+      "id": "PHO-03-C1",
+      "statement": "Portrait mode is designed to create a depth-of-field or background-blur effect on supported devices.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "https://support.apple.com/en-ca/guide/iphone/iphd7d3a91a2/27/ios/27",
+        "https://support.apple.com/en-ie/guide/iphone/iph310a9a220/27/ios/27"
+      ],
+      "body_section": "What portrait mode adds",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-03-C2",
+      "statement": "Portrait-mode availability, eligible subjects, and controls vary by device or model.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "https://support.apple.com/en-ca/guide/iphone/iphd7d3a91a2/27/ios/27",
+        "https://support.apple.com/en-ie/guide/iphone/iph310a9a220/27/ios/27"
+      ],
+      "body_section": "Device limits",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-03-C3",
+      "statement": "Portrait-mode guidance makes subject distance and light part of supported conditions, while complex edges remain a visual check for the reader.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "https://support.apple.com/en-ca/guide/iphone/iphd7d3a91a2/27/ios/27",
+        "https://support.apple.com/en-ie/guide/iphone/iph310a9a220/27/ios/27"
+      ],
+      "body_section": "Four-criterion matrix",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-03-C4",
+      "statement": "Regular Photo mode is a safer starting comparison when the full scene or natural background matters more than a portrait effect.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "https://support.apple.com/en-ca/guide/iphone/iphd7d3a91a2/27/ios/27",
+        "https://support.apple.com/en-ie/guide/iphone/iph310a9a220/27/ios/27",
+        "https://support.google.com/pixelcamera/answer/14106982?hl=en"
+      ],
+      "body_section": "When regular Photo is safer",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How to take a photo on Camera from Google",
+      "url": "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+      "publisher": "Google Camera Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-03-C1",
+        "PHO-03-C2",
+        "PHO-03-C3",
+        "PHO-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Take portraits with your iPhone camera",
+      "url": "https://support.apple.com/en-ca/guide/iphone/iphd7d3a91a2/27/ios/27",
+      "publisher": "Apple Support",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-03-C1",
+        "PHO-03-C2",
+        "PHO-03-C3",
+        "PHO-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.apple.com/en-ca/guide/iphone/iphd7d3a91a2/27/ios/27",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Edit Portrait mode photos on iPhone",
+      "url": "https://support.apple.com/en-ie/guide/iphone/iph310a9a220/27/ios/27",
+      "publisher": "Apple Support",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-03-C1",
+        "PHO-03-C2",
+        "PHO-03-C3",
+        "PHO-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.apple.com/en-ie/guide/iphone/iph310a9a220/27/ios/27",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Take high quality photos on your Pixel phone or tablet",
+      "url": "https://support.google.com/pixelcamera/answer/14106982?hl=en",
+      "publisher": "Google Pixel Camera Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/pixelcamera/answer/14106982?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1090,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Phone Focus and Exposure Lock: Stop the Camera from Changing Its Mind",
+    "slug": "phone-focus-exposure-lock",
+    "primary_category": "phone",
+    "style": "guide",
+    "language": "en",
+    "summary": "Lock focus/exposure where supported and verify the result. / 在支持的设备上锁定并验证结果。",
+    "seo_title": "Phone Focus and Exposure Lock: Stop the Camera from Changing Its Mind",
+    "meta_description": "Lock focus/exposure where supported and verify the result. / 在支持的设备上锁定并验证结果。",
+    "target_reader": "A phone user whose brightness or focus shifts between frames. / 每张照片亮度或焦点都变化的手机用户。",
+    "search_intent": "Perform a phone-camera control / 完成手机相机操作",
+    "planned_word_range": {
+      "min": 950,
+      "max": 1250,
+      "reason": "Approved article design range for the reader task."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "Focus and exposure lock are concrete phone actions with device-version caveats. / 对焦和曝光锁是具体手机操作，但需标注版本差异。",
+    "direct_answer_contract": "Opening answer: tap the subject, adjust brightness, lock if supported; then show version caveat. / 开头直接给操作，再说明版本差异。",
+    "unique_reader_deliverable": "A device-agnostic control checklist plus labeled examples. / 不绑定设备的操作检查表和标注示例。",
+    "required_concrete_specifics": [
+      "Bright window scene",
+      "Subject tap",
+      "Lock verification"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Tap focus",
+      "Exposure slider",
+      "Lock concepts",
+      "Version differences"
+    ],
+    "scope_excluded": [
+      "Specific model ranking",
+      "Third-party camera apps",
+      "Guaranteed tracking"
+    ],
+    "related_article_boundaries": "Keep the article on control stability, not general phone photography. / 只讲控制稳定性，不泛讲手机摄影。"
+  },
+  "style_contract": {
+    "reader_outcome": "Lock focus/exposure where supported and verify the result. / 在支持的设备上锁定并验证结果。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Worked example",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Lock focus/exposure where supported and verify the result. / 在支持的设备上锁定并验证结果。",
+      "prerequisites": [
+        "A phone or beginner camera when supported"
+      ],
+      "verification_method": "Use the article-specific observable check.",
+      "escalation_boundary": "Consult current device documentation for unsupported controls or repeated hardware faults.",
+      "worked_example": "Window scene; Document on table"
+    }
+  },
+  "body_markdown": "Phone cameras are designed to make many decisions automatically. That is convenient until the scene contains a bright window, a dark subject, a reflective document, or a subject that moves slightly between frames. The phone may change focus or brightness because it is responding to a different part of the scene than the one you care about.\n\nThe general solution is simple: identify the subject, tap where you want focus, adjust exposure if the phone provides the control, and use the device’s lock behavior when it is supported. The exact labels vary by model and operating system, so the principle matters more than memorizing one brand’s button path.\n\n## Start with the subject\n\nBefore tapping the screen, decide what needs to remain readable. It might be a person’s face, a printed line on a page, or an object against a bright background. If the phone chooses a different area, the camera can produce a technically exposed frame that still fails your purpose.\n\nFor a bright-window scene, the window may be the strongest visual signal. For a document, a reflective patch may be brighter than the printed text. For a person, a background face or high-contrast edge may attract the automatic system. Naming the subject gives you a reason for moving the focus and exposure controls.\n\n## Tap to move focus\n\nOn supported phones, tapping the subject moves the focus target. Apple’s current iPhone guide describes tapping a subject to show a focus frame, and it separates focus from exposure controls on supported models. Android phones and other systems use different labels, but the underlying action is similar: tell the camera which part of the scene matters.\n\nAfter tapping, inspect the live preview rather than assuming the focus is correct. Look at the edge or detail that must be readable. For a face, check the eyes or the feature that carries the expression. For a document, check a line of text near the center and another near the edge. If the phone cannot hold the subject within its focus behavior, change the scene or use a supported focus option rather than repeatedly tapping at random.\n\n## Adjust exposure separately\n\nFocus and brightness are related in the final image, but they are not the same decision. A phone may focus on a dark subject and still expose the overall frame for a bright background, or it may brighten the subject so much that the background loses detail.\n\nOnce the focus target is set, use the exposure control if your phone provides one. Move it only far enough to make the subject readable. Then check the brightest area and the darkest area that matter. The aim is not to make every part of the scene equally bright. It is to choose which information must survive.\n\nApple’s support documentation describes an exposure control that can be adjusted and locked for upcoming photos on supported iPhones. It also notes that menus and available controls depend on the model and camera mode. Treat any device-specific instructions as version-sensitive, and check the current manufacturer guide if the control is missing.\n\n## Lock when the scene needs consistency\n\nLocking is useful when you want several frames to share the same focus and brightness. This might happen when you are comparing a composition, photographing a document, or waiting for a person to move into a chosen position.\n\nThe lock is not a guarantee that every later frame will be correct. It freezes a decision so the camera does not reinterpret the scene between shots. You still need to verify the subject and adjust when the distance, light, or purpose changes.\n\nA useful sequence is:\n\n1. Place the subject where you want it.\n2. Tap the subject to set focus.\n3. Adjust exposure toward the subject’s important detail.\n4. Activate the phone’s focus/exposure lock if available.\n5. Recompose carefully and take the frame.\n6. Review the result at the detail that matters.\n\nDo not assume that a lock remains active forever. Some devices release it when you close the camera, change modes, or reopen the app. The current device guide is the source of truth for those details.\n\n## A bright-window example\n\nImagine a person standing beside a window. If the phone exposes for the window, the face may become too dark. If it exposes for the face, the window may become very bright. Start by tapping the face, then move the exposure control until the face is readable without ignoring the brightest area.\n\nIf the person moves only slightly, a lock can help maintain consistency across several frames. If the person moves toward or away from the phone, a locked focus distance may become wrong. In that case, release the lock and refocus, or use a supported tracking mode. A lock is useful for a stable relationship, not a substitute for changing focus distance.\n\n## A document example\n\nFor a document, tap a line of text rather than a blank margin or reflective highlight. Keep the phone parallel to the page, adjust brightness only enough to preserve the text, and check all four edges. If the phone keeps changing exposure because of glare, move the light or the document before forcing the slider further.\n\nAvoid photographing sensitive documents for examples that will be published. Blur or redact personal information, and remember that a readable image can reveal more than the person taking it intended.\n\n## When the control is missing\n\nSome phones expose focus and exposure lock directly; others offer only a tap target or a temporary adjustment. Some camera modes disable particular controls. If the option is missing, do not infer that the phone is defective. Check the current support page for the exact model, switch to a mode that supports the needed control, or simplify the scene so the automatic system has fewer competing signals.\n\nThe useful habit is not memorizing one interface. It is separating three decisions: where focus belongs, how bright the subject should be, and whether those choices need to remain stable for the next frame.",
+  "claims": [
+    {
+      "id": "PHO-01-C1",
+      "statement": "Phones commonly separate focus and exposure controls.",
+      "source_urls": [
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://support.google.com/photos/answer/9940184?hl=en"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-01-C2",
+      "statement": "Tapping a subject changes the focus target on supported phones.",
+      "source_urls": [
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://support.google.com/photos/answer/9940184?hl=en"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-01-C3",
+      "statement": "Lock behavior varies by device and version.",
+      "source_urls": [
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://support.google.com/photos/answer/9940184?hl=en"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-01-C4",
+      "statement": "The live frame should be checked after changing focus or exposure.",
+      "source_urls": [
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://support.google.com/photos/answer/9940184?hl=en"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Use iPhone camera tools to set up your shot",
+      "url": "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+      "publisher": "Use iPhone camera tools to set up your shot",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Photography for beginners: master the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "A Basic Look at the Basics of Exposure",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Edit a photo or video on your Pixel phone or tablet",
+      "url": "https://support.google.com/photos/answer/9940184?hl=en",
+      "publisher": "Edit a photo or video on your Pixel phone or tablet",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/9940184?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 996,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Aperture Priority vs Shutter Priority: Which Should a Beginner Use?",
+    "slug": "aperture-priority-vs-shutter-priority",
+    "primary_category": "exposure",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Choose a mode for a static, moving, or depth-of-field priority. / 为静态、运动或景深目标选择模式。",
+    "seo_title": "Aperture Priority vs Shutter Priority: Which Should a Beginner Use?",
+    "meta_description": "Choose a mode for a static, moving, or depth-of-field priority. / 为静态、运动或景深目标选择模式。",
+    "target_reader": "A beginner ready to leave full auto but not manual mode. / 想离开全自动、还不准备手动的新手。",
+    "search_intent": "Choose between two camera modes / 在两种相机模式间做选择",
+    "planned_word_range": {
+      "min": 1200,
+      "max": 1500,
+      "reason": "Approved Batch 05 scope and article-specific structure justify this range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A matched comparison helps readers choose a priority mode by subject and goal. / 对照比较帮助读者按主体和目标选择优先模式。",
+    "direct_answer_contract": "Conditional answer first: aperture for depth of field, shutter for motion; then explain exceptions. / 先给条件答案：景深选光圈，运动选快门，再解释例外。",
+    "unique_reader_deliverable": "A matched decision matrix with three worked scenarios. / 统一标准决策矩阵及三个场景。",
+    "required_concrete_specifics": [
+      "Static portrait",
+      "Moving subject",
+      "Low-light scene"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Aperture priority",
+      "Shutter priority",
+      "Auto ISO interaction",
+      "Exposure compensation"
+    ],
+    "scope_excluded": [
+      "Brand menu names",
+      "Product rankings",
+      "Hands-on claims"
+    ],
+    "related_article_boundaries": "The comparison owns mode choice; EXP-01 owns the underlying triangle. / 本文负责模式选择，EXP-01 负责底层三角关系。"
+  },
+  "style_contract": {
+    "reader_outcome": "Choose a mode for a static, moving, or depth-of-field priority. / 为静态、运动或景深目标选择模式。",
+    "distinctive_structure": [
+      "Conditional answer",
+      "Matched criteria",
+      "Three scenarios",
+      "Verification rule"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Source-specific semantic match",
+      "Reverify before prose when retrieval is partial"
+    ],
+    "failure_conditions": [
+      "Unsupported universal prescription",
+      "Invented first-person result",
+      "Missing observable check or decision boundary"
+    ],
+    "style_specific": {
+      "decision": "Choose the priority mode by the visual variable that must remain predictable. / 按需保护的视觉变量选择优先模式。",
+      "options": [
+        "Aperture Priority / 光圈优先",
+        "Shutter Priority / 快门优先"
+      ],
+      "matched_criteria": [
+        "Protected variable",
+        "Failure signal",
+        "Low-light cost",
+        "Verification"
+      ],
+      "verification_date": "2026-11-10",
+      "decision_matrix": "Each row names a scene, starting mode, protected variable, and check."
+    }
+  },
+  "body_markdown": "Choose Aperture Priority when the look of the sharp area matters most: a portrait with a softer background, a still subject with controlled depth of field, or a scene where you want to keep an aperture choice while the light changes. Choose Shutter Priority when the rendering of movement matters most: freezing a moving person, showing a blur, or keeping a chosen shutter time while the camera matches the aperture. If neither variable is the clear priority, start with the mode that protects the mistake you are most likely to make and check the other setting before shooting.\n\nThe names vary by camera. Aperture Priority may appear as A or Av; Shutter Priority may appear as S or Tv. The label is less important than the protected variable.\n\n## The decision matrix\n\n| Scene or goal | Starting mode | Variable you protect | Main failure to check |\n| --- | --- | --- | --- |\n| Static portrait or object | Aperture Priority | Aperture and depth of field | The camera chooses a shutter speed that is too slow for a sharp frame |\n| Moving person, bicycle, or water | Shutter Priority | Shutter speed and motion rendering | The camera reaches an aperture limit or the frame becomes too dark |\n| Low light with a moving subject | Shutter Priority, with Auto ISO if supported | Minimum useful shutter speed | Noise, underexposure, or device-specific ISO behavior |\n| Scene with no dominant visual priority | Either, then review | The decision you can explain | You change settings without checking the result |\n\nThe table is a starting rule, not a universal winner. UQ’s beginner guide describes Aperture Priority as a way to control depth of field for relatively stationary subjects and Shutter Priority as a way to freeze or blur movement. Nikon’s exposure guidance likewise treats aperture, shutter speed, and ISO as connected decisions.\n\n## What Aperture Priority protects\n\nIn Aperture Priority, you choose the f-stop and the camera selects a matching shutter speed for the exposure. The practical reason to choose it is visual: aperture changes how much of the scene appears acceptably sharp and can change the relationship between a subject and its background.\n\nFor a static portrait, start by deciding how much of the face or object must be sharp. Then look at the shutter speed the camera has selected. If it is slow enough for hand movement or subject movement to show, the mode has protected the depth-of-field choice but created a stability problem. Raise ISO, add available light, support the camera, or choose a different aperture if the resulting frame does not meet the purpose.\n\nThis is why “Aperture Priority is for portraits” is too narrow. It can also help with a still life, a landscape where a chosen depth of field matters, or a document-like subject where you want to keep the page readable from edge to edge. The check is always the same: inspect the important sharp area and the shutter speed that made it possible.\n\n## What Shutter Priority protects\n\nIn Shutter Priority, you choose the shutter speed and the camera selects a matching aperture. The practical reason to choose it is motion: you decide whether a moving edge should look more frozen, partly blurred, or deliberately stretched through the frame.\n\nFor a person walking across a room, choose a faster shutter direction when the hands or feet must remain readable. For water or a moving object where the path itself is part of the picture, a slower direction may be the point. The camera still has to find an aperture that can produce the exposure. If it reaches the end of its range, the frame can become too bright or too dark even though the chosen shutter speed was intentional.\n\nThe failure check is therefore visible and simple: inspect the moving detail, then inspect the exposure warning or overall brightness. A shutter choice that renders the right motion but loses the subject in darkness is not finished.\n\n## Low light: protect motion first, then inspect the cost\n\nLow light makes the comparison less tidy because the camera needs enough light for the chosen shutter and aperture. Suppose a person is moving near a dim window. Shutter Priority lets you protect a speed that gives the person a chance of looking sharp. If Auto ISO is available, the camera may use ISO as another automatic variable; exact behavior depends on the camera, so check its current manual rather than assuming every model responds the same way.\n\nThe cost may be visible noise, a wider aperture than you wanted, or an exposure limit. Review the face, hands, and shadow areas at the size where the picture will be used. If the result is too dark, decide whether more available light, a wider aperture, a slower subject, or a different visual intention solves the problem better than simply changing modes.\n\n## Exposure compensation is the correction layer\n\nPriority mode does not mean the camera’s first meter reading is the final creative decision. When the subject is much darker or brighter than its background, exposure compensation can bias the camera’s result in modes that support it. A bright-window portrait may need a brighter bias so the face is readable; a pale object on a dark background may need a darker bias to keep important highlights from washing out.\n\nTreat compensation as a correction after identifying the protected variable. In Aperture Priority, keep the chosen depth-of-field goal visible while checking shutter speed and brightness. In Shutter Priority, keep the chosen motion goal visible while checking aperture limits and brightness. Move the compensation control only far enough to solve the subject problem, then review the brightest important area and the darkest required detail.\n\n## Three matched scenarios\n\n### Static portrait\n\nThe person is still, and the background should be less distracting. Start with Aperture Priority because depth of field is the leading decision. Check the selected shutter speed and the eyes or other critical detail. If the frame is soft from camera movement, support the camera, add light, raise ISO, or choose a different aperture.\n\n### Moving subject\n\nThe subject crosses a fixed point, and the hands should not become an accidental blur. Start with Shutter Priority because motion rendering is the leading decision. Check the selected aperture, the exposure warning, and the moving edge. If the subject is still blurred, the chosen speed may be too slow for that movement or the camera may have moved as well.\n\n### Low-light scene\n\nThe subject moves in a dim room and the background matters. Start by protecting the minimum useful shutter speed, then observe what the camera does with aperture and ISO. If the result is noisy but readable, it may be more useful than a cleaner frame with unintended motion blur. If the face is dark against a bright window, add a small compensation change and check the face and the brightest background area again.\n\n## A mode choice you can explain\n\nBefore pressing the shutter, complete this sentence: “I am choosing ___ because I need ___ to remain predictable, and I will check ___ after the frame.”\n\n- Aperture Priority because depth of field must remain predictable; check shutter speed and the required sharp area.\n- Shutter Priority because motion rendering must remain predictable; check aperture, brightness, and the moving detail.\n\nIf you cannot name the protected variable, use a simpler mode for the scene or make one test frame before committing to a series. The better beginner mode is the one that makes the intended result and the next verification step clear.",
+  "claims": [
+    {
+      "id": "EXP-05-C1",
+      "statement": "Aperture Priority lets the photographer choose aperture while the camera selects matching exposure settings, making it useful when depth of field is the protected variable.",
+      "source_urls": [
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-05-C2",
+      "statement": "Shutter Priority lets the photographer choose shutter speed while the camera selects matching exposure settings, making it useful when motion rendering is the protected variable.",
+      "source_urls": [
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-05-C3",
+      "statement": "The useful comparison is the visual variable protected and the failure signal to inspect, not a universal mode winner.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-05-C4",
+      "statement": "Auto ISO and exposure compensation can change how a priority mode behaves, so exact support and limits must be checked for the camera.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-auto-iso",
+        "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-05-C3",
+        "EXP-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "The exposure triangle: aperture, ISO and shutter speed",
+      "url": "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+      "publisher": "MPB",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "specialist",
+      "supports": [
+        "EXP-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Camera settings 101: Getting to know the basics",
+      "url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+      "publisher": "University of Queensland Student Employability Centre",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "EXP-05-C1",
+        "EXP-05-C2",
+        "EXP-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Nikon School: Shooting Action",
+      "url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+      "publisher": "Nikon School",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-05-C1",
+        "EXP-05-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Understanding Auto ISO",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-auto-iso",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-auto-iso",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "The Nikon Guide to Digital Photography",
+      "url": "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 7,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1230,
+    "validated_at": "2026-11-10",
+    "result": "revision-007_preflight_pending"
+  }
+}

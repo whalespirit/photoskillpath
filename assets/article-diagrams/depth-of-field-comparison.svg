@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+  <title id="title">Depth of field comparison</title>
+  <desc id="desc">Two diagrams compare a shallow depth of field, with only the focused book sharp, to a deeper depth of field, with nearby and distant objects also sharp.</desc>
+  <defs>
+    <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+    <linearGradient id="leftBg" x1="0" x2="1"><stop stop-color="#f6f0e8"/><stop offset="1" stop-color="#eee7ff"/></linearGradient>
+    <linearGradient id="rightBg" x1="0" x2="1"><stop stop-color="#edf7ef"/><stop offset="1" stop-color="#f8f1dd"/></linearGradient>
+  </defs>
+  <rect width="1000" height="600" fill="#fbfbfa"/>
+  <rect x="42" y="42" width="440" height="516" rx="18" fill="url(#leftBg)" stroke="#d7cce9" stroke-width="2"/>
+  <rect x="518" y="42" width="440" height="516" rx="18" fill="url(#rightBg)" stroke="#cfe1d3" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="82" y="91" fill="#564477" font-size="17" font-weight="700" letter-spacing="2">WIDER APERTURE</text>
+    <text x="82" y="125" fill="#17151d" font-size="27" font-weight="800">Shallow sharp range</text>
+    <text x="558" y="91" fill="#35684a" font-size="17" font-weight="700" letter-spacing="2">NARROWER APERTURE</text>
+    <text x="558" y="125" fill="#17151d" font-size="27" font-weight="800">Deeper sharp range</text>
+  </g>
+  <g stroke="#9e9aa5" stroke-width="3">
+    <path d="M74 422H450"/><path d="M550 422H926"/>
+  </g>
+  <g filter="url(#soft)" opacity=".6">
+    <rect x="106" y="297" width="102" height="118" rx="8" fill="#5d7fa5"/>
+    <rect x="294" y="228" width="96" height="187" rx="46" fill="#7ca37a"/>
+    <path d="M312 262c-50-35-34-83 10-71 26 8 34 40 1 68M368 262c50-35 34-83-10-71-26 8-34 40-1 68" fill="#6d9670"/>
+  </g>
+  <g>
+    <rect x="211" y="255" width="110" height="160" rx="6" fill="#f05c43"/>
+    <rect x="221" y="267" width="90" height="136" rx="2" fill="#ffd78a"/>
+    <path d="M238 298h57M238 320h45M238 342h54" stroke="#b2493d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M266 220v32" stroke="#2347f5" stroke-width="4" stroke-dasharray="7 7"/>
+    <circle cx="266" cy="218" r="7" fill="#2347f5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="157" y="461" fill="#6b6871" font-size="15" font-weight="700">NEAR: SOFT</text>
+    <text x="266" y="493" fill="#2347f5" font-size="16" font-weight="800">FOCUS DISTANCE</text>
+    <text x="342" y="461" fill="#6b6871" font-size="15" font-weight="700">FAR: SOFT</text>
+  </g>
+  <g>
+    <rect x="582" y="297" width="102" height="118" rx="8" fill="#5d7fa5"/>
+    <rect x="687" y="255" width="110" height="160" rx="6" fill="#f05c43"/>
+    <rect x="697" y="267" width="90" height="136" rx="2" fill="#ffd78a"/>
+    <path d="M714 298h57M714 320h45M714 342h54" stroke="#b2493d" stroke-width="5" stroke-linecap="round"/>
+    <rect x="820" y="228" width="96" height="187" rx="46" fill="#7ca37a"/>
+    <path d="M838 262c-50-35-34-83 10-71 26 8 34 40 1 68M894 262c50-35 34-83-10-71-26 8-34 40-1 68" fill="#6d9670"/>
+    <path d="M742 220v32" stroke="#2347f5" stroke-width="4" stroke-dasharray="7 7"/>
+    <circle cx="742" cy="218" r="7" fill="#2347f5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="633" y="461" fill="#35684a" font-size="15" font-weight="800">NEAR: SHARP</text>
+    <text x="742" y="493" fill="#2347f5" font-size="16" font-weight="800">FOCUS DISTANCE</text>
+    <text x="868" y="461" fill="#35684a" font-size="15" font-weight="800">FAR: SHARP</text>
+    <text x="500" y="526" fill="#4d5964" font-size="15" font-weight="700">Focus stays on the same target; aperture changes</text>
+    <text x="500" y="547" fill="#4d5964" font-size="15" font-weight="700">how much around it reads as sharp.</text>
+  </g>
+</svg>

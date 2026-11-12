@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Photo Skill Path mark</title>
+  <desc id="desc">A viewfinder frame with a focus point and an exposure indicator.</desc>
+  <g fill="none" stroke="#151515" stroke-linecap="square" stroke-width="3.5">
+    <path d="M17 7H8v9M31 7h9v9M40 32v9h-9M17 41H8v-9"/>
+  </g>
+  <path fill="#2347F5" d="M21 17h10v3H21z"/>
+  <circle cx="24" cy="27" r="4.5" fill="#FF5C35"/>
+  <path fill="#151515" d="M20.5 27h7v1.5h-7zM23.25 23.5h1.5v7h-1.5z"/>
+</svg>

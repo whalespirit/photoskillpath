@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Depth of Field Without the Jargon: What Will Be Sharp?",
+    "slug": "depth-of-field-what-will-be-sharp",
+    "primary_category": "focus",
+    "style": "guide",
+    "language": "en",
+    "summary": "Predict the useful sharp range by starting with the focus plane, subject distance, and aperture—not a formula. / 从焦平面、主体距离和光圈预测可用清晰范围，而不是先背公式。",
+    "seo_title": "Depth of Field Without the Jargon: What Will Be Sharp?",
+    "meta_description": "Predict the useful sharp range by starting with the focus plane, subject distance, and aperture—not a formula. / 从焦平面、主体距离和光圈预测可用清晰范围，而不是先背公式。",
+    "target_reader": "A beginner who gets one part of a scene sharp but not the rest. / 只拍清楚场景一部分的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 950,
+      "max": 1250,
+      "reason": "Approved Batch 03 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A guide because readers need a mental model and a practical check for sharpness.",
+    "direct_answer_contract": "Open with a near/far object example and the practical consequence.",
+    "unique_reader_deliverable": "A two-distance setup diagram and inspection checklist.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "A concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Predict the useful sharp range by starting with the focus plane, subject distance, and aperture—not a formula. / 从焦平面、主体距离和光圈预测可用清晰范围，而不是先背公式。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Article-specific sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Place the subject and choose an aperture with a realistic sharpness expectation.",
+      "prerequisites": [
+        "Two objects at different distances"
+      ],
+      "verification_method": "Inspect the intended near and far details at the same zoom level.",
+      "escalation_boundary": "Use current device documentation when depth effects are computational.",
+      "worked_example": "Two objects on a table with a background sign"
+    }
+  },
+  "body_markdown": "Depth of field sounds technical because it is often introduced with formulas. For a beginner, a simpler question is more useful: after the camera focuses on one distance, how much of the scene around that distance will look acceptably sharp?\n\nImagine two objects on a table: a mug close to the camera and a label several inches behind it. Focus on the mug. The focus plane is centered on that distance, but the label may or may not look sharp enough depending on aperture, distance, and how large the objects are in the frame. That visible range is the practical meaning of depth of field.\n\n## Start with the focus plane\n\nAutofocus or manual focus chooses a distance. It does not make every object in the scene equally sharp. The focus plane can be thought of as an invisible slice running through the subject. Details near that slice are more likely to appear sharp; details farther away may become softer.\n\nNikon defines depth of field as the zone of acceptable sharpness in front of and behind the focused subject. “Acceptable” matters. A background may be technically rendered but still look soft at the size you view the image. A tiny focus error may matter more when the subject is close or the aperture is wide.\n\nBefore changing a setting, identify the detail that must be sharp. It might be a person’s nearer eye, a product label, or the front edge of a flower. This prevents the vague goal of “make everything sharp” from replacing the actual subject.\n\n## Aperture changes the width of the useful range\n\nA wider aperture, represented by a lower f-number, generally creates a shallower depth of field. A narrower aperture, represented by a higher f-number, generally creates a deeper depth of field. Nikon’s aperture guides show this relationship directly and recommend checking a test frame when an intermediate amount of sharpness is needed.\n\nThe choice is a trade-off. A wider aperture can help separate a subject from the background, but it can also leave only part of a deep subject sharp. A narrower aperture can keep more of the scene within the useful range, but it lets in less light and may require another exposure adjustment.\n\nThis is why the answer is not “always use the widest aperture.” The right starting point depends on what must remain readable.\n\n## Distance changes the problem too\n\nMove the camera closer to a subject and the subject occupies more of the frame. Move the subject farther from the background and the background relationship changes. These distance decisions can make separation more or less visible even when the aperture stays the same.\n\nSuppose a mug is close to a wall. A wider aperture may soften the wall, but the wall can remain recognizable because it is near the mug. Move the mug farther from the wall and the same aperture may produce a more obvious separation. If the mug itself has depth, however, the front and back may not both stay sharp.\n\nThe lesson is not to memorize a blur recipe. It is to treat aperture and distance as connected parts of the scene geometry.\n\n## A two-distance setup\n\nPlace one object near the camera and another farther away. Keep the camera position fixed while making three comparisons:\n\n1. Focus on the near object with the widest available aperture.\n2. Focus on the near object with a narrower aperture.\n3. Move the far object farther back and repeat one of the settings.\n\nInspect the near object, the far object, and the background edge at the same zoom. Write down which detail stayed sharp and which detail softened. If the result is hard to see, choose objects with printed text or strong edges rather than smooth surfaces.\n\nThis is a learning comparison, not a promise that every camera or phone will show the same amount of blur. Phones may use fixed apertures or computational depth controls, so the menu and visual effect depend on the device.\n\n## What to do when too little is sharp\n\nIf only part of the subject is sharp and more depth is needed, try a narrower aperture or simplify the subject’s depth. If the background is too distracting, increase subject-background distance or choose a wider aperture when the important detail can still fit inside the sharp range.\n\nIf the frame is too dark after narrowing the aperture, check whether a slower shutter is safe for a stationary scene or whether ISO needs to rise. If the subject is moving, protect the shutter speed first and accept that depth of field may need a different compromise.\n\nDo not use sharpening in an editor as proof that the original depth of field was sufficient. Sharpening can emphasize edges; it cannot make an out-of-focus detail contain the same information as a focused one.\n\n## The inspection checklist\n\nAfter each frame, answer four questions:\n\n- Where did the camera focus?\n- Which detail had to be sharp?\n- Did the useful sharp range include that detail?\n- What changed when aperture or distance changed?\n\nIf you cannot answer the first question, make the focus point more deliberate before changing aperture. If the answer is clear but the range is too shallow, change aperture or the subject’s geometry. If the background is the issue, change its distance or the composition before assuming the lens is the problem.\n\nDepth of field is not a mysterious property that appears after you learn the right formula. It is a visible relationship between the focus plane, aperture, distance, and the detail you want the viewer to read.\n\nIf the camera offers a focus-point choice, place it on the detail that matters instead of allowing a busy background to choose for you. If the device offers only a simpler tap-to-focus workflow, make the same decision with the tap. Focus placement comes before judging how much depth the aperture can provide.",
+  "claims": [
+    {
+      "id": "FOC-03-C1",
+      "statement": "Depth of field is the range around the focus distance that appears acceptably sharp.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/what-is-aperture",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "The focus plane",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-03-C2",
+      "statement": "A wider aperture generally produces shallower depth of field, while a narrower aperture generally produces deeper depth of field.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/what-is-aperture",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "Aperture interaction",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-03-C3",
+      "statement": "Subject distance and background distance affect how much separation is visible.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/what-is-aperture",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "Distance changes the problem",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-03-C4",
+      "statement": "A test frame and close inspection are more reliable than assuming the whole scene is sharp.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/what-is-aperture",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Verification",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "What Is Aperture?",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/what-is-aperture",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-03-C1",
+        "FOC-03-C2",
+        "FOC-03-C3",
+        "FOC-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/what-is-aperture",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Understanding Maximum Aperture",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-03-C1",
+        "FOC-03-C2",
+        "FOC-03-C3",
+        "FOC-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-03-C1",
+        "FOC-03-C2",
+        "FOC-03-C3",
+        "FOC-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photographic guide for field researchers",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "FOC-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 984,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Why Phone Night Photos Look Soft—and What to Change First",
+    "slug": "phone-night-photos-soft",
+    "primary_category": "phone",
+    "style": "guide",
+    "language": "en",
+    "summary": "Diagnose soft night photos by separating camera movement, subject movement, focus, and low-light processing before changing everything. / 先区分相机抖动、主体移动、对焦与低光处理。",
+    "seo_title": "Why Phone Night Photos Look Soft—and What to Change First",
+    "meta_description": "Diagnose soft night photos by separating camera movement, subject movement, focus, and low-light processing before changing everything. / 先区分相机抖动、主体移动、对焦与低光处理。",
+    "target_reader": "A phone photographer whose evening photos look blurry or mushy. / 手机夜景照片模糊、发糊的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1300,
+      "reason": "Approved Batch 02 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A troubleshooting guide because the reader needs a diagnosis order and an observable check.",
+    "direct_answer_contract": "Keep the phone still, use the device’s documented low-light mode when available, check focus, and then test whether subject movement—not camera movement—is the remaining cause.",
+    "unique_reader_deliverable": "A four-step night-photo diagnosis path.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "At least one concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Diagnose soft night photos by separating camera movement, subject movement, focus, and low-light processing before changing everything. / 先区分相机抖动、主体移动、对焦与低光处理。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Find the first likely cause of a soft night photo and test one change at a time.",
+      "prerequisites": [
+        "A phone camera with its normal night or low-light options"
+      ],
+      "verification_method": "Compare a supported low-light mode, a steadier hold, and a focus check in the same scene.",
+      "escalation_boundary": "Follow the current device support page when mode names, availability, or hardware behavior differ.",
+      "worked_example": "A static street scene and a person moving under a streetlight"
+    }
+  },
+  "body_markdown": "A soft night photo usually has more than one possible cause. The phone may have moved while it captured a longer low-light exposure. The subject may have moved. Focus may have landed on the background. The phone may also have combined several frames and reduced fine detail while trying to brighten the scene.\n\nThe fastest diagnosis is to change one condition at a time: stabilize the phone, use the device’s documented night mode if it offers one, check focus, and then test whether the subject is moving. Do not begin by applying sharpening or changing every camera option. A brighter file is not automatically a sharper file.\n\n## Start with the phone, not the edit\n\nGoogle Camera’s Night Sight guidance says that supported devices need to remain still while the mode captures the scene. Pixel support guidance also identifies low light as a common reason for dark, grainy, or blurry results and recommends checking stability and trying the device’s documented low-light options. Availability and names vary by phone, so use the current support page for your model.\n\nFor the first test, brace the phone against a firm surface or hold it with both hands and keep your elbows close to your body. Do not press the shutter with a large sideways motion. Make one frame with the phone supported and one with your usual handhold. If the supported frame is noticeably clearer in the lights and edges, camera movement was part of the problem.\n\nThis test does not prove that the phone needs a tripod for every night photo. It simply isolates stability before you start changing color, exposure, or sharpness controls.\n\n## Use a documented low-light mode when it fits\n\nOn supported phones, a Night Sight or night mode can combine information captured over time to produce a brighter low-light image. The phone may show a countdown or ask you to keep still until capture is nearly complete. Follow the on-screen instruction rather than moving as soon as the shutter sound occurs.\n\nNight mode is a good starting point for a static street, building, or landscape scene. It is not a guarantee for a moving person. If the person changes position during the capture, the result can contain ghosting or a soft outline even when the phone itself stayed still.\n\nMake two frames of the same static scene: one with the normal camera view and one with the supported low-light mode. Compare small lights, brick edges, and the darkest readable area. The goal is to see whether the mode improves the scene without inventing detail that was not present.\n\n## Check focus before blaming sharpness\n\nIn a dark scene, the brightest or highest-contrast object may attract autofocus even when it is not the subject. Tap the intended subject or detail. On supported Google Camera devices, pressing and holding can lock focus and exposure; other apps use different gestures. The current phone documentation is the authority.\n\nImagine a person standing beneath a streetlight with a bright sign behind them. If the sign is sharp but the face is soft, the phone may have selected the sign as the focus target. Tap the face or the nearest clear edge, then repeat the frame. If the face is still soft while the sign remains sharp, move closer, add light, or simplify the background before reaching for an edit.\n\nFocus lock is useful only when the subject stays near the same distance. If the person steps forward, the locked distance may become wrong. Release the lock and refocus, or use the app’s subject-tracking option if the device documents one.\n\n## Separate camera movement from subject movement\n\nCamera movement usually softens edges across much of the frame or creates directional streaks around lights. Subject movement creates a soft or doubled subject while nearby stationary objects remain clearer. These patterns are clues, not laboratory tests, but they help choose the next action.\n\nIf the entire street scene is soft, stabilize the phone first. If the building edges are clear but a walking person is blurred, the phone may have been stable and the person moved during capture. A supported phone cannot make a moving person hold still.\n\nFor a moving subject at night, add light if possible, shorten the time the subject needs to stay still, or time the frame for a pause. The available controls depend on the phone. Do not promise that night mode, flash, or a manual shutter will behave the same way on every model.\n\n## A four-step diagnosis path\n\nUse this order for one scene:\n\n1. **Stabilize:** make a frame with the phone braced or held more securely.\n2. **Select the documented low-light mode:** use Night Sight or the equivalent only if the device supports it, and keep still for the full capture.\n3. **Check focus:** tap the intended subject; use focus lock only when the distance will remain stable.\n4. **Inspect movement:** compare a static detail with the subject. Decide whether the remaining softness follows the whole frame or only the moving subject.\n\nWrite down the result after each frame. “Braced phone improved the building but not the person” is a useful diagnosis. “Changed three settings and the result looks different” is not.\n\n## A worked streetlight example\n\nSuppose a person is standing beside a shop sign. The first frame is dark and soft. Make a second frame with the phone supported and the low-light mode enabled. If the sign and face both improve, stability and processing were likely involved. If the sign improves but the face remains soft, tap the face and repeat. If the face is sharp when the person pauses but blurred when they move, subject movement is the remaining issue.\n\nAt that point, editing can improve tone or contrast, but it cannot recreate a missing sharp edge. Adobe’s deblur guidance is useful for understanding the limits of post-processing: edits can sometimes reduce the appearance of blur, but they do not replace a clear original capture.\n\n## When to stop troubleshooting\n\nIf every scene is soft in bright and dark light, clean the lens, check whether the issue appears in other camera apps, and consult the device manufacturer’s current support guidance. If only one low-light mode behaves oddly, record the exact mode, scene, and result before looking for an update or support answer.\n\nThe goal is not to make every night photo perfectly crisp. The goal is to identify the cause that you can actually change: steadier capture for camera movement, a better focus target for focus errors, more light or a pause for subject movement, and realistic expectations for computational processing.",
+  "claims": [
+    {
+      "id": "PHO-02-C1",
+      "statement": "Night or low-light modes are device-specific and may require the phone to remain still while the camera captures a longer computational exposure.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/10071957?hl=en",
+        "https://support.google.com/pixelcamera/answer/18623896?hl=en",
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en"
+      ],
+      "body_section": "Low-light mode",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-02-C2",
+      "statement": "Low light can produce dark, grainy, or blurry images, and manufacturer support guidance recommends testing stability, flash, or Night Sight where supported.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/10071957?hl=en",
+        "https://support.google.com/pixelcamera/answer/18623896?hl=en",
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en"
+      ],
+      "body_section": "Low-light symptoms",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-02-C3",
+      "statement": "Focus and exposure can be locked on supported camera apps by pressing and holding the intended area.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/10071957?hl=en",
+        "https://support.google.com/pixelcamera/answer/18623896?hl=en",
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en"
+      ],
+      "body_section": "Focus check",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-02-C4",
+      "statement": "Camera movement and subject movement create different blur patterns and need different first responses.",
+      "source_urls": [
+        "https://support.google.com/camerafromgoogle/answer/10071957?hl=en",
+        "https://support.google.com/pixelcamera/answer/18623896?hl=en",
+        "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "https://www.adobe.com/creativecloud/photography/hub/guides/how-to-deblur-image.html"
+      ],
+      "body_section": "Diagnosis order",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Take low light photos with Night Sight",
+      "url": "https://support.google.com/camerafromgoogle/answer/10071957?hl=en",
+      "publisher": "Google Camera Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-02-C1",
+        "PHO-02-C2",
+        "PHO-02-C3",
+        "PHO-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/camerafromgoogle/answer/10071957?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Take high quality photos on your Pixel phone or tablet",
+      "url": "https://support.google.com/pixelcamera/answer/18623896?hl=en",
+      "publisher": "Google Pixel Camera Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-02-C1",
+        "PHO-02-C2",
+        "PHO-02-C3",
+        "PHO-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/pixelcamera/answer/18623896?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Lock focus and exposure",
+      "url": "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+      "publisher": "Google Camera Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-02-C1",
+        "PHO-02-C2",
+        "PHO-02-C3",
+        "PHO-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/camerafromgoogle/answer/9722810?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "How to deblur an image",
+      "url": "https://www.adobe.com/creativecloud/photography/hub/guides/how-to-deblur-image.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PHO-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/hub/guides/how-to-deblur-image.html",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1096,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Camera Shake or Missed Focus? A Beginner's Blur Diagnosis",
+    "slug": "camera-shake-or-missed-focus",
+    "primary_category": "focus",
+    "style": "guide",
+    "language": "en",
+    "summary": "Name the likely cause and choose one next adjustment. / 说出可能原因并选择一个下一步调整。",
+    "seo_title": "Camera Shake or Missed Focus? A Beginner's Blur Diagnosis",
+    "meta_description": "Name the likely cause and choose one next adjustment. / 说出可能原因并选择一个下一步调整。",
+    "target_reader": "A beginner who deletes blurry photos without knowing why. / 只会删除模糊照片、不知道原因的新手。",
+    "search_intent": "Troubleshoot blurry photos / 排查模糊照片",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1300,
+      "reason": "Approved article design range for the reader task."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "The core reader job is diagnosis: identify which kind of blur occurred. / 核心任务是诊断模糊类型。",
+    "direct_answer_contract": "Open with a three-column diagnosis table. / 开头给出三列诊断表。",
+    "unique_reader_deliverable": "A completed blur-diagnosis example. / 已填写模糊诊断示例。",
+    "required_concrete_specifics": [
+      "Edge direction",
+      "Static subject",
+      "Moving subject"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Camera shake",
+      "Subject movement",
+      "Missed focus",
+      "Inspection clues"
+    ],
+    "scope_excluded": [
+      "Lens defects",
+      "Sensor cleaning",
+      "Professional repair"
+    ],
+    "related_article_boundaries": "Owns diagnosis, not a generic sharpness checklist. / 负责诊断，不写泛化清晰度清单。"
+  },
+  "style_contract": {
+    "reader_outcome": "Name the likely cause and choose one next adjustment. / 说出可能原因并选择一个下一步调整。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Worked example",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Name the likely cause and choose one next adjustment. / 说出可能原因并选择一个下一步调整。",
+      "prerequisites": [
+        "A phone or beginner camera when supported"
+      ],
+      "verification_method": "Use the article-specific observable check.",
+      "escalation_boundary": "Consult current device documentation for unsupported controls or repeated hardware faults.",
+      "worked_example": "Static object handheld; Walking subject"
+    }
+  },
+  "body_markdown": "“Blurry” is not one problem. A photo can be soft because the camera moved, the subject moved, the focus landed on the wrong plane, or the file was changed during editing. The useful first step is diagnosis, not buying a sharper lens or raising every setting.\n\nThis guide uses visual clues to separate three common capture problems: camera shake, subject movement, and missed focus. The checks are deliberately simple and reversible. They are not a laboratory lens test, and they cannot prove that hardware is perfect. They can, however, tell you which next adjustment is worth trying.\n\n## Start with the blur pattern\n\nLook at a high-contrast edge in the image: a printed letter, a table edge, or the outline of a face. Then ask three questions:\n\n1. **Do edges smear in one direction?** This often points toward movement during the exposure, especially when the whole scene shows a similar direction of smear.\n2. **Is one part of the scene sharp while the intended subject is soft?** The camera may have focused on another plane.\n3. **Was the subject moving?** A sharp background does not rule out subject movement; the subject may have changed position while the exposure was open.\n\nThese clues are not absolute diagnoses. They are a way to choose the next controlled check.\n\n## Camera shake: the frame moved\n\nCamera shake happens when the camera changes position during the exposure. It is most noticeable when the shutter speed is slow, the lens is long, or the camera is held away from the body. The practical symptom is often a general softness across the frame, sometimes with a directional smear.\n\nTo check for camera shake, use a static subject and support the camera. A table, shelf, or stable support is enough for a basic check. Keep the framing the same and make one new exposure with a faster shutter speed if the camera allows it. If the supported or faster frame becomes clearer while the subject remains unchanged, movement was a plausible contributor.\n\nDo not treat this as a promise that a particular shutter speed works for every camera. Stabilization, focal length, grip, and image size all change the result. The useful observation is the difference between two controlled frames.\n\n## Subject movement: the scene stayed still, but the subject did not\n\nSubject movement can look like a focus failure because the background may remain sharp. Imagine photographing a person walking across a room. The wall may be clear while the person's hands, feet, or face show directional blur. The camera may have focused correctly at the start, but the subject changed position before the exposure finished.\n\nUse a simple comparison: photograph a static object in the same light, then photograph a moving subject. If the static object is clear but the moving subject is soft, the next question is shutter speed and subject movement—not whether the lens can focus.\n\nThe intended result matters. If the goal is a crisp step, use a faster shutter direction and inspect the moving edges. If the goal is to show movement, blur can be the correct result. A blurry photo is not automatically a failed photo; it is a failed photo only when the blur conflicts with the stated intention.\n\n## Missed focus: a different plane is sharp\n\nMissed focus occurs when the sharpest part of the image is not the intended subject. In a simple scene, you may see a nearby edge, background sign, or other object rendered more clearly than the face or object you meant to emphasize.\n\nCheck the focus plane before changing the exposure. Zooming in can help you compare the intended subject with nearby high-contrast objects, but do not judge sharpness only at extreme enlargement. The final viewing size matters too.\n\nFor the next frame, make the focus target more deliberate. Place the focus area over the subject you need to read, keep the subject within the useful depth of field, and avoid changing several controls at the same time. If the subject is moving toward or away from the camera, the relevant focus behavior may also change; a single-focus setting and a continuous-focus setting do not make the same timing decision.\n\n## A controlled five-minute check\n\nUse one static target with a clear edge. Keep the light and framing as constant as possible.\n\n1. Make one ordinary handheld frame.\n2. Make a second frame with the camera supported.\n3. Make a third frame with a more deliberate focus target.\n4. If the subject will move in real use, make a separate moving-subject frame.\n5. Compare the same edge or facial feature in each frame.\n\nRecord what changed. If only support changed and the result improved, camera movement deserves attention. If only the focus target changed and the intended plane improved, focus placement was likely part of the problem. If the static frame is clear but the moving frame is not, subject movement and shutter speed become the next investigation.\n\nThis sequence is more informative than taking twenty random frames. It changes one cause at a time and gives each result a question.\n\n## When more than one cause is present\n\nReal scenes can contain overlapping problems. A person may move while the camera is also handheld, and the focus target may be uncertain at the same time. Do not force the frame into one category too early. Start with the most controllable condition: use a static subject, support the camera, and make the focus target deliberate. Once that frame is understandable, reintroduce movement.\n\nThis order matters because a moving test subject can hide a focus improvement, while an unstable camera can make a correct focus decision look soft. A controlled baseline is not meant to imitate the final photograph. It is a reference that lets you interpret the final photograph more honestly.\n\n## When to stop troubleshooting\n\nStop the home diagnosis when the problem remains repeatable under controlled conditions, appears across different subjects and distances, or is accompanied by a mechanical error. At that point, consult the current camera or lens documentation or an appropriate service provider. Do not open or modify equipment based on a web tutorial.\n\nThe goal is not to prove that a lens is perfect. The goal is to avoid blaming the lens when the real issue was movement or focus choice—and to recognize when a repeatable hardware problem deserves proper support.",
+  "claims": [
+    {
+      "id": "FOC-01-C1",
+      "statement": "Blur causes have different visual clues.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://nikonschool.co.uk/hints-and-tips/your-nikon-school-guide-to-improving-your-photography/pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-01-C2",
+      "statement": "Shutter speed interacts with camera movement.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://nikonschool.co.uk/hints-and-tips/your-nikon-school-guide-to-improving-your-photography/pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-01-C3",
+      "statement": "Focus choice matters when the wrong plane is sharp.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://nikonschool.co.uk/hints-and-tips/your-nikon-school-guide-to-improving-your-photography/pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-01-C4",
+      "statement": "A repeatable unresolved fault may justify support.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://nikonschool.co.uk/hints-and-tips/your-nikon-school-guide-to-improving-your-photography/pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Photography for beginners: master the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "FOC-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "A Basic Look at the Basics of Exposure",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "FOC-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Camera settings 101: Getting to know the basics",
+      "url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+      "publisher": "Camera settings 101: Getting to know the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "institutional",
+      "supports": [
+        "FOC-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Your Nikon School guide to improving your photography",
+      "url": "https://nikonschool.co.uk/hints-and-tips/your-nikon-school-guide-to-improving-your-photography/pdf",
+      "publisher": "Your Nikon School guide to improving your photography",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "FOC-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://nikonschool.co.uk/hints-and-tips/your-nikon-school-guide-to-improving-your-photography/pdf",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1056,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

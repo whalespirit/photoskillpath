@@ -1,0 +1,233 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "5 Sharpness Checks to Try Before Blaming the Lens",
+    "slug": "sharpness-checks-before-blaming-lens",
+    "primary_category": "focus",
+    "style": "roundup",
+    "language": "en",
+    "summary": "Complete the checks and know when a hardware review is justified. / 完成检查并知道何时需要硬件检修。",
+    "seo_title": "5 Sharpness Checks to Try Before Blaming the Lens",
+    "meta_description": "Complete the checks and know when a hardware review is justified. / 完成检查并知道何时需要硬件检修。",
+    "target_reader": "A beginner worried that a lens or camera is defective. / 担心器材故障的新手。",
+    "search_intent": "Run a short diagnostic checklist / 执行短诊断清单",
+    "planned_word_range": {
+      "min": 900,
+      "max": 1200,
+      "reason": "Approved Batch 05 scope and article-specific structure justify this range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A transparent shortlist of five sharpness checks helps readers diagnose before changing gear. / 五种清晰度检查组成透明的诊断清单。",
+    "direct_answer_contract": "Start with the five-check shortlist and the stop condition. / 先给五项清单和停止条件。",
+    "unique_reader_deliverable": "A completed diagnostic path, not a blank checklist. / 已完成的诊断路径，而非空白清单。",
+    "required_concrete_specifics": [
+      "One static target",
+      "One repeat condition",
+      "Escalation boundary"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Stable support",
+      "Focus confirmation",
+      "Static subject",
+      "Different shutter speed",
+      "Repeatability"
+    ],
+    "scope_excluded": [
+      "Lab resolution charts",
+      "Repair instructions",
+      "Lens ranking"
+    ],
+    "related_article_boundaries": "This is a diagnostic roundup; do not become a generic troubleshooting rewrite. / 本文是诊断清单，不做泛化故障重写。"
+  },
+  "style_contract": {
+    "reader_outcome": "Complete the checks and know when a hardware review is justified. / 完成检查并知道何时需要硬件检修。",
+    "distinctive_structure": [
+      "Shortlist",
+      "Five checks",
+      "Completed path",
+      "Escalation boundary"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Source-specific semantic match",
+      "Reverify before prose when retrieval is partial"
+    ],
+    "failure_conditions": [
+      "Unsupported universal prescription",
+      "Invented first-person result",
+      "Missing observable check or decision boundary"
+    ],
+    "style_specific": {
+      "selection_rule": "Five low-cost, repeatable, reversible checks before gear escalation. / 器材升级前的五项低成本、可重复、可逆检查。",
+      "selection_method": "Each check isolates a different cause and names a stop signal. / 每项隔离一种原因并给出停止信号。",
+      "exclusion_rules": "Exclude lab resolution charts, repair instructions, and lens rankings. / 排除实验室分辨率图、维修指令和镜头排名。",
+      "item_evidence_rule": "Each check needs a visible comparison and a source-backed boundary. / 每项检查都要有可见对比与来源边界。",
+      "commercial_disclosure": "No affiliate links, sponsorship, or product selection. / 无联盟、赞助或产品选择。"
+    }
+  },
+  "body_markdown": "Before replacing a lens or assuming a camera is defective, run five low-cost checks: stabilize the camera, use a static target, confirm the focus point, change the shutter-speed direction, and repeat the frame under the same conditions. Stop when one cause explains the softness. Escalate to a qualified repair or support channel only when the blur remains repeatable after the setup is controlled.\n\nThese checks are not a laboratory resolution test. They are a short diagnostic path for separating camera movement, subject movement, missed focus, and inconsistent conditions.\n\n## The five-check shortlist\n\n| Check | What it isolates | What to compare | Stop signal |\n| --- | --- | --- | --- |\n| 1. Stabilize the camera | Camera movement | Supported frame versus handheld frame | Background edge becomes clearer when support is added |\n| 2. Use a static target | Subject movement | Same detailed target in repeated frames | Softness remains with the subject fully still |\n| 3. Confirm the focus point | Missed focus | Intended detail versus the plane that is sharp | A different plane is sharp, or the focus target was elsewhere |\n| 4. Change shutter direction | Exposure-time blur | Faster and slower test frames | Blur changes with shutter speed |\n| 5. Repeat the setup | Random or repeatable fault | Same target, distance, light, and focus method | Softness repeats under controlled conditions |\n\nStart with the first check that is easiest to control. Do not change the lens, focus mode, sharpening settings, and lighting at the same time; that makes the result harder to interpret.\n\n## 1. Stabilize the camera\n\nChoose a detailed, non-moving target such as printed text on a box, a book cover, or a textured object. Make one frame handheld, then make another with the camera supported on a stable surface or held with a more deliberate grip. Keep the framing and focus target as similar as possible.\n\nCompare a straight edge or small letter in the background and the subject detail. If the supported frame is clearer, the first suspect is camera movement rather than the lens. A sharper result after support does not prove the lens is perfect; it tells you which condition to control before changing equipment.\n\n## 2. Use a static target\n\nA moving person, leaf, curtain, or pet can make a sharp lens look soft because the subject changed during the exposure. Replace the moving subject with a target that stays still. Use the same distance for every frame and avoid a surface that vibrates when touched.\n\nIf the softness disappears on the static target, return to the original scene and check subject movement separately. A faster shutter or a different timing method may solve that problem. If the static target remains soft, continue to the focus check instead of drawing a gear conclusion.\n\n## 3. Confirm where focus landed\n\nTap or select the intended focus point when the camera provides that control. Use a target with details at slightly different distances: a book edge in front of a wall, for example. Review the exact plane that should be sharp, not just the overall impression of the frame.\n\nIf a background edge is sharp while the selected subject is soft, the camera may have focused on the wrong plane. If the centre is sharp but the edge is soft, the camera may be too close, the subject may not be parallel to the sensor, or the lens may have a depth-of-field limitation. Do not call this a lens defect until the focus target and subject geometry are controlled.\n\nThe UK government photo guide lists focus, brightness, a clearly visible subject, and freedom from distracting information as qualities that make a photo usable. That is a useful review order: identify the intended detail before judging the equipment.\n\n## 4. Change the shutter-speed direction\n\nKeep the static target and focus point the same while making one faster-shutter test. If the frame becomes clearer when the exposure time is shorter, movement was part of the softness. If the target remains equally soft, the cause may be focus, distance, optics, or a processing setting.\n\nDo not treat a faster shutter as a universal cure. It can make a dim frame darker, and it may force the camera to change aperture or ISO. Record those changes so you know which variable moved. The purpose of this check is diagnosis, not to find a magic shutter number.\n\n## 5. Repeat the setup\n\nNow repeat the clearest controlled version: same target, same distance, same light, same support, same focus method, and a short sequence of frames. Compare the same detail in every frame at the same viewing size. If only one frame is soft, timing, vibration, or a temporary focus miss may explain it. If every controlled frame is soft in the same way, the result is more useful for a support or repair conversation.\n\nWrite down the setup rather than relying on memory. Include the target, distance, support, focus point, shutter direction, and whether the file was resized or heavily edited. A repeatable description gives a technician something actionable and prevents a vague “the lens is blurry” report.\n\n## A completed diagnostic path\n\nSuppose a beginner thinks a lens is defective because an indoor portrait looks soft. The five checks might produce this sequence:\n\n1. A supported frame of a book is clearer than the handheld frame: camera movement is present.\n2. A static target is clear at the same distance: subject movement contributed to the portrait softness.\n3. A focus-point test shows the background edge is sharp: the focus target missed the face.\n4. A faster shutter improves the moving hand: exposure time was part of the remaining blur.\n5. Repeated supported frames of the static target are consistent: there is no current reason to treat the lens as the first suspect.\n\nThis result does not certify the equipment. It tells the reader which conditions to fix before spending money or requesting repair.\n\n## When to stop and escalate\n\nStop the self-check when the softness has a repeatable explanation, such as camera movement, subject movement, or a missed focus target. If the controlled static target remains consistently soft across distances and focus methods, preserve the original files and record the setup. Then contact the camera or lens maker, a qualified service centre, or a knowledgeable retailer for a hardware-specific assessment.\n\nDo not open the lens or adjust internal components from a beginner checklist. A short controlled test is useful because it narrows the question; it is not a substitute for repair expertise or a lab chart.",
+  "claims": [
+    {
+      "id": "FOC-05-C1",
+      "statement": "Stabilizing the camera and comparing a supported frame with a handheld frame can reveal whether camera movement contributes to softness.",
+      "source_urls": [
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-05-C2",
+      "statement": "A static target and a confirmed focus point help separate subject movement from a missed focus plane.",
+      "source_urls": [
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-05-C3",
+      "statement": "A faster shutter direction can reduce movement blur, but it can also change the exposure trade-off and is not a universal sharpness fix.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-05-C4",
+      "statement": "Repeatability under the same target, distance, light, support, and focus method is a more useful escalation signal than one soft frame.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Camera settings 101: Getting to know the basics",
+      "url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+      "publisher": "University of Queensland Student Employability Centre",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "FOC-05-C1",
+        "FOC-05-C2",
+        "FOC-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Nikon School: Shooting Action",
+      "url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+      "publisher": "Nikon School",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-05-C1",
+        "FOC-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [
+        "FOC-05-C1",
+        "FOC-05-C2",
+        "FOC-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 5,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1060,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

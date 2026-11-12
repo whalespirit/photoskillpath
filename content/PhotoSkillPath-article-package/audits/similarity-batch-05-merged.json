@@ -1,0 +1,22 @@
+{
+  "batch": "Batch 05 merged",
+  "method": "8-word shingle overlap and exact H2/H3 overlap",
+  "threshold_note": "No pair crosses a material duplication threshold.",
+  "pairs": [
+    {"pair":"EXP-05 vs EXP-06","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-05 vs FOC-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-05 vs COM-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-05 vs PHO-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-05 vs EDI-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-06 vs FOC-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-06 vs COM-05","shared_8_word_shingles":1,"jaccard":0.0004,"exact_heading_overlap":[],"shared_examples":["is part of the story if it is"]},
+    {"pair":"EXP-06 vs PHO-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"EXP-06 vs EDI-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"FOC-05 vs COM-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"FOC-05 vs PHO-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"FOC-05 vs EDI-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"COM-05 vs PHO-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"COM-05 vs EDI-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]},
+    {"pair":"PHO-05 vs EDI-05","shared_8_word_shingles":0,"jaccard":0,"exact_heading_overlap":[]}
+  ]
+}

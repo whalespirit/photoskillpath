@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Focus plane diagram</title><desc id="desc">A selected subject is sharp while foreground and background become softer farther from the focus plane.</desc>
+  <rect width="900" height="520" fill="#eef3f8"/>
+  <path d="M60 418h780" stroke="#9aacbd" stroke-width="3"/>
+  <g opacity=".35" fill="#7e96ad"><circle cx="176" cy="278" r="87"/><circle cx="714" cy="278" r="87"/></g>
+  <path d="M450 95v316" stroke="#2347f5" stroke-width="4" stroke-dasharray="9 10"/>
+  <circle cx="450" cy="260" r="101" fill="#f7f8f8" stroke="#2347f5" stroke-width="7"/>
+  <circle cx="450" cy="260" r="58" fill="#ff5c35"/><circle cx="450" cy="260" r="21" fill="#151515"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle"><text x="450" y="54" fill="#151515" font-size="19" font-weight="800" letter-spacing="2">FOCUS PLANE</text><text x="450" y="470" fill="#2347f5" font-size="20" font-weight="800">SHARP SUBJECT</text><text x="176" y="405" fill="#5e6670" font-size="18">softer foreground</text><text x="714" y="405" fill="#5e6670" font-size="18">softer background</text></g>
+</svg>

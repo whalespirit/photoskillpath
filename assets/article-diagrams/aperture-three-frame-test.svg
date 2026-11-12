@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 600" role="img" aria-labelledby="title desc">
+  <title id="title">Aperture comparison from wide to narrow</title>
+  <desc id="desc">Three panels compare f 2.8, f 5.6, and f 11. The lens opening gets smaller, less light passes through, and more background detail becomes readable.</desc>
+  <defs>
+    <filter id="blurStrong"><feGaussianBlur stdDeviation="8"/></filter>
+    <filter id="blurSoft"><feGaussianBlur stdDeviation="3"/></filter>
+    <linearGradient id="warm" x1="0" x2="1"><stop stop-color="#fff0db"/><stop offset="1" stop-color="#f4d8c5"/></linearGradient>
+    <linearGradient id="mint" x1="0" x2="1"><stop stop-color="#e0f0ed"/><stop offset="1" stop-color="#d2e3e9"/></linearGradient>
+    <linearGradient id="sand" x1="0" x2="1"><stop stop-color="#f8efd7"/><stop offset="1" stop-color="#e9dfb5"/></linearGradient>
+  </defs>
+  <rect width="1080" height="600" fill="#fafaf8"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="54" y="59" fill="#1b2838" font-size="18" font-weight="800" letter-spacing="2">ONE FOCUS POINT · THREE APERTURE TESTS</text>
+    <text x="54" y="91" fill="#61707e" font-size="18">Open the lens for more light and a softer background; close it for more depth.</text>
+  </g>
+  <g stroke="#d7dde1" stroke-width="2">
+    <line x1="360" y1="132" x2="360" y2="545"/><line x1="720" y1="132" x2="720" y2="545"/>
+  </g>
+  <g>
+    <rect x="54" y="132" width="270" height="300" rx="16" fill="url(#warm)"/>
+    <rect x="405" y="132" width="270" height="300" rx="16" fill="url(#mint)"/>
+    <rect x="756" y="132" width="270" height="300" rx="16" fill="url(#sand)"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="189" y="167" fill="#b84f36" font-size="16" font-weight="800" letter-spacing="2">WIDE</text>
+    <text x="189" y="207" fill="#151b21" font-size="34" font-weight="800">f/2.8</text>
+    <text x="540" y="167" fill="#2a6f70" font-size="16" font-weight="800" letter-spacing="2">MIDDLE</text>
+    <text x="540" y="207" fill="#151b21" font-size="34" font-weight="800">f/5.6</text>
+    <text x="891" y="167" fill="#88722c" font-size="16" font-weight="800" letter-spacing="2">NARROW</text>
+    <text x="891" y="207" fill="#151b21" font-size="34" font-weight="800">f/11</text>
+  </g>
+  <g>
+    <circle cx="189" cy="284" r="62" fill="#26313a"/><circle cx="189" cy="284" r="42" fill="#fcfbf8"/>
+    <circle cx="540" cy="284" r="62" fill="#26313a"/><circle cx="540" cy="284" r="25" fill="#fcfbf8"/>
+    <circle cx="891" cy="284" r="62" fill="#26313a"/><circle cx="891" cy="284" r="12" fill="#fcfbf8"/>
+  </g>
+  <g opacity=".72">
+    <g filter="url(#blurStrong)">
+      <path d="M98 382h185M110 360h160M122 338h135" stroke="#50708d" stroke-width="10" stroke-linecap="round"/>
+    </g>
+    <g filter="url(#blurSoft)">
+      <path d="M449 382h185M461 360h160M473 338h135" stroke="#50708d" stroke-width="9" stroke-linecap="round"/>
+    </g>
+    <g>
+      <path d="M800 382h185M812 360h160M824 338h135" stroke="#50708d" stroke-width="8" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="189" y="408" fill="#4e4f52" font-size="14" font-weight="700">BACKGROUND: SOFT</text>
+    <text x="540" y="408" fill="#4e4f52" font-size="14" font-weight="700">BACKGROUND: PARTLY READABLE</text>
+    <text x="891" y="408" fill="#4e4f52" font-size="14" font-weight="700">BACKGROUND: CLEARER</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <path d="M78 478h216" stroke="#b84f36" stroke-width="8" stroke-linecap="round"/>
+    <path d="M429 478h216" stroke="#2a6f70" stroke-width="8" stroke-linecap="round"/>
+    <path d="M780 478h216" stroke="#88722c" stroke-width="8" stroke-linecap="round"/>
+    <text x="189" y="510" text-anchor="middle" fill="#b84f36" font-size="16" font-weight="800">MORE LIGHT</text>
+    <text x="540" y="510" text-anchor="middle" fill="#2a6f70" font-size="16" font-weight="800">BALANCED</text>
+    <text x="891" y="510" text-anchor="middle" fill="#88722c" font-size="16" font-weight="800">LESS LIGHT</text>
+    <text x="540" y="567" text-anchor="middle" fill="#526170" font-size="16" font-weight="700">Focus remains on the subject. Aperture changes the sharp range and the brightness trade-off.</text>
+  </g>
+</svg>

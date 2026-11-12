@@ -1,0 +1,262 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "A 7-Day Photography Practice Plan for Absolute Beginners",
+    "slug": "7-day-photography-practice-plan",
+    "primary_category": "practice",
+    "style": "roundup",
+    "language": "en",
+    "summary": "Finish seven small exercises and identify the next skill gap. / 完成七个小练习并找出下一项短板。",
+    "seo_title": "A 7-Day Photography Practice Plan for Absolute Beginners",
+    "meta_description": "Finish seven small exercises and identify the next skill gap. / 完成七个小练习并找出下一项短板。",
+    "target_reader": "A beginner who needs structure more than more theory. / 需要结构而不是更多理论的新手。",
+    "search_intent": "Start a learning sequence / 开始学习序列",
+    "planned_word_range": {
+      "min": 1300,
+      "max": 1700,
+      "reason": "Approved article design range for the reader task."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A transparent seven-day sequence turns established fundamentals into distinct daily tasks. / 七天序列把基础知识转为不同日任务。",
+    "direct_answer_contract": "Open with the seven-day map and equipment minimum. / 先给七天地图和最低设备要求。",
+    "unique_reader_deliverable": "A completed example week with daily success criteria. / 一周已完成示例及每日标准。",
+    "required_concrete_specifics": [
+      "Daily time",
+      "Setup",
+      "Observable result",
+      "Stop rule"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Exposure",
+      "Focus",
+      "Composition",
+      "Light",
+      "Phone adaptation",
+      "Review"
+    ],
+    "scope_excluded": [
+      "Gear buying",
+      "Portfolio critique",
+      "Claims of guaranteed improvement"
+    ],
+    "related_article_boundaries": "The plan owns sequencing; individual pages own the theory and separate exercises. / 计划负责顺序，单篇负责理论和独立练习。"
+  },
+  "style_contract": {
+    "reader_outcome": "Finish seven small exercises and identify the next skill gap. / 完成七个小练习并找出下一项短板。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Worked example",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Finish seven small exercises and identify the next skill gap. / 完成七个小练习并找出下一项短板。",
+      "prerequisites": [
+        "A phone or beginner camera when supported"
+      ],
+      "verification_method": "Use the article-specific observable check.",
+      "escalation_boundary": "Consult current device documentation for unsupported controls or repeated hardware faults.",
+      "worked_example": "Phone-only version; Entry-camera version"
+    }
+  },
+  "body_markdown": "Reading about photography is useful, but it does not automatically teach your eye what to notice. A short practice plan works better when each day isolates one decision and ends with an observable check. This seven-day sequence uses a phone or an entry-level camera and takes about 15–30 minutes per day.\n\nThe plan is not a promise of guaranteed improvement. It is a structured way to create comparable examples. The exposure triangle, composition, focus, light, and editing are related, but separating them for a day makes it easier to identify what changed.\n\n## Before day one: set up a fair practice\n\nChoose one ordinary subject that will remain available for several days: a mug, a chair near a window, a plant, or a willing person. You do not need a special location. Keep a simple note with the date, the device, the main choice you made, and what you observed.\n\nUse the same basic image review habit throughout the week:\n\n- Look at the full frame first.\n- Inspect the detail that mattered for the exercise.\n- Write one sentence about what changed.\n- Do not change three major controls at once.\n\nIf your phone or camera does not expose a named control, use the closest supported option and record that limitation rather than guessing.\n\n## Day 1 — Find the subject\n\nThe first exercise is composition before settings. Make three frames of the same ordinary scene.\n\n1. Take the frame from your first position.\n2. Move left or right to change the background relationship.\n3. Change height or distance to change the amount of context.\n\nFor each frame, write the subject in one short phrase. Then mark the strongest distraction. The check is simple: can another person identify what the frame is about without an explanation?\n\nThis exercise uses the same questions recommended in beginner composition guidance: where the subject sits, what the background does, and what has been included or left out. Do not grade the images by beauty. Grade them by clarity of intention.\n\n## Day 2 — Change one exposure control\n\nUse a scene with a visible light difference, such as a subject near a window or a bright object against a darker background. Make one frame with the camera’s current setting. Then change only one exposure control that your device offers.\n\nIf you can adjust aperture, compare how the sharp area and brightness respond. If you can adjust shutter speed, use a subject with small movement and compare the rendering. If the device exposes ISO, compare how the file behaves when you need more sensitivity.\n\nThe check is not “Which frame is prettier?” It is “What changed because of the one control I touched?” Write down the visible change and the cost. A brighter frame may carry more noise; a sharper moving subject may need a different balance of light.\n\n## Day 3 — Freeze or show movement\n\nChoose a repeatable moving subject: a person walking past a fixed point, a hand moving a cup, or water running from a tap. Make three frames with the same general composition but different shutter-speed directions when your device allows it.\n\nYour three targets are:\n\n- movement that looks mostly frozen,\n- movement that is partly visible,\n- movement that is intentionally blurred.\n\nIf you are using a phone with limited manual control, use available motion or burst controls and record what the phone permits. The check is to name the visual intention of each frame. The exercise is successful when “blur” stops being a single category and becomes a result you can choose or reject.\n\n## Day 4 — Diagnose focus and sharpness\n\nReturn to a static subject with a clear edge. Make one frame handheld, one with the device supported, and one after deliberately placing the focus target on the subject.\n\nCompare the same edge in each frame. Ask whether the whole frame moved, whether a different plane is sharp, or whether the intended subject improved after the focus target changed. Do not crop away the evidence before comparing it.\n\nThe check is a cause statement, not a score: “The supported frame improved,” “the background was sharper than the subject,” or “the focus target changed the result.” If no cause is clear, record that uncertainty and repeat only one part of the check.\n\n## Day 5 — Read one window\n\nUse one window and one subject. Keep the window fixed while changing one relationship at a time: turn the subject, move the subject closer or farther, or change the camera viewpoint.\n\nMake notes about direction, contrast, and background brightness. The purpose is to notice that light is not just “good” or “bad.” A side position may show texture; a front position may reduce contrast; a backlit position may create a bright background that requires an exposure decision.\n\nThe check is a sentence that begins, “The light changed because…” If the sentence cannot name a relationship, make the movement larger and try again.\n\n## Day 6 — Make a restrained edit\n\nChoose one frame from the week. Edit it in four passes: crop, solve the main light problem, make one restrained color decision, and compare with the original. Keep the original file or an undo path available.\n\nWrite down what each adjustment was meant to solve. If a filter does not solve the named problem, leave it out. The check is whether the subject is easier to read without making a new problem at the edges, in the highlights, or in the color.\n\n## Day 7 — Review the week\n\nPlace the exercise notes beside the images. Look for one repeated gap:\n\n- Do you choose the subject late?\n- Do you change settings without naming a result?\n- Do you confuse movement blur with missed focus?\n- Do you notice light only after editing?\n- Do you make more changes than you can explain?\n\nChoose the next practice based on that gap. If exposure choices were unclear, repeat Day 2 with a simpler subject. If focus diagnosis was unclear, repeat Day 4 with support. If composition was unclear, repeat Day 1 and make the viewpoint changes larger.\n\nIf you miss a day, do not restart the entire plan or double the workload. Continue with the next exercise and mark the missing day as an open question. A useful practice sequence is one that reveals what you do not yet understand; it does not need to look perfect on a calendar.\n\nYou can also shorten the plan when time is limited. Keep the same order but make each exercise one controlled comparison: two viewpoints on Day 1, two exposure choices on Day 2, two motion choices on Day 3, and so on. The result will be narrower, but the learning signal can remain clear as long as you record what changed.\n\nFor a phone-only version, use exposure adjustment, focus taps, lock behavior, crop controls, and the original-versus-edit comparison available on the device. For a camera with manual controls, use the named settings only when they serve the day’s question. The device path can differ while the reader outcome stays the same: identify one choice, observe one result, and describe one next step.\n\nKeep the notes short enough that they do not become another project. One sentence per frame is sufficient if it names the choice and the visible result.\n\n## What counts as progress\n\nProgress in a first week is not a sudden supply of perfect photographs. It is a more precise explanation of a result. “It looks bad” is difficult to act on. “The face is readable, but the window is too bright,” or “the background is sharp while the moving hand is blurred,” points toward a next decision.\n\nThat is the purpose of this sequence: turn photography from a collection of mysterious settings into a set of small, observable choices. The phone or camera remains useful because it gives you a way to compare decisions—not because it guarantees a particular look.",
+  "claims": [
+    {
+      "id": "PRA-01-C1",
+      "statement": "Exposure, focus, composition, light, and editing are distinct beginner jobs.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PRA-01-C2",
+      "statement": "Each exercise needs an observable result.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PRA-01-C3",
+      "statement": "Phone and entry-camera paths share principles but differ in controls.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PRA-01-C4",
+      "statement": "Progress is easier to assess against a defined task.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Photography for beginners: master the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PRA-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "A Basic Look at the Basics of Exposure",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PRA-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "5 Easy Composition Guidelines",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+      "publisher": "5 Easy Composition Guidelines",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PRA-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Use iPhone camera tools to set up your shot",
+      "url": "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+      "publisher": "Use iPhone camera tools to set up your shot",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PRA-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.apple.com/en-ie/guide/iphone/iph3dc593597/27/ios/27",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Edit your photos",
+      "url": "https://support.google.com/photos/answer/6128850?hl=en",
+      "publisher": "Edit your photos",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "PRA-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/6128850?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "How to take a good photo: Photo guide",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "government",
+      "supports": [
+        "PRA-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 6,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1300,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

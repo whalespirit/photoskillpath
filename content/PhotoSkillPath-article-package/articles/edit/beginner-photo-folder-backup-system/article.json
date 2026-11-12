@@ -1,0 +1,265 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "A Beginner Photo Folder and Backup System That Stays Findable",
+    "slug": "beginner-photo-folder-backup-system",
+    "primary_category": "edit",
+    "style": "guide",
+    "language": "en",
+    "summary": "Create a small folder, naming, copy, and retrieval system. / 建立简单的文件夹、命名、副本与找回系统。",
+    "seo_title": "A Beginner Photo Folder and Backup System That Stays Findable",
+    "meta_description": "Create a small folder, naming, copy, and retrieval system. / 建立简单的文件夹、命名、副本与找回系统。",
+    "target_reader": "A beginner with photos scattered across phone and computer. / 照片散落在手机和电脑上的新手。",
+    "search_intent": "Build a simple photo workflow / 建立简单照片流程",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1300,
+      "reason": "Approved Batch 05 scope and minimal retrieval workflow."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../site-strategy.json",
+    "evidence_mode": "research_only",
+    "scope_included": "Folder hierarchy, naming, second copy, retrieval test",
+    "scope_excluded": "Cloud-provider comparison, enterprise backup, data-recovery guarantees",
+    "suggested_internal_links": [
+      "EDI-04",
+      "PHO-05",
+      "EDI-01"
+    ]
+  },
+  "style_contract": {
+    "reader_outcome": "Create one month of folders, name one batch, make a second copy, and verify retrieval.",
+    "distinctive_structure": [
+      "Minimal folder tree",
+      "Naming rule",
+      "One-month workflow",
+      "Retrieval test",
+      "Escalation to more redundancy"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Direct backup/folder evidence",
+      "No safety guarantee"
+    ],
+    "failure_conditions": [
+      "Guaranteed data safety",
+      "Provider ranking",
+      "Missing retrieval test"
+    ]
+  },
+  "body_markdown": "Start with one folder system you can explain in a sentence: put each month’s photos in a dated folder, keep the original files separate from selects and exports, use a predictable filename, and make one additional copy somewhere else. Then test retrieval by finding one named photo from the backup. A system is useful when you can locate a file without relying on memory or one app’s search view.\n\nThis is a small, device-agnostic workflow, not a cloud-provider comparison. It works for a month of phone photos, a camera card, or a mixed import. The folders and names create findability; the second copy reduces the chance that one device failure removes the only file.\n\n## The smallest useful folder tree\n\nFor one month, create a structure like this:\n\n```text\nPhotos/\n  2026/\n    2026-11/\n      originals/\n      selects/\n      exports/\n      notes.txt\n```\n\nPut the untouched imports in `originals`. Put the images you may actually share in `selects`. Put resized or destination-specific copies in `exports`. The names are labels, not a requirement to use one particular app. A text file can hold a short note about the month, the device, or a missing date.\n\nThe National Archives recommends organizing selected digital photos into related groups, using descriptive names, and keeping a directory structure that can be explained later. Microsoft Photos also supports folders and search on Windows, which illustrates the practical benefit of keeping files in locations you can browse outside a single editor.\n\n## A filename that survives a moved file\n\nUse a pattern that still makes sense if the image leaves its folder:\n\n```text\n2026-11-10_window-light_001.jpg\n2026-11-10_window-light_002.jpg\n2026-11-10_window-light_select.jpg\n```\n\nThe date sorts naturally, the subject gives context, and the number separates similar frames. Keep the pattern short enough to repeat. Use letters, numbers, hyphens, or underscores rather than spaces and punctuation that may behave differently across systems. Keep the original file extension; changing a name is not the same as converting a file.\n\nIf the exact date is unknown, use the most reliable date you have and record the uncertainty in `notes.txt` rather than inventing a precise day. The Library of Congress describes descriptive naming and keeping metadata with the files as practical ways to make older images identifiable later.\n\n## One-month example: import, select, export\n\nImagine a month of phone photos spread across a camera roll, a downloads folder, and a messaging app. Do not start by renaming every file in the library. Start with one month:\n\n1. Create the dated month folder and its four parts.\n2. Copy the month’s source files into `originals`; do not edit or delete them during sorting.\n3. Choose a small set for `selects` and give the copies meaningful names if the original names are opaque.\n4. Create `exports` only for files prepared for a known purpose, such as a web share or a print order.\n5. Add a short note describing what the folder contains and where the second copy lives.\n\nThis sequence keeps the source file available while you decide what to share. If an app offers “save as copy,” use that for an edited version when you want the original untouched. Google Photos documents this distinction: saving in place changes the working item, while saving as a copy creates a separate edited photo.\n\n## Make the second copy, then verify it\n\nThe minimum practical system has the working folder plus one separate copy. The second copy can be an external drive, a computer folder, or a cloud service, but it should not be treated as complete merely because a switch says “backup.” Google Photos lets users choose device folders for backup and check whether a particular photo has been backed up. That check is more useful than assuming every folder on a phone is included.\n\nFor an irreplaceable archive, the U.S. National Archives recommends a stronger pattern: multiple copies on different media, with one copy kept in another location. That is a preservation target, not a promise that a beginner must build a complex archive on day one. Start with the second copy, then add another location as the collection becomes more important.\n\nDo not confuse synchronization with an independent backup. A synchronized folder may mirror deletions or edits, depending on the service. Before removing a phone copy, open the cloud or external copy and confirm that the file is present, readable, and the version you intend to keep.\n\n## The five-minute retrieval test\n\nAfter organizing one month, test the system with a question you might ask later: “Find the third window-light photo from November.” Use the filename or folder, open the file, and compare it with the copy in the second location.\n\nRecord four results:\n\n- Can you locate the month folder without searching every app?\n- Does the filename identify the subject or event?\n- Can you open the backup copy on a different device or drive?\n- Do you know which file is the original and which is the export?\n\nIf one answer is no, repair that part before importing another month. A retrieval test is a small quality check; it is not a guarantee against hardware failure, account loss, or future format problems.\n\n## Where albums and tags fit\n\nAlbums are useful views for a person, trip, or project, but they do not have to replace folders. Apple Photos, for example, lets users create named albums and organize albums into folders; Google Photos can search and back up selected device folders. These tools can help you browse, while the dated folder and filename remain a portable base layer.\n\nUse one album for a theme that crosses months, such as “window light practice,” and keep the files in their dated folders. That gives you a convenient view without making the theme the only location where the image exists.\n\n## When to add complexity\n\nAdd more structure only after the small system has survived a few retrieval tests. You may then want a separate archive for scans, a version suffix for major edits, or a spreadsheet for a long-running project. Do not begin with a dozen categories, a provider comparison, or a promise of permanent safety. The next useful improvement is the one that makes a real file easier to find or recover.\n\nYour finished system should pass one simple sentence: “I know where the original is, where the shareable copy is, and where the second copy can be opened.” If you cannot say that yet, fix the folder, name, or backup check before adding another month.",
+  "claims": [
+    {
+      "id": "EDI-05-C1",
+      "statement": "Descriptive filenames, dated folders, and metadata make digital photos easier to identify and retrieve after they leave the original app or device.",
+      "source_urls": [
+        "https://www.archives.gov/files/preservation/formats/pdf/preserving-your-digital-memories.pdf",
+        "https://www.archives.gov/files/preservation/formats/pdf/naming-and-organizing-files.pdf",
+        "https://blogs.loc.gov/thesignal/2011/09/remember-when-we-had-photographs/"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-05-C2",
+      "statement": "Separating originals, selects, and exports preserves a source file while allowing destination-specific copies to be edited or shared.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://support.microsoft.com/en-us/windows/apps/photos/manage-photos-and-videos-with-microsoft-photos-app"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-05-C3",
+      "statement": "A backup workflow should identify which folders are included and verify the backup status of an individual photo instead of assuming every phone folder is covered.",
+      "source_urls": [
+        "https://support.google.com/googleone/answer/6193313?hl=en",
+        "https://www.archives.gov/files/preservation/formats/pdf/preserving-your-digital-memories.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-05-C4",
+      "statement": "A retrieval test and a separate copy are practical boundaries for a beginner system; irreplaceable collections may need multiple media and locations rather than a single synchronized copy.",
+      "source_urls": [
+        "https://www.archives.gov/files/preservation/formats/pdf/preserving-your-digital-memories.pdf",
+        "https://www.archives.gov/files/preservation/formats/pdf/naming-and-organizing-files.pdf",
+        "https://www.loc.gov/preservation/about/faqs/reformatting.html",
+        "https://support.microsoft.com/en-us/windows/apps/photos/manage-photos-and-videos-with-microsoft-photos-app"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Preserving Your Digital Memories",
+      "url": "https://www.archives.gov/files/preservation/formats/pdf/preserving-your-digital-memories.pdf",
+      "publisher": "U.S. National Archives",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [
+        "EDI-05-C1",
+        "EDI-05-C3",
+        "EDI-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.archives.gov/files/preservation/formats/pdf/preserving-your-digital-memories.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Best Practices for File Naming and Organizing",
+      "url": "https://www.archives.gov/files/preservation/formats/pdf/naming-and-organizing-files.pdf",
+      "publisher": "U.S. National Archives",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [
+        "EDI-05-C1",
+        "EDI-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.archives.gov/files/preservation/formats/pdf/naming-and-organizing-files.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Back up photos & videos",
+      "url": "https://support.google.com/googleone/answer/6193313?hl=en",
+      "publisher": "Google One Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/googleone/answer/6193313?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Edit your photos",
+      "url": "https://support.google.com/photos/answer/6128850?hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-05-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/6128850?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Manage photos and videos with Microsoft Photos app",
+      "url": "https://support.microsoft.com/en-us/windows/apps/photos/manage-photos-and-videos-with-microsoft-photos-app",
+      "publisher": "Microsoft Support",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-05-C2",
+        "EDI-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.microsoft.com/en-us/windows/apps/photos/manage-photos-and-videos-with-microsoft-photos-app",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Create and work with photo albums on iPhone",
+      "url": "https://support.apple.com/en-lamr/guide/iphone/iphc0fc668ab/27/ios/27",
+      "publisher": "Apple Support",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.apple.com/en-lamr/guide/iphone/iphc0fc668ab/27/ios/27",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "How do I preserve my digital files?",
+      "url": "https://www.loc.gov/preservation/about/faqs/reformatting.html",
+      "publisher": "Library of Congress",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "EDI-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.loc.gov/preservation/about/faqs/reformatting.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Remember When We had Photographs?",
+      "url": "https://blogs.loc.gov/thesignal/2011/09/remember-when-we-had-photographs/",
+      "publisher": "Library of Congress",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "EDI-05-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://blogs.loc.gov/thesignal/2011/09/remember-when-we-had-photographs/",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 8,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1067,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

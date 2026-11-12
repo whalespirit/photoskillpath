@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "The Exposure Triangle for Beginners: What to Change First",
+    "slug": "exposure-triangle-what-to-change-first",
+    "primary_category": "exposure",
+    "style": "guide",
+    "language": "en",
+    "summary": "Choose one first control and predict the visible trade-off. / 选择第一个控制项并预测可见取舍。",
+    "seo_title": "The Exposure Triangle for Beginners: What to Change First",
+    "meta_description": "Choose one first control and predict the visible trade-off. / 选择第一个控制项并预测可见取舍。",
+    "target_reader": "A beginner using auto mode who wants one controllable setting. / 使用自动模式、想先控制一个设置的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 1100,
+      "max": 1350,
+      "reason": "Approved article design range for the reader task."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A task guide because readers need a repeatable exposure decision, not a glossary. / 读者需要可重复的曝光决策，而不是术语表。",
+    "direct_answer_contract": "Give a three-branch decision rule in the opening and verify it with one worked scene. / 开头给出三分支决策规则，并用一个完整场景验证。",
+    "unique_reader_deliverable": "A completed exposure-choice example plus a one-screen decision card. / 已填写曝光选择示例和一页决策卡。",
+    "required_concrete_specifics": [
+      "Three visual goals",
+      "One static scene",
+      "One moving scene",
+      "Observable verification"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Aperture",
+      "Shutter speed",
+      "ISO",
+      "Result-first choices"
+    ],
+    "scope_excluded": [
+      "Brand menus",
+      "Lab noise tests",
+      "Current camera buying advice"
+    ],
+    "related_article_boundaries": "Keep this conceptual; scenario pages must own their specific setting. / 本文负责概念，场景页负责具体设置。"
+  },
+  "style_contract": {
+    "reader_outcome": "Choose one first control and predict the visible trade-off. / 选择第一个控制项并预测可见取舍。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Worked example",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Choose one first control and predict the visible trade-off. / 选择第一个控制项并预测可见取舍。",
+      "prerequisites": [
+        "A phone or beginner camera when supported"
+      ],
+      "verification_method": "Use the article-specific observable check.",
+      "escalation_boundary": "Consult current device documentation for unsupported controls or repeated hardware faults.",
+      "worked_example": "A window-side subject; A walking subject"
+    }
+  },
+  "body_markdown": "When a photo is too dark, too bright, blurry, or visually flat, beginners often change several camera settings at once. That makes it difficult to learn what caused the result. A better starting point is to choose the visual result first, then change the setting most directly connected to that result.\n\nThe exposure triangle has three controls: aperture, shutter speed, and ISO. They work together to determine how much light reaches the sensor and how that light is rendered. Aperture changes the opening in the lens, shutter speed changes how long the sensor receives light, and ISO changes the sensitivity setting used by the camera. Each choice also has a creative or quality trade-off. [Adobe describes these three settings as the exposure triangle](https://www.adobe.com/creativecloud/photography/basics.html), while Nikon explains how aperture, shutter duration, and ISO trade light against appearance and noise.\n\n## Start with the result you want\n\nUse this decision rule before touching a control:\n\n| Main goal | First control to consider | What to watch next |\n|---|---|---|\n| Freeze a moving subject | Shutter speed | Available light and ISO |\n| Show intentional movement | Shutter speed | Camera stability and brightness |\n| Change how much of the scene is sharp | Aperture | Focus placement and exposure |\n| Keep a usable shutter speed in dim light | ISO | Noise, color, and detail |\n\nThis is not a promise that one setting works alone. It is a way to choose the first meaningful change. If you want a runner to look sharp, shutter speed is the clearest first question. If you want a near object sharp while the background softens, aperture and subject distance matter more. If the scene is dark and the subject cannot remain still long enough for a slow shutter, ISO may be the practical compromise.\n\n## What aperture changes\n\nAperture is the opening through which light passes. The confusing part is that a smaller f-number represents a larger opening: f/2.8 is wider than f/8. A wider opening lets in more light and usually makes the depth of field shallower, so less of the scene appears acceptably sharp around the focus plane.\n\nImagine a small object on a table with a wall behind it. At a wider aperture, the object can stand out from the wall, but the camera still needs to focus on the object. If the aperture is narrowed, more depth may appear sharp, but the exposure may become darker unless another control changes. The important beginner decision is not “Which f-number is best?” It is “Do I want to protect background separation or a deeper sharp area?”\n\nThe result also depends on distance. Moving the subject farther from the background can increase separation even when the aperture stays the same. That is why an aperture number cannot predict the entire appearance of a photograph by itself.\n\n## What shutter speed changes\n\nShutter speed controls the length of the exposure. A fast shutter can freeze much of the movement in a passing subject; a slower shutter can show movement as blur. Nikon gives the practical contrast of a very fast speed such as 1/1000 second freezing most action and a slower speed such as 1/30 second allowing a walking person to blur.\n\nThere are two different kinds of movement to consider:\n\n1. **Subject movement:** the person, animal, vehicle, or object changes position while the exposure is happening.\n2. **Camera movement:** the camera changes position because it is being held or moved during the exposure.\n\nThe same shutter-speed change may help one problem and fail to solve the other. A faster speed can reduce subject blur, but it may require more light or a higher ISO. A stable camera can reduce camera movement, but it cannot make a moving subject stand still.\n\nBefore choosing a speed, name the intended result. “I want the person to look sharp” is a different instruction from “I want the movement to be visible.” Both can be correct; they simply ask for different compromises.\n\n## What ISO changes\n\nISO is the third part of the triangle. A higher ISO setting means the camera needs less light for a given exposure, which can help when the shutter speed must remain fast or the aperture cannot open wider. The cost is not a universal failure point, but a possible reduction in color and an increase in visible noise. The practical threshold depends on the camera, the scene, the final image size, and how closely the image will be viewed.\n\nThat makes ISO a decision about priorities. If a dark indoor photograph is for a small screen and the subject would otherwise blur, a higher ISO may be the better choice. If the scene is static and the camera can remain stable, a lower ISO and longer exposure may preserve more detail. There is no honest single ISO number that is best for every camera and every photograph.\n\n## A worked window-side example\n\nSuppose a person is standing beside a bright window. The first question is not “What is the correct setting?” It is “What must remain readable?”\n\n- If the face is too dark while the window is bright, prioritize the subject and adjust exposure toward the face. Check the brightest part of the window so it does not become the only visible detail.\n- If the person is moving and looks blurred, start with shutter speed. If the image becomes too dark, decide whether to open the aperture or raise ISO.\n- If the person is still but the background should soften, start with aperture and check whether the face remains within the useful focus depth.\n\nNotice that the same scene can require three different first choices. The scene did not change; the photographic intention did.\n\n## A moving-subject example\n\nFor a person walking across a room, begin by deciding whether the goal is a crisp step or a sense of movement. For a crisp step, shutter speed is the first control. After making that change, inspect brightness. If the frame is darker than intended, open the aperture if the depth of field still works, or raise ISO if preserving the shutter speed matters more.\n\nFor a motion study, a slower shutter may be deliberate. In that case, camera stability becomes part of the design. A stable camera can keep the background clearer while the moving subject blurs. The blur is not automatically a mistake; it is only a mistake when it conflicts with the intended result.\n\n## The beginner decision card\n\nBefore each practice frame, fill in four lines:\n\n1. **My subject or scene:** name what must be readable.\n2. **My visual goal:** freeze, blur, separate, or preserve detail.\n3. **My first control:** aperture, shutter speed, or ISO.\n4. **My check:** identify the one visible result that will confirm or reject the choice.\n\nFor example: “A walking person; freeze motion; change shutter speed first; check the hands and feet for directional blur.” That statement is more useful than copying a setting from a different scene because it explains what the setting is meant to accomplish.\n\nThe exposure triangle becomes easier when it is treated as a set of connected decisions rather than three numbers to memorize. Choose the result, change one meaningful control, inspect the trade-off, and only then decide what needs to move next.",
+  "claims": [
+    {
+      "id": "EXP-01-C1",
+      "statement": "Aperture, shutter speed, and ISO form the exposure triangle.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-01-C2",
+      "statement": "Aperture changes the opening and depth-of-field behavior.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-01-C3",
+      "statement": "Shutter speed affects motion rendering and exposure duration.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-01-C4",
+      "statement": "Higher ISO can help in low light but may increase visible noise and reduce color quality.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Photography for beginners: master the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EXP-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "A Basic Look at the Basics of Exposure",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EXP-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "The exposure triangle: aperture, ISO and shutter speed",
+      "url": "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+      "publisher": "The exposure triangle: aperture, ISO and shutter speed",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "specialist",
+      "supports": [
+        "EXP-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.mpb.com/en-us/content/tips-and-techniques/the-exposure-triangle-aperture-iso-and-shutter-speed",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Camera settings 101: Getting to know the basics",
+      "url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+      "publisher": "Camera settings 101: Getting to know the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "institutional",
+      "supports": [
+        "EXP-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1201,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

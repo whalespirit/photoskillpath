@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Find the Subject First: A Simple Way to Read a Scene",
+    "slug": "find-the-subject-read-a-scene",
+    "primary_category": "composition",
+    "style": "guide",
+    "language": "en",
+    "summary": "Make one composition change and explain why it helps. / 做出一个构图改变并说明原因。",
+    "seo_title": "Find the Subject First: A Simple Way to Read a Scene",
+    "meta_description": "Make one composition change and explain why it helps. / 做出一个构图改变并说明原因。",
+    "target_reader": "A beginner whose photos contain too much or too little. / 照片总是装得太多或太少的新手。",
+    "search_intent": "Improve a scene before changing settings / 在改设置前改善场景",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1300,
+      "reason": "Approved article design range for the reader task."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "Readers need a repeatable scene-reading sequence, not a rule list. / 读者需要可重复的读景顺序，而非规则列表。",
+    "direct_answer_contract": "Open with the four-question scan and one cluttered-scene example. / 开头给出四问和一个杂乱场景示例。",
+    "unique_reader_deliverable": "A filled scene-scan example. / 已填写读景示例。",
+    "required_concrete_specifics": [
+      "Cluttered background",
+      "Two viewpoint choices",
+      "Frame edge check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Subject hierarchy",
+      "Background distractions",
+      "Viewpoint",
+      "Frame boundaries"
+    ],
+    "scope_excluded": [
+      "Rule-of-thirds deep dive",
+      "Travel locations",
+      "Image gallery critique"
+    ],
+    "related_article_boundaries": "This owns the pre-shot scan; rule pages own one composition decision each. / 本文负责拍摄前扫描，规则页各自负责一个构图决策。"
+  },
+  "style_contract": {
+    "reader_outcome": "Make one composition change and explain why it helps. / 做出一个构图改变并说明原因。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Worked example",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Make one composition change and explain why it helps. / 做出一个构图改变并说明原因。",
+      "prerequisites": [
+        "A phone or beginner camera when supported"
+      ],
+      "verification_method": "Use the article-specific observable check.",
+      "escalation_boundary": "Consult current device documentation for unsupported controls or repeated hardware faults.",
+      "worked_example": "Everyday tabletop or street-like scene"
+    }
+  },
+  "body_markdown": "Many beginner composition tips begin with a named rule: use the rule of thirds, look for leading lines, or leave negative space. Those ideas can help, but they are easier to use after you know what the frame is trying to say. Before changing camera settings, read the scene with four questions: What is the subject? What competes with it? Where should the frame end? Would a different viewpoint make the relationship clearer?\n\nThis approach works with a phone or a dedicated camera because it is about decisions inside the frame, not a particular control layout.\n\n## 1. Name the subject\n\nThe subject is the thing, person, pattern, or relationship you want the viewer to notice first. It does not have to be dramatic. A cup on a table, a person beside a window, or a single bright shape can all be subjects.\n\nUse a short phrase rather than a vague label. “The person waiting near the window” is more useful than “the room.” “The red cup against the pale wall” is more useful than “the kitchen.” The phrase tells you what must remain readable when you begin removing distractions.\n\nIf you cannot name the subject, the frame may be trying to hold too many ideas. You do not always need to remove everything else, but you do need to decide what has priority.\n\n## 2. Find what competes with it\n\nLook at the background and the edges before pressing the shutter. Bright spots, strong lines, signs, high-contrast objects, and cut-off shapes can pull attention away from the subject. Nikon’s composition guidance emphasizes paying attention to subject placement, background, and what is included or left out of the image.\n\nDo not ask whether an object is “beautiful.” Ask whether it helps the subject. A bright window may establish the setting, but it may also become the brightest shape in the frame. A chair may add context, but a partial chair at the edge can look accidental. A line may guide the eye, but it may also point outside the frame.\n\nMake one change at a time:\n\n- Move the camera left or right.\n- Raise or lower the viewpoint.\n- Ask the subject to move, when appropriate.\n- Wait for a background distraction to pass.\n- Tighten the frame if the extra space has no job.\n\nThe goal is not to make every frame empty. The goal is to make the included elements support the subject.\n\n## 3. Check the frame edges\n\nThe edges of a photograph are decisions, not leftovers. Scan all four sides for objects that enter the frame unexpectedly, important parts that are cut off, or lines that stop in awkward places.\n\nThis is especially important when photographing people. Check whether a pole, branch, or bright edge appears to grow out of the head. Check whether hands, feet, or furniture are cut at a distracting point. A small shift in viewpoint can separate the subject from the background without changing the subject itself.\n\nFor objects, check the relationship between the object and the edge. A little room can make the object feel stable. Too little room can make it feel accidentally trapped. Too much room can weaken the subject unless that space creates direction, scale, or mood.\n\n## 4. Try two viewpoints\n\nBefore changing aperture, ISO, or a filter, take two mental or actual frames from different positions. The first can be your original viewpoint. The second should change one relationship: camera height, distance, angle, or orientation.\n\nSuppose the subject is a person standing beside a window. From straight on, the window may dominate the frame. From a slight side angle, the person may separate from the brightest area and the window can become context. The camera settings might remain identical; the composition changes because the relationships change.\n\nThis is why “move two steps” can be a useful beginner instruction. It creates a visible comparison. You do not need to know in advance which frame will be better. You need to make the difference large enough to inspect.\n\n## A filled scene-scan example\n\nImagine a table with a red cup, a bright window, a chair edge, and several small objects.\n\n- **Subject:** the red cup.\n- **Competition:** the bright window and a high-contrast chair edge.\n- **Frame decision:** keep enough table to show the cup is resting on it, but remove the unrelated objects.\n- **Viewpoint change:** move slightly lower and to the side so the cup separates from the window.\n- **Verification:** look at the thumbnail. The cup should be the first colored shape you notice, and the window should explain the light rather than become the subject.\n\nThis is not a universal composition recipe. It is a worked decision. Another scene might need more background because the location is the subject.\n\n## What to do when the scene has multiple subjects\n\nSometimes the relationship between subjects is the point. Two people, a person and a doorway, or a small object in a large space may need to remain together. In that case, name the relationship rather than forcing one object to be the only subject: “the person framed by the doorway” or “the small figure in the large room.”\n\nThen apply the same four questions. What supports the relationship? What competes with it? Where should the frame end? Which viewpoint makes the relationship easiest to read?\n\nComposition is not a test of whether you remembered enough rules. It is a way to make the intended relationship visible. Start by naming the subject, remove or reposition what competes with it, check the edges, and compare two viewpoints before reaching for a new setting.\n\n## When the first frame is still unclear\n\nIf two viewpoints both seem confusing, simplify the question rather than adding more rules. Make a tighter frame and ask whether the subject becomes easier to name. Then make a wider frame and ask what context was lost. The comparison often reveals whether the problem is too much information, too little context, or a background that is competing at the wrong brightness.\n\nYou can also make a deliberately plain frame. A plain frame is useful when it gives you a baseline: subject, background, and edges are easy to identify. After that, add one relationship back—a doorway, a line, or a patch of open space—and decide whether it helps. Composition improves through these visible choices, not through collecting more labels.",
+  "claims": [
+    {
+      "id": "COM-01-C1",
+      "statement": "Composition decisions include subject and background relationships.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-01-C2",
+      "statement": "A viewpoint change can remove distractions.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-01-C3",
+      "statement": "Frame edges affect readability.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-01-C4",
+      "statement": "A composition rule does not guarantee a good image.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Photography for beginners: master the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "COM-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "5 Easy Composition Guidelines",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+      "publisher": "5 Easy Composition Guidelines",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "COM-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "How to take a good photo: Photo guide",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "government",
+      "supports": [
+        "COM-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Camera settings 101: Getting to know the basics",
+      "url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+      "publisher": "Camera settings 101: Getting to know the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "institutional",
+      "supports": [
+        "COM-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1049,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Photo Skill Path camera mark</title>
+  <desc id="desc">A solid camera icon with a blue lens and orange status light.</desc>
+  <path fill="#151515" d="M8 15.5h7.15l2.55-4h12.6l2.55 4H40a4 4 0 0 1 4 4v16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-16a4 4 0 0 1 4-4Z"/>
+  <path fill="#FF5C35" d="M36.75 19.25h2.5a1.25 1.25 0 0 1 0 2.5h-2.5a1.25 1.25 0 0 1 0-2.5Z"/>
+  <circle cx="24" cy="27.5" r="9.5" fill="#2347F5"/>
+  <circle cx="24" cy="27.5" r="2.5" fill="#151515"/>
+</svg>

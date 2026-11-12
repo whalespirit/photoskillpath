@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Practice loop diagram</title><desc id="desc">A repeatable learning loop includes choose, shoot, compare, and note the result.</desc>
+  <rect width="900" height="520" fill="#eef3f8"/>
+  <g fill="none" stroke="#2347f5" stroke-width="5" stroke-linecap="round"><path d="M231 213c42-91 150-125 242-75"/><path d="M505 140c87 42 119 146 70 237"/><path d="M569 405c-78 61-190 43-246-39"/><path d="M289 349c-75-72-69-187 12-252"/></g>
+  <g fill="#f7f8f8" stroke="#151515" stroke-width="4"><circle cx="450" cy="109" r="72"/><circle cx="654" cy="260" r="72"/><circle cx="450" cy="410" r="72"/><circle cx="246" cy="260" r="72"/></g>
+  <g font-family="Arial, sans-serif" text-anchor="middle" font-weight="800"><text x="450" y="103" fill="#151515" font-size="22">CHOOSE</text><text x="450" y="129" fill="#ff5c35" font-size="17">ONE GOAL</text><text x="654" y="254" fill="#151515" font-size="22">SHOOT</text><text x="654" y="280" fill="#ff5c35" font-size="17">3 FRAMES</text><text x="450" y="404" fill="#151515" font-size="22">COMPARE</text><text x="450" y="430" fill="#ff5c35" font-size="17">THE RESULT</text><text x="246" y="254" fill="#151515" font-size="22">NOTE</text><text x="246" y="280" fill="#ff5c35" font-size="17">WHAT CHANGED</text></g>
+  <text x="450" y="270" text-anchor="middle" fill="#2347f5" font-family="Arial, sans-serif" font-size="23" font-weight="800">PRACTICE LOOP</text>
+</svg>

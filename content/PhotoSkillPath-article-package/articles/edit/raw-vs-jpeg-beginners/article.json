@@ -1,0 +1,222 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "RAW vs JPEG for Beginners: Which File Fits Your Workflow?",
+    "slug": "raw-vs-jpeg-beginners",
+    "primary_category": "edit",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Choose a format based on editing intent and storage workflow. / 按后期意图和存储流程选择。",
+    "seo_title": "RAW vs JPEG for Beginners: Which File Fits Your Workflow?",
+    "meta_description": "Choose a format based on editing intent and storage workflow. / 按后期意图和存储流程选择。",
+    "target_reader": "A beginner deciding whether the larger file is worth the effort. / 在意文件大小和后期弹性的新手。",
+    "search_intent": "Choose a capture format / 选择拍摄文件格式",
+    "planned_word_range": {
+      "min": 1200,
+      "max": 1500,
+      "reason": "Approved Batch 04 scope and article-specific structure justify this range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "RAW and JPEG are a documented choice with matched workflow consequences. / RAW 与 JPEG 是有明确工作流后果的选择。",
+    "direct_answer_contract": "Conditional answer first: JPEG for simplicity, RAW when editing latitude and workflow support matter. / 先给条件答案。",
+    "unique_reader_deliverable": "A workflow decision table with storage and export checkpoints. / 工作流决策表及存储、导出检查点。",
+    "required_concrete_specifics": [
+      "Simple sharing workflow",
+      "Editing-heavy workflow",
+      "Unsupported app caveat"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Capture format",
+      "Editing latitude",
+      "Storage",
+      "Export",
+      "Device/app caveats"
+    ],
+    "scope_excluded": [
+      "Camera brand ranking",
+      "Lab dynamic-range tests",
+      "Professional color management"
+    ],
+    "related_article_boundaries": "Owns capture format; file organization belongs to EDI-05. / 负责拍摄格式，文件整理归 EDI-05。"
+  },
+  "style_contract": {
+    "reader_outcome": "Choose a format based on editing intent and storage workflow. / 按后期意图和存储流程选择。",
+    "distinctive_structure": [
+      "Conditional answer",
+      "Matched criteria",
+      "Workflow cases",
+      "Decision rule"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Source-specific semantic match",
+      "Reverify before prose when retrieval is partial"
+    ],
+    "failure_conditions": [
+      "Unsupported universal prescription",
+      "Invented first-person result",
+      "Missing observable check or decision boundary"
+    ],
+    "style_specific": {
+      "decision": "Choose JPEG, RAW, or RAW+JPEG by the next workflow step rather than a universal quality ranking. / 按下一步工作流选择格式，而非按绝对画质排名。",
+      "options": [
+        "JPEG for simple delivery. / 简单交付用 JPEG。",
+        "RAW for editing latitude. / 需要后期弹性用 RAW。",
+        "RAW+JPEG for a defined two-copy handoff. / 有明确双文件交付时用 RAW+JPEG。"
+      ],
+      "matched_criteria": [
+        "Processing / 处理",
+        "Editing latitude / 后期弹性",
+        "File size / 文件大小",
+        "Software support / 软件支持",
+        "Sharing and archive burden / 分享与归档负担"
+      ],
+      "verification_date": "2026-11-10",
+      "decision_matrix": "Each row names a workflow, preferred format, reason, and cost. / 每行写明工作流、首选格式、理由和成本。"
+    }
+  },
+  "body_markdown": "Choose JPEG when you need a small, ready-to-share file and expect little editing. Choose RAW when you plan to process the image and want more room to adjust white balance, highlights, shadows, and color. Choose RAW+JPEG only when the immediate JPEG is useful enough to justify storing two files. The right answer is a workflow decision, not a badge of seriousness.\n\n## The short decision matrix\n\n| Your priority | Better starting format | Why |\n| --- | --- | --- |\n| Send or post images quickly | JPEG | The camera has already processed the image, and the file is widely supported. |\n| Correct exposure or white balance later | RAW | More tonal and color data gives compatible software more processing flexibility. |\n| Keep an immediate preview and an editable original | RAW+JPEG | You get both versions, but each shot uses more storage and creates a sorting task. |\n| Avoid a computer or editing app for now | JPEG | It is simpler to open, transfer, and share. |\n| Build an editing habit and preserve options | RAW | The original file remains available while you export copies for delivery. |\n\nThis table assumes that the camera can record the format and that your chosen software can open it. Check the device and app documentation before changing a large archive.\n\n## What the camera has already decided in a JPEG\n\nA JPEG is not an untouched sensor record. As Adobe explains, the camera processes the captured data and applies decisions such as brightness, contrast, color saturation, and sharpening before saving the compressed file. That processing is useful: the result is normally quick to preview and easy to send.\n\nThe trade-off is that compression discards some tonal and color information. You can still crop, adjust brightness, or change color in an editor, but there is less original data available when a correction is extreme. A JPEG is therefore a finished starting point, not a defective RAW file.\n\nJPEG is a sensible choice for a family event, a classroom exercise, or a phone-to-message workflow when the main requirement is seeing and sharing the picture quickly. It also reduces the storage and transfer burden when many images are being made.\n\n## What a RAW file keeps available\n\nRAW files preserve more of the information recorded by the camera sensor and leave the development decisions to compatible software. Adobe describes the practical advantage as greater flexibility with white balance and exposure corrections, including some highlight and shadow recovery when detail remains in the file. The result is not magic: a clipped highlight or a blurred subject cannot always be reconstructed, and the amount of recoverable information depends on the camera and the exposure.\n\nRAW also changes the time of the decision. Instead of accepting the camera's sharpening, contrast, and color interpretation at capture, you can choose those settings during processing. That is useful when a scene needs a deliberate look or when lighting makes the first exposure less than ideal.\n\nSony's support documentation treats RAW as a camera file format that may require compatible software, and Adobe notes that RAW normally needs to be processed and converted before it is convenient to share. In practice, a RAW file is an editable source; a JPEG export is usually the delivery copy.\n\n## The costs are part of the format choice\n\nRAW is larger. Adobe's comparison guidance describes RAW files as significantly bigger than JPEG files and notes that a RAW file can be roughly two to six times the size of a JPEG, depending on the camera and settings. Larger files use more card, disk, and backup space. They also take longer to copy and can make a two-version archive harder to search.\n\nRAW also depends on a compatible workflow. A current editing application may read the camera's format, but an older app, a browser, or a recipient's phone may not. The safe handoff is to keep the RAW as the original and export a JPEG or another requested format for viewing.\n\nJPEG has a different cost: it is efficient now but gives you less room later. Heavy changes to exposure, white balance, or color can reveal compression and limited tonal data sooner than they would in a RAW workflow.\n\n### The app caveat is part of the choice\n\nDo not change the setting during an important assignment until you have confirmed the whole path: capture, import, edit, backup, and export. A camera may record a proprietary RAW variant that one application reads while another application shows only its JPEG pair. A phone may display both files but offer RAW editing only through a selected editor. Google Photos, for example, documents a RAW badge and a separate RAW tile for supported Pixel RAW+JPEG captures, with editing delegated to a chosen RAW editor. That is a device-specific workflow, not a promise about every phone or camera.\n\nMake a small test folder before committing to RAW. Copy one RAW file, open it in the software you intend to use, make a minor adjustment, export a JPEG, and reopen the export on the device or service where it will be shared. If any step fails, keep JPEG for that use or choose a different supported application. The test costs less than discovering after a trip that the original files cannot be processed where you are.\n\n## Compare two real beginner workflows\n\n### Workflow A: capture, select, share\n\nYou photograph a short event and want to send a few good frames the same day. JPEG keeps the process small: copy the files, select the keepers, make modest adjustments if needed, and share them. You do not need to preserve a large editable source for every frame unless the images have later value.\n\nBefore choosing JPEG, check the camera's picture profile and white-balance behavior. Those choices influence the look that gets baked into the file. If the scene has difficult mixed light or high contrast, make a test frame and inspect the detail you care about.\n\n### Workflow B: capture, edit, export\n\nYou are practicing exposure and want to compare several interpretations of the same scene. RAW lets you keep the original while exporting a JPEG for a message, portfolio draft, or web upload. The workflow requires an editing application, a folder structure, and a backup plan, but it makes the learning loop visible: capture, process, export, and compare.\n\nDo not erase the RAW simply because the first export looks good. If the image matters, preserve the original and label the exported version so you know which file is the delivery copy.\n\n## Where RAW+JPEG helps—and where it creates friction\n\nRAW+JPEG records both formats at capture. This can be practical when a client, teammate, or family member needs a quick preview while you want an editable original. It can also be a gentle transition for a beginner who is learning an editor without giving up immediate sharing.\n\nThe price is duplication. One shutter press creates two files, so storage, backup, import, and deletion decisions happen twice. If you routinely ignore one of the pair, the setting may be adding work without adding value. Use it for a defined handoff need rather than as a permanent “best of both worlds” default.\n\n## A format decision you can revisit\n\nStart with the smallest workflow that protects your purpose. If the picture is disposable and speed matters, JPEG is enough. If the picture is important and you expect to correct or reinterpret it, RAW is the safer source. If another person needs a ready preview while you continue editing, RAW+JPEG can make sense for that assignment.\n\nThe decision is reversible for future captures. Review one ordinary week of photographs: how often did you edit beyond a small crop and brightness change, how often did you need to share immediately, and how often did storage or software get in the way? Let those observations choose the next setting.",
+  "claims": [
+    {
+      "id": "EDI-04-C1",
+      "statement": "JPEG is processed and compressed in-camera, making it smaller and easier to open or share immediately.",
+      "source_urls": [
+        "https://www.adobe.com/us/learn/lightroom-cc/web/raw-vs-jpeg",
+        "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-04-C2",
+      "statement": "RAW preserves more tonal and color data and can provide more flexibility for compatible exposure and white-balance adjustments.",
+      "source_urls": [
+        "https://www.adobe.com/us/learn/lightroom-cc/web/raw-vs-jpeg",
+        "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-04-C3",
+      "statement": "RAW files are larger and normally require compatible software and an export step before convenient delivery.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html",
+        "https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/articles/00024655"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-04-C4",
+      "statement": "RAW+JPEG stores two versions and can support immediate preview plus later editing, but increases storage and sorting work.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html",
+        "https://support.google.com/photos/answer/9940184?hl=en"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "When to use raw vs. JPEG",
+      "url": "https://www.adobe.com/us/learn/lightroom-cc/web/raw-vs-jpeg",
+      "publisher": "Adobe Learn",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-04-C1",
+        "EDI-04-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/us/learn/lightroom-cc/web/raw-vs-jpeg",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "JPEG vs. RAW",
+      "url": "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html",
+      "publisher": "Adobe Creative Cloud",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-04-C1",
+        "EDI-04-C2",
+        "EDI-04-C3",
+        "EDI-04-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "What is a RAW image file and how much memory does it require?",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/articles/00024655",
+      "publisher": "Sony Support",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-04-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/articles/00024655",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Edit a photo or video on your Pixel phone or tablet",
+      "url": "https://support.google.com/photos/answer/9940184?hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-04-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/9940184?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1289,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

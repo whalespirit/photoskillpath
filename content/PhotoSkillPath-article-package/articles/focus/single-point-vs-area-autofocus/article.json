@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Single-Point vs Area Autofocus: Where Should the Camera Look?",
+    "slug": "single-point-vs-area-autofocus",
+    "primary_category": "focus",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Choose a focus-area approach and know its failure mode. / 选择区域策略并知道失败方式。",
+    "seo_title": "Single-Point vs Area Autofocus: Where Should the Camera Look?",
+    "meta_description": "Choose a focus-area approach and know its failure mode. / 选择区域策略并知道失败方式。",
+    "target_reader": "A beginner whose camera focuses on the wrong object. / 相机总对错主体对焦的新手。",
+    "search_intent": "Choose a focus-area strategy / 选择对焦区域策略",
+    "planned_word_range": {
+      "0": "1",
+      "1": "0",
+      "2": "0",
+      "3": "0",
+      "4": "-",
+      "5": "1",
+      "6": "3",
+      "7": "0",
+      "8": "0",
+      "reason": "Approved Batch 04 scope and article-specific structure justify this range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "Focus-area choices can be compared by subject predictability and background complexity. / 对焦区域可按主体可预测性和背景复杂度比较。",
+    "direct_answer_contract": "Open with subject predictability and background clutter as the decision axes. / 先给主体可预测性和背景杂乱两个决策轴。",
+    "unique_reader_deliverable": "A focus-area decision table. / 对焦区域决策表。",
+    "required_concrete_specifics": [
+      "Single object",
+      "Object among clutter",
+      "Moving subject boundary"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Single target",
+      "Wider area",
+      "Background clutter",
+      "Recomposing caution"
+    ],
+    "scope_excluded": [
+      "Face/eye AF product tests",
+      "Wildlife tracking",
+      "Brand-specific menu tutorial"
+    ],
+    "related_article_boundaries": "Do not repeat AF-S/AF-C behavior; this article owns where the camera looks. / 不重复 AF-S/AF-C 行为，本文负责对焦区域。"
+  },
+  "style_contract": {
+    "reader_outcome": "Choose a focus-area approach and know its failure mode. / 选择区域策略并知道失败方式。",
+    "distinctive_structure": [
+      "Conditional answer",
+      "Matched criteria",
+      "Scenario matrix",
+      "Failure diagnosis"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Source-specific semantic match",
+      "Reverify before prose when retrieval is partial"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "Invented first-person result",
+      "Missing observable check"
+    ],
+    "style_specific": {
+      "decision": "Choose narrow or wider focus-area search by subject predictability and background clutter. / 按主体可预测性和背景杂乱选择区域。",
+      "options": [
+        "Single-point or small spot selection. / 单点或小区域。",
+        "Wider area, zone, or auto-area selection. / 宽区域、区域或自动区域。"
+      ],
+      "matched_criteria": [
+        "Target predictability / 主体可预测性",
+        "Subject size / 主体大小",
+        "Movement / 运动",
+        "Background competition / 背景竞争",
+        "Visible verification / 可见检查"
+      ],
+      "verification_date": "2026-11-10",
+      "decision_matrix": "Each row names a scene, preferred starting area, reason, and visible failure signal. / 每行写明场景、起始区域、理由和失败信号。"
+    }
+  },
+  "body_markdown": "Choose a small focus area when the target is predictable and the background is competing for attention. Choose a wider area when the subject changes position or you need the camera to search a larger part of the frame. The best starting point depends on where the subject is, how large it appears, and how much background ambiguity you can tolerate—not on the number of focus points advertised by a camera.\n\nCamera makers use different labels for similar ideas: Single Point, Spot, Wide, Zone, and Auto Area are common examples. This article compares the behavior behind those labels. It does not compare face-detection performance or tell you which brand focuses fastest.\n\n## The two choices in plain language\n\n| Starting choice | What the camera is allowed to search | Best fit when | Main failure signal |\n|---|---|---|---|\n| Single point or small spot | A selected point or small area | The subject is predictable and you need precise control | The camera misses because the point is not on the target |\n| Wider area or zone | A broader region of the frame | The subject moves within a known region or changes position | The camera selects a more contrasty background object |\n\nSony’s focus guide uses the subject’s size on screen as a practical clue: a small area works when the subject covers that area, while a wider setting can help with faster or less predictable movement. Nikon’s glossary likewise describes Single Point as useful for a static subject and Auto Area as a camera-selected focus choice. Those are behavior descriptions, not a promise that one setting will work on every model.\n\n## When a small area helps\n\nSingle-point autofocus is a control choice. You tell the camera approximately where the important subject is, and it does not have the same freedom to choose a different object elsewhere in the frame.\n\nPicture a mug on a table with a patterned shelf behind it. A small focus point placed over the mug can prevent the shelf’s high-contrast lines from becoming the camera’s preferred target. The cost is that you must place the point accurately. If it falls on the table edge, the background, or empty texture, the camera can focus exactly where you asked—even when that was not your intention.\n\nA small area also makes sense when the subject is small in the frame but its position is stable. First enlarge the subject in the viewfinder or screen enough that the focus area covers a meaningful part of it. Sony warns that a spot area should overlap the subject; if the subject does not cover the area, background focus becomes more likely.\n\nSmall does not mean “always more accurate.” It means “more controlled if you can place it.” That distinction matters for beginners who assume a tiny focus box automatically improves every photograph.\n\n## When a wider area helps\n\nA wider area gives the camera more room to search. That can be useful when a person, cyclist, or child moves through a predictable part of the frame and keeping one small point over the subject would be difficult. Sony’s guidance distinguishes slow or predictable movement, where a small area can work, from faster or unpredictable movement, where a wider area can help maintain focus while the composition changes.\n\nThe cost is ambiguity. A wider area may contain the subject, a fence, a bright sign, and a nearby branch at the same time. If the camera chooses the background, the frame can look “focused” while the intended subject is soft. A wider setting therefore trades some control for a larger chance of keeping the target inside the search region.\n\nDo not confuse area width with focus timing. Single versus continuous autofocus answers whether the camera keeps adjusting distance; this article answers where the camera is allowed to look. You may use a small or wide area with different focus-timing modes, depending on the device.\n\n## Compare the same criteria\n\nUse this matched decision table rather than counting focus points:\n\n| Scene condition | Prefer a small area when… | Prefer a wider area when… | Check the frame for… |\n|---|---|---|---|\n| Isolated object | The object is still and easy to place under the point | The object moves across a known region | The object’s edge, not a nearby high-contrast line |\n| Object among clutter | You can place the point precisely on the target | You cannot keep the target inside a small point | Whether the background became the sharpest thing |\n| Person crossing the frame | The movement is slow and predictable | The person moves quickly or changes position | Face or body detail at the intended focus distance |\n| Vertical reframe | You can move the point after rotating | The subject may leave the selected point | Whether the focus area changed with orientation |\n\nThe same room can justify different choices. A stationary notebook on a clean desk is a small-area problem. A person walking past that desk may justify a wider area if the background is simple enough. If the desk is covered with high-contrast objects, the wider option may create more false targets than it solves.\n\n## Diagnose the failure, then change one thing\n\nIf the wrong object is sharp, first identify what the camera selected. Was it a bright label, a railing, or the nearest edge? If the competing object is inside the current area, shrink the area or reposition it. If the subject repeatedly leaves the point, consider widening the area only when your device documents that behavior and the background is not more confusing.\n\nIf nothing in the frame is sharp, the problem may be focus distance, subject contrast, camera movement, or focus timing rather than area width. Do not keep switching between Single Point and Area as if the names were a universal repair tool.\n\n## A practical choice card\n\nBefore a sequence, write four details:\n\n1. **Target:** What exact object or part should be sharp?\n2. **Predictability:** Will it stay under one point, or move within a region?\n3. **Competition:** What else inside that region could attract focus?\n4. **Verification:** Which edge, face, or texture will you inspect after capture?\n\nFor a mug on a crowded shelf, the answer might be: “Target the mug handle; it is still; the shelf lines are competing; inspect the handle edge.” Start with a small point. For a child moving across a plain wall, the answer might be: “Target the child’s face; position changes quickly; the wall has little detail; inspect the face after the frame.” A wider area may be the more forgiving starting point.\n\nThere is no universal winner. Use the smallest search area that you can place reliably when control matters, and widen it when movement makes that control unrealistic. Then verify the actual target—not the focus-box label—in the captured frame.",
+  "claims": [
+    {
+      "id": "FOC-04-C1",
+      "statement": "A single-point setting restricts the camera’s focus target to the selected point or small area.",
+      "source_urls": [
+        "https://www.sony.com/electronics/support/articles/DITU26200104",
+        "https://www.nikonusa.com/learn-and-explore/photography-glossary"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-04-C2",
+      "statement": "A wider focus area lets the camera search more of the frame, which can help when subject position changes but can introduce competing background targets.",
+      "source_urls": [
+        "https://www.sony.com/electronics/support/articles/DITU26200104",
+        "https://www.nikonusa.com/learn-and-explore/photography-glossary"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-04-C3",
+      "statement": "The same scene can justify different area widths depending on subject size, movement, and background complexity.",
+      "source_urls": [
+        "https://www.sony.com/electronics/support/articles/DITU26200104",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "FOC-04-C4",
+      "statement": "Focus-area failure should be diagnosed by the visible target the camera selected, not by counting available focus points.",
+      "source_urls": [
+        "https://www.sony.com/electronics/support/articles/DITU26200104",
+        "https://www.nikonusa.com/learn-and-explore/photography-glossary"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Focus Setting Guide: Setting item hints",
+      "url": "https://www.sony.com/electronics/support/articles/DITU26200104",
+      "publisher": "Sony USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-04-C1",
+        "FOC-04-C2",
+        "FOC-04-C3",
+        "FOC-04-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.sony.com/electronics/support/articles/DITU26200104",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography Glossary: AF Area Modes",
+      "url": "https://www.nikonusa.com/learn-and-explore/photography-glossary",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "FOC-04-C1",
+        "FOC-04-C2",
+        "FOC-04-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/photography-glossary",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Nikon School: Shooting Action",
+      "url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+      "publisher": "Nikon School",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [
+        "FOC-04-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1109,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

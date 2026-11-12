@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Brightness, Contrast, Highlights, and Shadows: What Each Slider Changes",
+    "slug": "brightness-contrast-highlights-shadows",
+    "primary_category": "edit",
+    "style": "guide",
+    "language": "en",
+    "summary": "Match each tonal problem to the slider that actually affects it, then stop when the target region is readable. / 把明暗问题对应到真正影响它的滑块，目标区域可读后就停止。",
+    "seo_title": "Brightness, Contrast, Highlights, and Shadows: What Each Slider Changes",
+    "meta_description": "Match each tonal problem to the slider that actually affects it, then stop when the target region is readable. / 把明暗问题对应到真正影响它的滑块，目标区域可读后就停止。",
+    "target_reader": "A beginner who moves sliders without knowing which tonal region changes. / 不知道滑块影响哪个区域的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1250,
+      "reason": "Approved Batch 03 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A guide because readers need symptom-to-control mapping and a stopping rule.",
+    "direct_answer_contract": "Open with a symptom-to-slider table.",
+    "unique_reader_deliverable": "A filled tonal-diagnosis example.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "A concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Match each tonal problem to the slider that actually affects it, then stop when the target region is readable. / 把明暗问题对应到真正影响它的滑块，目标区域可读后就停止。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Article-specific sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Match a visible tonal symptom to one slider and stop at a visible check.",
+      "prerequisites": [
+        "An editor with at least one named tonal control"
+      ],
+      "verification_method": "Compare original and edited image at the same size, checking the target tonal region.",
+      "escalation_boundary": "Use current editor documentation when labels or tools differ.",
+      "worked_example": "A bright-window scene and a flat daylight scene"
+    }
+  },
+  "body_markdown": "When an edit looks wrong, the slider is often not the real problem. The problem is that the wrong tonal region is being changed. A photograph can be too dark overall, too flat, too bright in the sky, or too heavy in the shadows. Those symptoms need different first controls.\n\nUse this mapping before moving anything:\n\n| Visible problem | First control | Stop check |\n|---|---|---|\n| The whole image is too light or dark | Brightness or Exposure | The main subject is readable without losing the scene |\n| Light and dark areas feel too similar | Contrast | Separation improves without brittle highlights or blocked shadows |\n| Sky or window is too bright | Highlights | Texture returns in the light region, when it was captured |\n| Dark areas hide useful detail | Shadows | The subject becomes readable without flattening everything |\n\nAdobe’s current Lightroom help describes these controls by tonal region. The names and exact ranges vary between apps, but the job of each control is a useful mental model.\n\n## Brightness or Exposure changes the whole image\n\nExposure or Brightness is the first control when the entire image is too light or too dark. Adobe describes Exposure as controlling overall brightness. Move it gradually and inspect both the subject and the background.\n\nImagine an indoor portrait beside a bright window. If the whole frame is dark, raising overall brightness may make the face readable, but the window may lose texture. If the face is already readable and only the window is too bright, overall brightness is the wrong first tool. Move to Highlights instead.\n\nThe stop check is simple: can you identify the main subject without making the entire frame look washed out or heavy? If not, return to the original and diagnose the region rather than pushing the same slider farther.\n\n## Contrast changes separation\n\nContrast changes the difference between light and dark tones. Increasing it can make a flat daylight frame feel more separated. Decreasing it can make a harsh scene gentler. It affects the relationship across the image, not one isolated object.\n\nContrast is easy to overuse because the first movement can look dramatic. Check a face, a pale wall, and the darkest area together. If the highlights lose texture or the shadows become empty, the contrast change has exceeded the purpose of the edit.\n\nUse contrast after the overall brightness is close. Otherwise, you may use contrast to compensate for a brightness problem and then need to undo both decisions.\n\n## Highlights target the lighter regions\n\nHighlights affect the brighter parts of the image. Adobe documents lowering Highlights to darken light areas and recover detail when that detail exists in the original capture. The phrase “when it exists” is important: a slider cannot recreate texture that was clipped before editing.\n\nUse Highlights for a bright window, pale sky, white shirt, or reflective surface that is drawing attention. Compare the light region at the same zoom. If the sky becomes gray while the subject still looks wrong, stop and return to the actual problem.\n\nHighlights are not the same as overall brightness. Lowering them can protect light detail while leaving the rest of the frame relatively stable.\n\n## Shadows target the darker regions\n\nShadows affect darker parts of the image. Raising them can reveal a face in shade, a dark doorway, or texture in a black object—if the original file contains usable information. Lowering them can make a scene more graphic, but it may remove detail that helps the viewer understand the subject.\n\nAdobe’s guidance also warns that tonal adjustments can affect the wider image. A large shadow lift may make the photograph flatter or reveal noise in underexposed areas. Use the smallest change that answers the visible problem.\n\nThe stop check is not “Can I see everything?” It is “Can I see the important dark detail without destroying the intended depth?”\n\n## A filled diagnosis example\n\nSuppose a room photo has a bright window, a dim chair, and low overall contrast.\n\n1. If the chair and window are both too dark, begin with Brightness or Exposure and check the chair.\n2. If the chair is readable but the window is blank white, lower Highlights and check the window edge.\n3. If the chair is still too dark, raise Shadows gradually and inspect whether the room becomes flat.\n4. If the whole scene now feels dull, use a small Contrast adjustment and compare with the original.\n\nThis order is not a law. It simply prevents one slider from being asked to solve four different symptoms.\n\n## Compare at the same size\n\nKeep the original visible. Google Photos documents comparing an edited image with the original, undoing changes, and saving a copy on supported workflows. Other editors use different controls, but the comparison principle is portable.\n\nView the original and edit at the same zoom. Check the intended region first, then the corners and skin tones. If the edit only looks better when enlarged or viewed in isolation, it may not be solving the actual problem.\n\nThe right slider is the one whose visible effect matches the reason you opened the editor. Brightness handles the whole frame, contrast handles separation, highlights handle light regions, and shadows handle dark regions. Name the symptom, move one control, compare, and stop when the target is readable.\n\nWhen an image needs two controls, make the first change small enough that you can still identify its effect. For example, restore a bright window with Highlights before lifting a shaded chair with Shadows. Then compare the result with the neutral original. This keeps the edit explainable and makes it easier to undo the step that caused a new problem.\n\nIf the image improves only after every slider moves, pause and return to the original. A large stack of corrections often hides the first diagnosis. The cleaner workflow is to name the most visible problem, use the narrowest relevant control, and then decide whether a second problem actually remains.",
+  "claims": [
+    {
+      "id": "EDI-03-C1",
+      "statement": "Exposure or Brightness changes the overall brightness of an image.",
+      "source_urls": [
+        "https://helpx.adobe.com/in/lightroom/web/edit-photos/apply-effects/adjust-light.html",
+        "https://www.adobe.com/uk/learn/lightroom-cc/web/adjust-photo-brightness",
+        "https://support.google.com/photos/answer/6128850?hl=en"
+      ],
+      "body_section": "Brightness/Exposure",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-03-C2",
+      "statement": "Contrast changes the difference between light and dark areas.",
+      "source_urls": [
+        "https://helpx.adobe.com/in/lightroom/web/edit-photos/apply-effects/adjust-light.html",
+        "https://www.adobe.com/uk/learn/lightroom-cc/web/adjust-photo-brightness",
+        "https://support.google.com/photos/answer/6128850?hl=en"
+      ],
+      "body_section": "Contrast",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-03-C3",
+      "statement": "Highlights target lighter regions, and lowering them can reveal captured detail when available.",
+      "source_urls": [
+        "https://helpx.adobe.com/in/lightroom/web/edit-photos/apply-effects/adjust-light.html",
+        "https://www.adobe.com/uk/learn/lightroom-cc/web/adjust-photo-brightness",
+        "https://support.google.com/photos/answer/6128850?hl=en"
+      ],
+      "body_section": "Highlights",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-03-C4",
+      "statement": "Shadows target darker regions, and raising them can reveal captured detail but may flatten the image or reveal noise.",
+      "source_urls": [
+        "https://helpx.adobe.com/in/lightroom/web/edit-photos/apply-effects/adjust-light.html",
+        "https://www.adobe.com/uk/learn/lightroom-cc/web/adjust-photo-brightness",
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "Shadows",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How to adjust Light in an image",
+      "url": "https://helpx.adobe.com/in/lightroom/web/edit-photos/apply-effects/adjust-light.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-03-C1",
+        "EDI-03-C2",
+        "EDI-03-C3",
+        "EDI-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://helpx.adobe.com/in/lightroom/web/edit-photos/apply-effects/adjust-light.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Adjust photo brightness and contrast",
+      "url": "https://www.adobe.com/uk/learn/lightroom-cc/web/adjust-photo-brightness",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-03-C1",
+        "EDI-03-C2",
+        "EDI-03-C3",
+        "EDI-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/uk/learn/lightroom-cc/web/adjust-photo-brightness",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Edit your photos",
+      "url": "https://support.google.com/photos/answer/6128850?hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-03-C1",
+        "EDI-03-C2",
+        "EDI-03-C3",
+        "EDI-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/6128850?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EDI-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1003,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

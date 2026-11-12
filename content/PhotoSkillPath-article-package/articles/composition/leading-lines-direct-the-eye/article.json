@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Leading Lines Without the Clichés: Direct the Eye with What Is Already There",
+    "slug": "leading-lines-direct-the-eye",
+    "primary_category": "composition",
+    "style": "guide",
+    "language": "en",
+    "summary": "Find a line, trace where it goes, and move the viewpoint until its endpoint supports the subject. / 找到线条、追踪方向，再移动视角让终点服务主体。",
+    "seo_title": "Leading Lines Without the Clichés: Direct the Eye with What Is Already There",
+    "meta_description": "Find a line, trace where it goes, and move the viewpoint until its endpoint supports the subject. / 找到线条、追踪方向，再移动视角让终点服务主体。",
+    "target_reader": "A beginner who knows the term but cannot see lines in ordinary scenes. / 知道术语却看不见日常线条的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 900,
+      "max": 1200,
+      "reason": "Approved Batch 03 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A guide because the reader needs a repeatable visual search and framing action.",
+    "direct_answer_contract": "Open with the line-to-subject-to-endpoint test.",
+    "unique_reader_deliverable": "A line-tracing frame sketch.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "A concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Find a line, trace where it goes, and move the viewpoint until its endpoint supports the subject. / 找到线条、追踪方向，再移动视角让终点服务主体。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Article-specific sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Identify and test one line-to-subject path.",
+      "prerequisites": [
+        "An ordinary scene with an edge, shadow, or alignment"
+      ],
+      "verification_method": "Trace the line and check where the eye is likely to stop.",
+      "escalation_boundary": "If no line supports the subject, change viewpoint or simplify instead of forcing one.",
+      "worked_example": "A sidewalk edge and a window shadow"
+    }
+  },
+  "body_markdown": "A leading line is not a special object that only appears in roads, bridges, and railway tracks. It is any visible direction that can carry attention through the frame: a sidewalk edge, a table edge, a strip of window light, a fence, a row of books, or the alignment of several objects.\n\nUse a three-part test before pressing the shutter: where does the line begin, what subject does it pass or point toward, and where does it end? If the line reaches the subject and helps the viewer find it, the line is doing useful compositional work. If it leaves the frame first, the line may be competing with the subject.\n\n## Find lines in ordinary scenes\n\nNikon’s composition guidance describes leading lines as lines that carry the viewer’s eye through a photograph toward a specific area of interest. Adobe’s beginner perspective guide also explains how parallel lines can converge toward a vanishing point and give structure to a frame.\n\nLook for edges before looking for dramatic scenery. The border between pavement and grass can point toward a person. A window shadow can form a diagonal across a wall. The edge of a table can direct attention toward a mug. A row of chairs, shelves, or tree trunks can create alignment even when no single object looks like a “line.”\n\nThe line does not have to be perfectly straight. Curves can move the eye more slowly, while diagonals can create stronger directional tension. The useful question is whether the direction supports the subject, not whether the line matches a textbook example.\n\n## Trace the endpoint\n\nThe strongest line in a scene is not always the best line for the photograph. A bright road may pull attention toward the horizon while the subject sits near the edge. A shadow may point toward a blank wall. A table edge may lead past the mug and out of the frame.\n\nTrace the line with a finger on the screen or draw it on a quick sketch. Then mark the endpoint. If the endpoint is not the subject, try one of three changes: move the camera so the line meets the subject, change the subject’s position, or remove the line from the frame.\n\nThis endpoint check keeps “leading lines” from becoming a decorative label. A line that leads away is still visually strong; it is simply serving a different destination.\n\n## Move your viewpoint\n\nChanging position can change both the direction and the strength of a line. Lowering the camera may make a sidewalk edge occupy more of the foreground. Moving sideways can make two edges converge toward a different point. Stepping back can reveal the full path; moving closer can turn one section of the line into a bold shape.\n\nThese are conditional experiments, not guaranteed effects. The best viewpoint is the one that makes the line’s relationship with the subject easiest to read. Keep the subject and line in mind while moving instead of collecting random angles.\n\n## Three everyday examples\n\n**Sidewalk edge and a person.** Suppose a pavement boundary runs from the lower corner toward a person standing near a doorway. Make one frame where the boundary reaches the person, then a second where it exits to the side. Compare which frame makes the person easier to find.\n\n**Window shadow and a mug.** A strip of light may cross a wall and point toward a mug on a table. If the strip ends before the mug, rotate the camera or move the mug slightly. The purpose is not to force the mug into the brightest patch; it is to see whether the direction makes the subject more legible.\n\n**Table edge and a row of objects.** A table edge can lead toward one object, but repeated objects may compete for attention. Choose one endpoint and remove or reposition the others if the path becomes ambiguous.\n\nEach example has the same check: line, subject, endpoint. The setting changes, but the reasoning stays specific to the frame.\n\n## When a line leaves the frame\n\nNikon notes that leading lines can guide the eye through—and sometimes out of—the photograph. That is not automatically a failure. A line leaving the frame can create openness or suggest a larger world beyond the image. It becomes a problem when the intended subject is supposed to be the destination but the line keeps pulling attention away.\n\nIf the line exits too soon, try cropping or changing viewpoint. If the line exits deliberately, make the departure part of the subject’s meaning and check that no brighter object competes with it.\n\n## The line-tracing sketch\n\nFor one ordinary scene, draw a small rectangle and mark four things:\n\n1. The line’s starting point.\n2. The line’s direction or curve.\n3. The subject you want the viewer to notice.\n4. The line’s endpoint.\n\nMake one frame before changing the viewpoint and one after. Write a sentence for each: “The line arrives at the subject,” or “The line exits before the subject.” This turns a composition term into a repeatable observation.\n\nLeading lines are most useful when they are discovered rather than imposed. Start with what the scene already gives you, then move until the line has a clear job.\n\nBrightness and contrast can also change how strongly a line competes with the subject. A dark edge against a bright wall may pull attention more than a faint edge in the same position. Check the line at the final viewing size, not only while zoomed into the camera preview.",
+  "claims": [
+    {
+      "id": "COM-03-C1",
+      "statement": "Leading lines can guide the viewer’s eye through the frame toward a subject or area of interest.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/technique/perspective.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html"
+      ],
+      "body_section": "The line–subject–endpoint test",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-03-C2",
+      "statement": "Lines can be straight, curved, architectural, natural, or created by shadows and edges.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/technique/perspective.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html"
+      ],
+      "body_section": "Find lines in ordinary scenes",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-03-C3",
+      "statement": "A line can lead the eye out of the frame instead of to the intended subject.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/technique/perspective.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html"
+      ],
+      "body_section": "Endpoint check",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-03-C4",
+      "statement": "Viewpoint and framing can change whether a line supports the subject.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/technique/perspective.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Move your viewpoint",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "5 Easy Composition Guidelines",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "COM-03-C1",
+        "COM-03-C2",
+        "COM-03-C3",
+        "COM-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Perspective photography: A beginner’s guide",
+      "url": "https://www.adobe.com/creativecloud/photography/technique/perspective.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "COM-03-C1",
+        "COM-03-C2",
+        "COM-03-C3",
+        "COM-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/technique/perspective.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography tips for beginners: how to take better photos",
+      "url": "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "COM-03-C1",
+        "COM-03-C2",
+        "COM-03-C3",
+        "COM-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photographic guide for field researchers",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "COM-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 915,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

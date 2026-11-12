@@ -1,0 +1,225 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Rule of Thirds vs Centered Composition: When Does Each Work?",
+    "slug": "rule-of-thirds-vs-centered-composition",
+    "primary_category": "composition",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Choose thirds when placement and surrounding space matter; choose a centered frame when symmetry, directness, or visual stability is the point. / 按空间关系与对称性选择三分法或居中构图。",
+    "seo_title": "Rule of Thirds vs Centered Composition: When Does Each Work?",
+    "meta_description": "Choose thirds when placement and surrounding space matter; choose a centered frame when symmetry, directness, or visual stability is the point. / 按空间关系与对称性选择三分法或居中构图。",
+    "target_reader": "A beginner who keeps hearing that one composition rule is always correct. / 总听说某一种构图永远正确的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1300,
+      "reason": "Approved Batch 02 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A comparison because the reader is deciding between two framing strategies.",
+    "direct_answer_contract": "Use the rule of thirds to create directional space or a less static placement; use centered composition when symmetry, confrontation, or calm stability supports the subject.",
+    "unique_reader_deliverable": "A matched-scene table and a two-frame comparison exercise.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "At least one concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Choose thirds when placement and surrounding space matter; choose a centered frame when symmetry, directness, or visual stability is the point. / 按空间关系与对称性选择三分法或居中构图。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "decision": "Choose a framing strategy that supports the subject’s relationship with the surrounding space.",
+      "options": [
+        "Rule of thirds",
+        "Centered composition"
+      ],
+      "matched_criteria": [
+        "Subject direction",
+        "Symmetry",
+        "Background structure",
+        "Viewer attention"
+      ],
+      "verification_date": "2026-11-09",
+      "decision_matrix": "Use one scene, make both frames, and explain what changed in the viewer’s attention."
+    }
+  },
+  "body_markdown": "The rule of thirds is useful, but it is not a law. A centered frame can be just as intentional when the subject benefits from symmetry, directness, or a stable visual anchor. The decision is easier when you stop asking which rule is “better” and ask what the surrounding space needs to do.\n\nUse the rule of thirds as a starting point when you want the subject to share attention with the scene, leave room in a direction of movement, or avoid a static placement. Use a centered composition when the subject’s directness, symmetry, repetition, or visual weight is the point. Then make a second frame and check what changed.\n\n## What the rule of thirds gives you\n\nThe rule of thirds divides the frame into nine areas using two horizontal and two vertical guides. Placing a subject near an intersection or along a guide can create an off-center arrangement with visible breathing room. Nikon includes the rule among practical composition guidelines, while Adobe places composition alongside exposure and focus as a way to shape what viewers notice.\n\nThe grid is most helpful when the subject has a direction or relationship to the space around it. A person looking toward the right edge may feel less cramped when there is more room on that side. A cyclist moving across the frame may benefit from space in front of the movement. A landscape can use the upper or lower horizontal guide to make either sky or ground the stronger visual area.\n\nThe grid does not decide which side should be empty. The subject’s gaze, movement, and the lines in the background decide that.\n\n## What a centered composition gives you\n\nA centered composition places the main subject on or near the middle axis. This can make the frame feel direct and stable. It becomes especially persuasive when the scene contains symmetry, repeated patterns, a strong doorway, a reflected surface, or a subject that addresses the viewer head-on.\n\nCentering also removes some ambiguity. The viewer is not asked to search for the subject’s location. That can suit a portrait with a direct gaze, a front-facing building, or a simple object against a clean background.\n\nCentering is not automatically boring. It becomes weak when the background is noisy, the subject has a strong directional cue that is ignored, or the frame has no reason for the central placement. The question is not whether the subject is in the middle; it is whether the middle position supports the scene.\n\n## Decision matrix\n\n| Visual question | Start with thirds when… | Start centered when… | Check the frame for… |\n|---|---|---|---|\n| Is the subject looking or moving? | Directional space helps the action read | The direct pose is the message | Room in front versus attention on the subject |\n| Is the background structured? | Lines lead toward an off-center subject | Symmetry repeats around the center | Balance, leading lines, and empty corners |\n| Is the mood quiet or formal? | The scene needs openness or tension | Stability and order are intentional | Whether the frame feels calm rather than accidental |\n| Is the subject small? | Space explains the environment | A central anchor makes the subject easy to find | Subject scale and background distraction |\n| Is there symmetry? | Breaking it creates a deliberate imbalance | Preserving it reinforces the pattern | Whether the axis is actually straight |\n\nThis table is a selection tool, not a grading rubric. If a centered frame works better for a moving subject, keep it and describe why. If a rule-of-thirds frame feels forced, remove the grid and solve the actual visual problem.\n\n## A matched-scene example\n\nImagine a person standing beside a bright doorway. Make one frame with the person on the left third and open space toward the doorway. Make a second frame with the person centered in the doorway.\n\nThe thirds frame may make the doorway feel like a destination or give the person room to look into. The centered frame may make the doorway a symmetrical frame and turn the person into a direct focal point. Neither interpretation is guaranteed; it depends on posture, lines, light, and the amount of empty space.\n\nThe useful comparison is not “Which one follows the rule?” It is “What does the empty space now imply?” Write one sentence for each frame. If the sentence changes, the composition changed meaningfully.\n\n## Avoid accidental center or accidental thirds\n\nMany weak compositions are not wrong because they break a rule. They are weak because the frame was not checked. A subject can land near a third simply because the camera was held quickly, while a centered subject can drift slightly off the axis and lose the intended symmetry.\n\nBefore pressing the shutter, check the edge nearest the subject’s gaze or movement. Then check the opposite edge for distractions that compete with the subject. In a centered frame, inspect the vertical axis, horizon, and repeated shapes. In a thirds frame, inspect whether the open space actually supports the subject or merely leaves an empty patch.\n\nNikon’s composition guidance includes practical checks such as leading lines, framing, and viewpoint. These ideas can support either of the two arrangements. A centered frame can use lines that converge on the middle; a thirds frame can use a line to carry the eye toward an off-center subject.\n\n## The two-frame exercise\n\nChoose one stationary subject with a readable background. Make two frames from the same approximate distance:\n\n1. Place the subject near a thirds intersection or along a guide. Leave space in the direction of the subject’s gaze, movement, or implied attention.\n2. Place the subject in the center. Straighten the frame and make the central placement deliberate.\n\nCompare the pair at the same size. Ask three questions: Which frame makes the subject easier to find? Which frame gives the background a clearer role? Which frame better matches the mood you intended?\n\nIf the answer is unclear, simplify the background and repeat. A composition comparison is hard to read when exposure, focus, and clutter are all changing at once.\n\n## A practical choice rule\n\nChoose thirds when space, direction, or environmental context should participate in the photograph. Choose centered composition when symmetry, directness, or stability should dominate. If neither feels intentional, change your viewpoint before changing the rule.\n\nThe strongest beginner habit is to make both versions on purpose. A grid can suggest a useful starting point, and the center can deliver a strong visual statement. Your final choice should be explainable in one sentence: “I left space here because the subject looks that way,” or “I centered this because the symmetry is the subject.”",
+  "claims": [
+    {
+      "id": "COM-02-C1",
+      "statement": "The rule of thirds divides the frame into a grid that can guide subject placement and surrounding space.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Rule of thirds",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-02-C2",
+      "statement": "Centered composition can support symmetry, direct attention, or a deliberately stable visual arrangement.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Centered composition",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-02-C3",
+      "statement": "Composition choices should be judged against the subject, background, direction, and intended viewer attention rather than treated as universal rules.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Decision criteria",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-02-C4",
+      "statement": "Changing framing can alter the meaning and balance of a scene even when the subject itself stays the same.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure"
+      ],
+      "body_section": "Matched-scene exercise",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "5 Easy Composition Guidelines",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "COM-02-C1",
+        "COM-02-C2",
+        "COM-02-C3",
+        "COM-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "COM-02-C1",
+        "COM-02-C2",
+        "COM-02-C3",
+        "COM-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Photographic guide for field researchers",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "institutional",
+      "supports": [
+        "COM-02-C1",
+        "COM-02-C2",
+        "COM-02-C3",
+        "COM-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "COM-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1120,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

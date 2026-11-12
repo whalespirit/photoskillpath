@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Phone focus and exposure lock diagram</title><desc id="desc">A phone frame shows a focus box, an exposure slider, and a lock control.</desc>
+  <rect width="900" height="520" fill="#eef3f8"/>
+  <rect x="312" y="41" width="276" height="438" rx="34" fill="#151515"/>
+  <rect x="329" y="70" width="242" height="365" rx="18" fill="#89bff5"/>
+  <circle cx="450" cy="232" r="69" fill="#ffb15d"/><path d="M337 389c48-72 83-101 113-101s65 29 113 101" fill="#5b7791"/>
+  <rect x="390" y="172" width="120" height="120" rx="5" fill="none" stroke="#2347f5" stroke-width="6"/>
+  <path d="M536 155v152" stroke="#fff" stroke-width="5"/><circle cx="536" cy="222" r="11" fill="#ff5c35"/>
+  <rect x="393" y="371" width="114" height="34" rx="17" fill="#2347f5"/>
+  <text x="450" y="394" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="800">AE/AF LOCK</text>
+  <g font-family="Arial, sans-serif" font-weight="800"><text x="82" y="184" fill="#151515" font-size="25">1. Choose the subject</text><text x="82" y="222" fill="#3b526b" font-size="18">Tap the part that must</text><text x="82" y="247" fill="#3b526b" font-size="18">stay readable.</text><text x="645" y="184" fill="#151515" font-size="25">2. Hold the choice</text><text x="645" y="222" fill="#3b526b" font-size="18">Lock focus and brightness</text><text x="645" y="247" fill="#3b526b" font-size="18">when your phone allows it.</text></g>
+</svg>

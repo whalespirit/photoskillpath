@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "A 30-Minute Shutter-Speed Exercise: Freeze, Blur, Compare",
+    "slug": "30-minute-shutter-speed-exercise",
+    "primary_category": "practice",
+    "style": "guide",
+    "language": "en",
+    "summary": "Use one moving subject and three shutter-speed directions to compare frozen action, partial blur, and intentional motion. / 用一个移动主体和三种快门方向对比冻结、部分模糊和有意运动。",
+    "seo_title": "A 30-Minute Shutter-Speed Exercise: Freeze, Blur, Compare",
+    "meta_description": "Use one moving subject and three shutter-speed directions to compare frozen action, partial blur, and intentional motion. / 用一个移动主体和三种快门方向对比冻结、部分模糊和有意运动。",
+    "target_reader": "A beginner who understands shutter speed but cannot predict the result. / 懂快门概念却无法预测结果的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 900,
+      "max": 1150,
+      "reason": "Approved Batch 03 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A bounded practice guide because the reader needs a timed sequence with a visible comparison.",
+    "direct_answer_contract": "Open with the three-pass setup and expected visual result.",
+    "unique_reader_deliverable": "A filled three-frame comparison card.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "A concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Use one moving subject and three shutter-speed directions to compare frozen action, partial blur, and intentional motion. / 用一个移动主体和三种快门方向对比冻结、部分模糊和有意运动。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Article-specific sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Complete a three-pass motion comparison without claiming a guaranteed result.",
+      "prerequisites": [
+        "One moving subject or moving object and a stable camera position"
+      ],
+      "verification_method": "Compare the same edge, hand, foot, or background detail across three frames.",
+      "escalation_boundary": "If shutter control is hidden, use documented motion controls or record the limitation.",
+      "worked_example": "A walking person or moving object as an illustrative setup"
+    }
+  },
+  "body_markdown": "This 30-minute exercise is built around one question: what changes when the same moving subject is photographed with a faster, middle, and slower shutter direction? You do not need a particular camera model or a guaranteed result. You need one scene, a stable starting position, and a way to compare three frames honestly.\n\nThe expected pattern is simple: the faster pass is more likely to freeze the movement, the middle pass may show partial blur, and the slower pass gives movement more time to appear. Nikon’s shutter-speed guidance supports this freeze-versus-blur relationship, while also warning that the useful choice depends on the action and the scene.\n\n## Set the same scene three times\n\nChoose a subject that can move repeatedly along a simple path: a person walking across a room, a swinging object, or another moving subject. Keep the camera position, approximate framing, and lighting as consistent as possible. Mark the subject’s path with a doorway, chair, or floor line so the three passes are comparable.\n\nBefore starting, decide what detail you will inspect. Use a hand, foot, wheel, wing, water edge, or another moving edge. Also choose one stationary background detail. The moving detail tells you how motion was rendered; the stationary detail helps you notice camera movement.\n\n## Pass 1: Try to freeze the movement\n\nChoose a faster shutter direction than your normal starting point. Ask the subject to repeat the same movement. Inspect the selected hand, foot, or edge. If it looks crisp enough for your purpose, record that result. If it remains blurred, note whether the subject moved too quickly, the camera moved, or the scene was too dark to hold the chosen speed.\n\nThe goal is not to find a universal “freeze” number. Nikon explains that a helicopter, a walking person, and a bicycle do not require the same shutter speed. The direction and distance of the movement matter too.\n\nIf the frame becomes dark, record which automatic control changed or what you changed next. A faster shutter allows less light, so the camera may open the aperture or raise ISO. Keep that trade-off visible in your notes.\n\n## Pass 2: Look for partial blur\n\nMove toward a middle shutter direction and repeat the same path. This frame may show a crisp body with a softer hand, foot, or edge. That partial blur can be useful because it preserves the subject while making the movement readable.\n\nInspect the stationary background. If the background is clear and only the moving edge softens, the blur is mainly subject movement. If the background also streaks, camera movement may have entered the frame. Stabilize your position before deciding that the middle shutter direction is the problem.\n\nWrite one sentence: “The movement is visible because ____.” If you cannot complete it, the frame may be neither clearly frozen nor intentionally blurred. Repeat once with the same direction rather than changing several controls.\n\n## Pass 3: Let the movement show\n\nChoose a slower direction and repeat the path. Hold or support the camera as steadily as the scene allows. The moving subject should have more time to register as blur, while a stable background can remain more readable.\n\nThis pass is not a failed version of Pass 1. A slow shutter can be the intended choice for water, passing lights, or a person turning through a space. The check is whether the blur communicates movement and whether the background supports the result.\n\nIf everything is streaked, the camera moved. If only the subject is soft, the camera may have stayed stable. Both outcomes are useful because they show why camera movement and subject movement should be diagnosed separately.\n\n## What changed besides shutter speed?\n\nReview the camera or phone metadata if available. Did aperture change? Did ISO change? Did the device switch into a motion mode or computational capture? Did the light change while the subject repeated the path?\n\nThe exercise is about shutter speed, but exposure controls are connected. Nikon places shutter speed alongside aperture and ISO in the exposure triangle. A faster or slower shutter can force the device to make another adjustment, and that adjustment may change brightness, noise, or depth of field.\n\nRecord those changes without treating them as errors. The useful question is: which visible difference came from shutter direction, and which came from the exposure adjustment needed to support it?\n\n## The three-frame comparison card\n\nFill in one line for each frame:\n\n| Frame | Intended result | What the moving detail did | What the background did | Next adjustment |\n|---|---|---|---|---|\n| Fast | Freeze |  |  |  |\n| Middle | Show some movement |  |  |  |\n| Slow | Deliberate blur |  |  |  |\n\nUse the same display size for all three images. Check the selected moving detail first, then the stationary background. If the fast frame is dark, the next adjustment may be aperture or ISO. If the slow frame is camera-shaken, support or stabilize the camera. If the subject is still too sharp in the slow frame, the movement may be too small or the exposure too short for that scene.\n\n## Stop after the comparison is clear\n\nDo not keep changing settings after you can explain the three frames. The goal is not to collect the most dramatic blur. It is to connect a shutter direction with a visible result and a remaining trade-off.\n\nAt the end of 30 minutes, you should be able to say: “The fast direction protected the moving edge but cost light; the middle direction showed partial movement; the slow direction made the movement obvious, and stability determined whether the background stayed readable.” That explanation is the skill this exercise is designed to build.",
+  "claims": [
+    {
+      "id": "PRA-03-C1",
+      "statement": "Faster shutter speeds are more likely to freeze action, while slower speeds can show blur.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Pass 1 and Pass 3",
+      "materiality": "material"
+    },
+    {
+      "id": "PRA-03-C2",
+      "statement": "The needed shutter speed depends on subject speed, direction, distance, and intended result.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Three-pass setup",
+      "materiality": "material"
+    },
+    {
+      "id": "PRA-03-C3",
+      "statement": "Subject movement and camera movement can produce different blur patterns.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf"
+      ],
+      "body_section": "Review the frames",
+      "materiality": "material"
+    },
+    {
+      "id": "PRA-03-C4",
+      "statement": "Changing shutter speed can change exposure, requiring attention to aperture, ISO, or device auto behavior.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos",
+        "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "What changed besides shutter speed?",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Understanding Shutter Speed: Capturing Time in Photography",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PRA-03-C1",
+        "PRA-03-C2",
+        "PRA-03-C3",
+        "PRA-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Capturing or Freezing Motion in Photos",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PRA-03-C1",
+        "PRA-03-C2",
+        "PRA-03-C3",
+        "PRA-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Nikon School: Shooting Action",
+      "url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PRA-03-C1",
+        "PRA-03-C2",
+        "PRA-03-C3",
+        "PRA-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://static.nikonusa.com/pdf/nikonschool/sat.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PRA-03-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 952,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

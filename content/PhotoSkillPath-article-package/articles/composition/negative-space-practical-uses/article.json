@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "4 Practical Uses of Negative Space in Beginner Photos",
+    "slug": "negative-space-practical-uses",
+    "primary_category": "composition",
+    "style": "roundup",
+    "language": "en",
+    "summary": "Choose one purpose for empty area instead of leaving it accidental. / 为留白选择一个目的。",
+    "seo_title": "4 Practical Uses of Negative Space in Beginner Photos",
+    "meta_description": "Choose one purpose for empty area instead of leaving it accidental. / 为留白选择一个目的。",
+    "target_reader": "A beginner whose frames feel crowded or visually unclear. / 画面拥挤、主体不清的新手。",
+    "search_intent": "Use empty area intentionally / 有意识地使用空白区域",
+    "planned_word_range": {
+      "0": "9",
+      "1": "0",
+      "2": "0",
+      "3": "-",
+      "4": "1",
+      "5": "1",
+      "6": "5",
+      "7": "0",
+      "reason": "Approved Batch 04 scope and article-specific structure justify this range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A selective set of negative-space uses gives distinct jobs rather than a repeated rule. / 精选留白用途，每项承担不同任务。",
+    "direct_answer_contract": "Start with four jobs and one excluded accidental-empty example. / 先给四种用途及一个被排除的偶然空白示例。",
+    "unique_reader_deliverable": "A purpose-to-frame matching table. / 留白目的与画面匹配表。",
+    "required_concrete_specifics": [
+      "Four distinct reader jobs",
+      "One matched example each"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Direction",
+      "Scale",
+      "Mood",
+      "Text space"
+    ],
+    "scope_excluded": [
+      "Fine-art judgments",
+      "Social-media trends",
+      "Photo gallery roundup"
+    ],
+    "related_article_boundaries": "Do not turn the four uses into four copies of the same composition recipe. / 四种用途不能写成同一套路的四次改名。"
+  },
+  "style_contract": {
+    "reader_outcome": "Choose one purpose for empty area instead of leaving it accidental. / 为留白选择一个目的。",
+    "distinctive_structure": [
+      "Selection rule",
+      "Distinct jobs",
+      "Illustrative cases",
+      "Exclusion boundary"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Source-specific semantic match",
+      "Reverify before prose when retrieval is partial"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "Invented first-person result",
+      "Missing observable check"
+    ],
+    "style_specific": {
+      "selection_universe": "Four compositional jobs that change how the frame is read; accidental empty background is excluded. / 四种改变画面阅读的构图任务，排除偶然空背景。",
+      "selection_method": "Include only a use with a distinct job, matched scene, and visible check. / 只有拥有独立任务、匹配场景和可见检查的用途入选。",
+      "exclusion_rules": "Remove any use that is only a renamed version of subject isolation or lacks a scene-specific check. / 排除改名重复隔离主体或缺少检查的用途。",
+      "item_evidence_rule": "Each use needs an official composition source and an article-specific illustrative example. / 每项需要官方构图来源和本文专属假设示例。",
+      "commercial_disclosure": "No affiliate links, sponsorship, or product selection. / 无联盟、赞助或产品选择。"
+    }
+  },
+  "body_markdown": "Negative space is useful when the open part of a frame has a job. It can give a subject room to face into, show how small the subject is within a larger place, create a quieter visual mood, or leave a cleaner area for text. If the empty area does none of those things, it may simply be unused background rather than intentional composition.\n\nThis is a selective list, not a gallery of “best” photographs. Each use below has a different reader task, a matching scene, and a visible check. There is no required percentage of empty space; the relationship between the subject and its surroundings matters more than a fixed ratio. [Adobe describes negative space as the relationship between a subject and an expansive surrounding area](https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html), including textured grass, sand, sky, light, and shadow—not only a blank white background.\n\n## The selection rule\n\nKeep empty space when it changes how the frame is read. Before taking the photo, name the job:\n\n| Job for the open area | Start with this arrangement | Visible check |\n|---|---|---|\n| Direction | Put space in front of the subject’s face or movement | The eye travels into the space, then returns to the subject |\n| Scale | Make the subject small against a larger setting | The subject remains findable while the place feels larger |\n| Quiet mood | Reduce competing edges, colors, or objects | The surrounding tone supports the intended calm or isolation |\n| Text space | Keep one low-detail area beside the subject | A title or caption can sit there without covering important detail |\n\nThese are four different purposes. A frame can meet more than one, but it should not be called successful simply because half of it is empty.\n\n## 1. Give a subject somewhere to face\n\nWhen a person, animal, vehicle, or implied movement faces one side of the frame, space on that side can make the direction easier to read. Imagine a person standing near the right edge and looking left. Leaving room in front of the face gives the viewer a path to follow instead of making the person appear to press against the border.\n\nThe check is simple: look at the subject’s face or leading edge, then look into the open area. Does the open area feel like the direction of attention, or does it pull the eye toward an unrelated bright corner? If the eye leaves the subject and never returns, move the camera or reduce the space.\n\nThis use is related to visual paths, but it is not the same as adding a leading line. The space itself supplies the breathing room; a sidewalk edge, shadow, or other line may be absent.\n\n## 2. Reveal scale\n\nA small subject can explain the size of its environment when the surrounding area is allowed to remain visible. A single person on a broad shoreline, a cyclist on an open road, or a small object on a long table can make the place feel larger than the subject.\n\nThe empty area does not need to be a flat color. Adobe notes that grass, sand, or a cloudy sky can function as negative space even when they have texture. The relevant question is whether the surrounding field reads as one visual environment rather than a pile of competing objects.\n\nCheck that the subject is still findable. If the person disappears into similar tones or becomes confused with a background mark, move closer, change contrast, or simplify the frame. Scale is useful only when the viewer can see both the small subject and the larger place.\n\n## 3. Create a quieter visual mood\n\nOpen space can slow the frame down. A mug near a calm wall, a plant against a quiet patch of light, or one figure surrounded by a restrained tone may feel less crowded because fewer edges compete for attention. This is an interpretation, not a guaranteed emotional response, so the article’s useful question is whether the visual conditions support the mood you intended.\n\nLight and shadow can create the quiet area. A darker surrounding field may make a lit subject feel isolated; a soft, low-contrast wall may make the subject feel gentle rather than dramatic. Composition guidance from Nikon and the Adobe negative-space guide both treat the subject and its surroundings as a relationship, not as separate decoration.\n\nCheck the edges. A single bright object, stray sign, or high-contrast corner can break the quiet more than a textured wall would. If the mood disappears when you squint at the frame, remove the strongest competing shape before changing the subject.\n\n## 4. Reserve a clean area for text\n\nSometimes the photograph has a practical destination: a lesson title, event notice, recipe card, or social post with a caption placed over the image. In that case, negative space can be planned as a text area. Put the subject on one side and keep the other side relatively low in detail and contrast.\n\nThis is not only a matter of leaving room. Text needs enough contrast against the background, and the final destination may crop the image differently. A pale wall may work for dark type but fail for white type. A wide frame may become a narrow mobile crop that removes the planned space.\n\nThe check is to place a rough title over the intended area at the final display size. If the words cover a face, important edge, or high-detail texture, the space was not actually available for text. Move the subject, simplify the background, or plan a different crop.\n\n## An excluded case: empty by accident\n\nConsider a frame with a large blank wall because the camera was pointed too high. The wall is empty, but it does not direct attention, reveal scale, support a mood, or create a usable text area. It is not automatically negative space just because it occupies most of the frame.\n\nThis distinction keeps the idea practical. Before pressing the shutter, say which job the space performs. Afterward, remove or crop the space if no job survives the check. The goal is not maximum emptiness; it is a clear relationship between subject and surrounding room.\n\n## Choose the purpose before the position\n\nUse the four-use table as a short planning card:\n\n1. **Direction:** Where is the subject looking or moving?\n2. **Scale:** What larger place should the viewer notice?\n3. **Mood:** Which competing edge, color, or object should disappear?\n4. **Text:** Where could a title sit without covering meaning?\n\nChoose one primary purpose, arrange the subject and open area, and then check the frame for the specific result. When the space has a job, it becomes part of the composition. When it has no job, a tighter crop may be the more honest choice.",
+  "claims": [
+    {
+      "id": "COM-04-C1",
+      "statement": "Negative space can isolate a subject by reducing competing visual information.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-04-C2",
+      "statement": "Empty area can communicate direction or scale when the subject’s orientation and surrounding field support that reading.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-04-C3",
+      "statement": "Space can contribute to mood through the relationship of subject, tone, and surrounding visual quiet.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "COM-04-C4",
+      "statement": "A low-detail area can be intentionally reserved for text, but final readability depends on destination crop and contrast.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html",
+        "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Negative space photography",
+      "url": "https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "COM-04-C1",
+        "COM-04-C2",
+        "COM-04-C3",
+        "COM-04-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/discover/negative-space-photography.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography tips for beginners: how to take better photos",
+      "url": "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "COM-04-C1",
+        "COM-04-C3",
+        "COM-04-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/in/creativecloud/roc/blog/photography/photography-tips-beginners.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "5 Easy Composition Guidelines",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "COM-04-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1104,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

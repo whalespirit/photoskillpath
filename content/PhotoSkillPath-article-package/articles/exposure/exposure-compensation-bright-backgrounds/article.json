@@ -1,0 +1,290 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Exposure Compensation for Bright Backgrounds and Dark Subjects",
+    "slug": "exposure-compensation-bright-backgrounds",
+    "primary_category": "exposure",
+    "style": "guide",
+    "language": "en",
+    "summary": "Make and verify a compensation change without losing the subject. / 完成并验证补偿调整，保证主体可读。",
+    "seo_title": "Exposure Compensation for Bright Backgrounds and Dark Subjects",
+    "meta_description": "Make and verify a compensation change without losing the subject. / 完成并验证补偿调整，保证主体可读。",
+    "target_reader": "A beginner whose camera meters the background instead of the subject. / 相机总按背景而不是主体测光的新手。",
+    "search_intent": "Fix a predictable exposure mismatch / 修复可预期的曝光不匹配",
+    "planned_word_range": {
+      "min": 950,
+      "max": 1250,
+      "reason": "Approved Batch 05 scope and article-specific structure justify this range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "Exposure compensation is a repeatable correction task with a clear verification step. / 曝光补偿是有明确验证步骤的重复纠偏任务。",
+    "direct_answer_contract": "Open with the subject-priority rule and two opposing scenes. / 先给主体优先规则和两个相反场景。",
+    "unique_reader_deliverable": "A bright-background correction flowchart. / 明亮背景纠偏流程图。",
+    "required_concrete_specifics": [
+      "Window portrait",
+      "Dark object on bright surface"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Subject priority",
+      "Bright background",
+      "Dark background",
+      "Histogram/highlight check"
+    ],
+    "scope_excluded": [
+      "Advanced metering algorithms",
+      "HDR processing",
+      "Brand button locations"
+    ],
+    "related_article_boundaries": "Do not repeat ISO or priority-mode theory. / 不重复 ISO 或优先模式理论。"
+  },
+  "style_contract": {
+    "reader_outcome": "Make and verify a compensation change without losing the subject. / 完成并验证补偿调整，保证主体可读。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Correction flow",
+      "Two scenes",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Source-specific semantic match",
+      "Reverify before prose when retrieval is partial"
+    ],
+    "failure_conditions": [
+      "Unsupported universal prescription",
+      "Invented first-person result",
+      "Missing observable check or decision boundary"
+    ],
+    "style_specific": {
+      "task_outcome": "Make and verify a compensation change without losing the subject. / 完成并验证补偿调整，保证主体可读。",
+      "prerequisites": [
+        "A camera or phone with a supported compensation control. / 支持补偿控制的相机或手机。"
+      ],
+      "verification_method": "Check subject detail and the brightest important area after each test frame. / 每次测试后检查主体细节与最亮重要区域。",
+      "escalation_boundary": "If the range remains insufficient, change the light relationship or accept a deliberate silhouette/high-key result. / 若反差仍不足，改变光线关系或接受剪影/高调效果。",
+      "worked_example": "Window portrait and pale object on a dark table. / 窗边人像与暗桌面上的浅色物体."
+    }
+  },
+  "body_markdown": "Use exposure compensation when the camera’s overall reading produces the wrong priority for your subject. Start with the subject: if a bright background makes the person too dark, bias the exposure brighter and check the brightest area; if a dark background makes a pale subject too bright, bias it darker and check the subject’s important detail. The direction is conditional, not a fixed “always plus” or “always minus” recipe.\n\nExposure compensation is a correction to the camera’s suggested exposure in modes that support it. The button, dial, scale, and available modes vary by camera, so this article explains the decision and the verification rather than one brand’s menu path.\n\n## Read the mismatch before touching the control\n\nLook at the image and name the failure in one sentence. “The face is readable but the window is white” is different from “The window is detailed but the face is too dark.” The first problem may need a darker bias or a change in light; the second may need a brighter bias or a different background.\n\nThe camera is not trying to protect your chosen subject automatically. Its meter responds to the brightness pattern in the frame. Large bright or dark areas can pull the suggested exposure away from the tone you want to preserve. Nikon’s exposure guidance uses white, grey, and black examples to show why a meter can try to render different subjects toward a middle tone.\n\n## Bright background, dark subject: start brighter\n\nImagine a person beside a bright window. If the frame gives the window most of the visual weight, the person’s face can become too dark. If the face is the subject, try a small positive compensation direction in a supported automatic or priority mode, then review the face and the brightest part of the window.\n\nThe correction is not “make the whole frame bright.” It is “give the subject enough exposure to remain readable without losing every important highlight.” If the window detail is part of the purpose, the available range may not be enough to keep both the face and the outside view perfect. Move the person, change the background, or accept a silhouette when that is the intended result.\n\nNikon’s portrait guidance describes the same bright-background problem and notes that exposure compensation can be used when a subject is underexposed against a bright background. The page is a camera-brand example, not a universal promise about every phone or camera.\n\n## Dark background, bright subject: start darker\n\nNow place a pale object on a dark table or against dark fabric. If the dark area fills much of the frame, the camera may raise exposure and make the pale subject lose texture. Try a small negative compensation direction, then inspect the brightest important surface rather than judging the whole frame by its average brightness.\n\nThe goal is not to make the background black. It is to keep the subject’s important surface from washing out while preserving enough surrounding context. If the object is meant to be a high-key subject with a white background, a brighter result may be intentional; the subject’s purpose decides the direction.\n\n## Use the preview, highlights, and histogram as checks\n\nAfter each small compensation change, make a test frame and inspect the part of the image that carries the meaning. For a face, check eyes and skin detail. For a white object, check texture or edges. For a bright window, check whether any outside detail matters. For a dark scene, check whether the subject is still separable from the background.\n\nIf your camera offers a highlight warning or histogram, use it as an additional check rather than a replacement for looking at the subject. Nikon describes a histogram as a graphic view of the tonal range, with heavy concentration at either end warning that shadow or highlight detail may be lost. It still does not know which patch of the frame is the reason you took the picture. A warning that protects highlights can still leave the person too dark, and a lifted shadow can still be the wrong choice for a silhouette.\n\n## A simple correction flow\n\n1. Identify the subject or detail that must remain readable.\n2. Identify whether that detail is too dark or too bright in the test frame.\n3. Choose a small compensation direction: brighter for a dark subject against a bright background; darker for a bright subject against a dark background.\n4. Make another frame without changing the subject priority.\n5. Check the subject detail and the brightest important area.\n6. If the range is still insufficient, change the light relationship or accept a deliberate silhouette/high-key result.\n\nThis flow is more reliable than memorising a number because the same subject can move from a window to shade, or from a dark table to a white wall.\n\n## Two worked scenes\n\n### Window portrait\n\nThe face is the subject, but the window occupies most of the background. The first frame shows a dark face and a bright window. Start with a small brighter bias. Check the eyes, cheeks, and any part of the window that matters. If the face improves but the window loses detail, decide whether the background is part of the story. If it is, move the person or change the camera position before adding more compensation.\n\n### White object on a dark table\n\nThe object’s surface carries the detail, while the table is a large dark area. The first frame makes the object look flat or washed out. Start with a small darker bias and check the surface edge, texture, or printed mark that identifies the object. If the object becomes too dim, return toward zero or change the background so the meter sees a less extreme brightness pattern.\n\n## When compensation is not the whole solution\n\nExposure compensation cannot replace focus, stability, or better light. If the subject is moving, solve motion separately. If the face is out of focus, brightness is not the cause. If a window and face are far apart in brightness, more compensation may improve one while sacrificing the other; move the subject, change the background, add suitable light, or choose a silhouette rather than pushing the slider until highlights disappear.\n\nThe finished decision should be visible in the frame: the chosen subject is readable, the important highlights are not unintentionally lost, and the remaining trade-off matches the purpose of the photograph.",
+  "claims": [
+    {
+      "id": "EXP-06-C1",
+      "statement": "Bright or dark areas can pull the camera’s suggested exposure away from the tone the photographer wants to preserve.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/take-better-portraits"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-06-C2",
+      "statement": "A positive compensation direction can help a dark subject against a bright background, while a negative direction can help protect a bright subject against a dark background, when supported by the camera.",
+      "source_urls": [
+        "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/take-better-portraits"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-06-C3",
+      "statement": "Compensation should be verified by checking the subject detail and the brightest important area rather than by applying a fixed numeric recipe.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/learning-how-to-use-your-cameras-histogram"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EXP-06-C4",
+      "statement": "Exposure compensation cannot replace focus or stability, and when a bright background and dark subject are far apart it may improve one area while sacrificing detail in the other; changing the light relationship may be necessary.",
+      "source_urls": [
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/high-dynamic-range-photography"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-06-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "A Basic Look at the Basics of Exposure",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-06-C1",
+        "EXP-06-C3",
+        "EXP-06-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Camera settings 101: Getting to know the basics",
+      "url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+      "publisher": "University of Queensland Student Employability Centre",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "institutional",
+      "supports": [
+        "EXP-06-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://employability.uq.edu.au/files/19410/uqsec-photo-sm-guide-web.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [
+        "EXP-06-C3",
+        "EXP-06-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "The Nikon Guide to Digital Photography",
+      "url": "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-06-C1",
+        "EXP-06-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Take Better Portraits",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/take-better-portraits",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-06-C1",
+        "EXP-06-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/take-better-portraits",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Learning How to Use Your Camera’s Histogram",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/learning-how-to-use-your-cameras-histogram",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-06-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/learning-how-to-use-your-cameras-histogram",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "High Dynamic Range Photography",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/high-dynamic-range-photography",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "EXP-06-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/high-dynamic-range-photography",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 8,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1055,
+    "validated_at": "2026-11-10",
+    "result": "revision-007_preflight_pending"
+  }
+}

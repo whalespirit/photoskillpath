@@ -1,0 +1,227 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Phone Photo Crop Ratios: Sharing, Stories, and Printing",
+    "slug": "phone-photo-crop-ratios-sharing-printing",
+    "primary_category": "phone",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Choose a crop by destination and protect the important edges. / 按用途选择裁剪并保护重要边缘。",
+    "seo_title": "Phone Photo Crop Ratios: Sharing, Stories, and Printing",
+    "meta_description": "Choose a crop by destination and protect the important edges. / 按用途选择裁剪并保护重要边缘。",
+    "target_reader": "A phone user who loses important content when cropping. / 裁剪时总丢掉重要内容的手机用户。",
+    "search_intent": "Choose an output crop / 选择输出裁剪",
+    "planned_word_range": {
+      "min": 1000,
+      "max": 1250,
+      "reason": "Approved Batch 05 scope and destination-specific crop comparison."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../site-strategy.json",
+    "evidence_mode": "research_only",
+    "scope_included": "Aspect ratio, subject margin, sharing, printing, crop loss",
+    "scope_excluded": "Printer brand reviews, platform algorithm claims, color management",
+    "suggested_internal_links": [
+      "EDI-01",
+      "EDI-02",
+      "PHO-04"
+    ]
+  },
+  "style_contract": {
+    "reader_outcome": "Choose a capture or crop shape before sharing or printing.",
+    "distinctive_structure": [
+      "Destination table",
+      "Shape-specific checks",
+      "Print preview boundary",
+      "30-second crop check"
+    ],
+    "evidence_requirements": [
+      "At least two authoritative sources",
+      "Current app behavior labeled as variable",
+      "No exact print promise"
+    ],
+    "failure_conditions": [
+      "Universal platform requirement",
+      "Unsupported print dimension",
+      "Invented device result"
+    ]
+  },
+  "body_markdown": "Choose the crop from the destination, not from a habit. Use a square when the subject can live inside equal sides, a portrait crop when the image needs vertical space, and a landscape crop when width carries the scene. For printing, choose the print size first, inspect the preview, and keep important details away from the crop boundary. If the destination is not known yet, preserve the original and make a copy for each output.\n\nAn aspect ratio describes the shape of the frame. Cropping changes that shape by removing part of the image; it does not move a person’s head, add room around a document, or recover a hand that was already outside the frame. The safest workflow is to decide what the image must protect before dragging the crop handles.\n\n## A destination-first decision table\n\n| Destination | Starting shape | Protect first | Common loss to check |\n| --- | --- | --- | --- |\n| Square profile or tile | Square | Face, object, or central label | Headroom and side context disappear |\n| Story-style vertical frame | Portrait | Top and bottom breathing room | Feet, hands, or a tall object are cut off |\n| Landscape scene or wide share | Landscape | Horizon and left-to-right context | People at the sides or a leading line are lost |\n| Print | The paper or print preview shape | Edges, margins, and the intended subject | A lab or app crops to fill the paper |\n\nGoogle Photos and Adobe Lightroom both expose crop and aspect-ratio controls, but the available presets and names depend on the app and device. The important decision is the output shape and the protected detail, not one app’s button path.\n\n## Square: keep the subject compact\n\nA square crop is useful when the subject reads without much side-to-side context: a single face, a small object, or a simple graphic. Start by placing the subject inside the square with a little room around the edges. Do not let the top of a head, the tip of a product, or a printed label sit exactly on the boundary; small repositioning changes can make the crop feel accidental.\n\nFor a group, inspect the outside people before accepting the square. A wide group may need a wider shape or a smaller subject in the original frame. If the group only fits by cutting shoulders or faces, keep the original and choose a different destination crop rather than forcing the square.\n\n## Portrait and story-style frames: protect vertical movement\n\nA portrait crop gives a tall subject room to travel from top to bottom. It suits a standing person, a doorway, a tall building, or a photograph where the eye should move vertically. Before applying it, check the top and bottom edges separately. The top edge protects headroom and architectural lines; the bottom edge protects feet, hands, and the base of an object.\n\nLeave more room in the direction the subject faces or moves. Nikon’s composition guidance describes leaving space in front of a person or animal’s gaze or action. That is a composition choice, not a platform requirement, but it helps prevent a portrait crop from feeling cramped.\n\nIf the original phone frame is wide and the subject is already near an edge, a portrait crop may remove the context you wanted. Drag the crop window to compare two versions: one that protects the subject and one that protects the surroundings. Save the version that matches the destination instead of assuming the taller frame is automatically better.\n\n## Landscape: protect the scene’s width\n\nA landscape crop keeps room for a horizon, a road, a table, or several people arranged across the frame. It is usually the better starting shape when the relationship between left and right matters more than the subject’s height.\n\nCheck the outer thirds of the frame before you finalize it. A person at the edge may lose an arm; a leading line may no longer lead anywhere; a horizon may tilt more noticeably after the crop. Straighten first if needed, then adjust the crop so the horizon and the main subject share a clear hierarchy.\n\nFor a document or screenshot, do not choose landscape just because the phone was held horizontally. Protect the text block and its margins. If the content is taller than the destination, a portrait crop or a full-frame share may preserve more meaning.\n\n## Printing: choose paper before trimming the photo\n\nPrinting adds a physical shape to the decision. A photo can look complete on the phone and still need a different crop for the selected paper. Google Photos’ print workflow lets the user choose a print size, preview the image, and edit or crop before ordering; it also warns that low-resolution images may print blurry.\n\nUse the print preview as the final boundary check. Look for hair, fingers, document corners, and any part of the scene that must remain visible. If the preview crops an important edge, either move the crop to sacrifice less important background, choose another print shape, or accept a border when the service allows it. Do not promise an exact border or margin across every printer and lab; the preview and the chosen service’s options control the result.\n\nFor a portrait print, keep a little space above the head and below the hands or torso. For a landscape print, check both side edges and the horizon. For a document, preserve all four corners when the purpose is legibility rather than decoration.\n\n## Capture now, crop later\n\nWhen the destination is uncertain, capture with enough surrounding space for the likely square, portrait, and landscape crops. This is not a promise that every ratio will fit; it is a reason to avoid placing the only important detail at the edge. A phone’s capture-ratio control may change the recorded frame, while a later crop changes the copy you prepare for sharing or printing.\n\nKeep the original untouched. Google Photos distinguishes saving edits in place from saving a copy, and Adobe’s crop tools let you reposition the crop boundary and choose an available ratio. Use a copy for a square avatar, a portrait story-style share, or a print file so you can return to the wider frame later.\n\n## The 30-second crop check\n\nBefore saving an output, ask four questions:\n\n1. What is this version for: square, portrait, landscape, or print?\n2. Which detail must remain visible?\n3. What disappears at each edge of the crop?\n4. Does the preview show the subject with enough margin for the destination?\n\nIf the answer to the last question is no, change the crop or the destination. The best ratio is the one that preserves the intended subject and leaves the viewer enough context to understand it.",
+  "claims": [
+    {
+      "id": "PHO-05-C1",
+      "statement": "Crop tools let a phone editor select different aspect-ratio shapes, including square, portrait, landscape, or a custom boundary, and the available presets vary by app or device.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://helpx.adobe.com/lightroom/mobile/crop-and-transform/crop-photos.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-05-C2",
+      "statement": "The destination shape should determine which edges and subject details are protected; leaving space in the direction a subject faces or moves is a composition choice that can survive a crop.",
+      "source_urls": [
+        "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-05-C3",
+      "statement": "A print workflow should be checked at the selected print size and preview because cropping and resolution warnings can change what remains visible and how sharp the result appears.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/9380189?co=GENIE%3DAndroid&hl=en",
+        "https://support.google.com/photos/answer/6128850?hl=en"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "PHO-05-C4",
+      "statement": "Keeping the original and saving destination-specific crops as copies makes it possible to revise a later share or print without starting from a narrowed frame.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://helpx.adobe.com/lightroom/mobile/crop-and-transform/crop-photos.html",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Edit your photos",
+      "url": "https://support.google.com/photos/answer/6128850?hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-05-C1",
+        "PHO-05-C3",
+        "PHO-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/6128850?hl=en",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Get started with photo prints from Google Photos",
+      "url": "https://support.google.com/photos/answer/9380189?co=GENIE%3DAndroid&hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-05-C3"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/9380189?co=GENIE%3DAndroid&hl=en",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Crop photos in Lightroom on mobile",
+      "url": "https://helpx.adobe.com/lightroom/mobile/crop-and-transform/crop-photos.html",
+      "publisher": "Adobe Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-05-C1",
+        "PHO-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://helpx.adobe.com/lightroom/mobile/crop-and-transform/crop-photos.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "5 Easy Composition Guidelines",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+      "publisher": "Nikon USA",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-05-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "official",
+      "supports": [
+        "PHO-05-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-10"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-10",
+      "source_type": "government",
+      "supports": [
+        "PHO-05-C2"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-10"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 6,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1090,
+    "validated_at": "2026-11-10",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

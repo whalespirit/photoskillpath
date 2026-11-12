@@ -1,0 +1,225 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "Crop or Filter First? A Better Order for Beginner Edits",
+    "slug": "crop-or-filter-first",
+    "primary_category": "edit",
+    "style": "comparison",
+    "language": "en",
+    "summary": "Crop first when framing is the problem; adjust the look after the boundaries and subject emphasis are settled. / 构图有问题先裁剪，边界确定后再调风格。",
+    "seo_title": "Crop or Filter First? A Better Order for Beginner Edits",
+    "meta_description": "Crop first when framing is the problem; adjust the look after the boundaries and subject emphasis are settled. / 构图有问题先裁剪，边界确定后再调风格。",
+    "target_reader": "A beginner who applies filters before deciding what the picture should include. / 常在确定画面边界前就套滤镜的新手。",
+    "search_intent": "Learn and act / 学习并操作",
+    "planned_word_range": {
+      "min": 900,
+      "max": 1150,
+      "reason": "Approved Batch 02 article design range."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A comparison because the reader is choosing which edit to make first.",
+    "direct_answer_contract": "Crop first when the frame includes distracting or unnecessary space; use a filter or look first only when the tonal mood is the main diagnostic question.",
+    "unique_reader_deliverable": "A problem-to-tool matrix and a reversible two-pass workflow.",
+    "required_concrete_specifics": [
+      "A direct decision rule",
+      "At least one concrete scene or exercise",
+      "An observable verification check"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Beginner decisions",
+      "Device-agnostic examples",
+      "Observable checks"
+    ],
+    "scope_excluded": [
+      "Brand-specific purchasing advice",
+      "Invented personal testing",
+      "Unsupported universal settings"
+    ],
+    "related_article_boundaries": "Use adjacent articles for their dedicated settings or workflows."
+  },
+  "style_contract": {
+    "reader_outcome": "Crop first when framing is the problem; adjust the look after the boundaries and subject emphasis are settled. / 构图有问题先裁剪，边界确定后再调风格。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Concrete verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal advice",
+      "No observable check"
+    ],
+    "style_specific": {
+      "decision": "Choose a first edit based on whether the problem is framing or appearance.",
+      "options": [
+        "Crop first",
+        "Filter or look first"
+      ],
+      "matched_criteria": [
+        "Problem type",
+        "Reversibility",
+        "Subject emphasis",
+        "Comparison"
+      ],
+      "verification_date": "2026-11-09",
+      "decision_matrix": "Use the matrix, save a copy, and compare before/after with the original visible."
+    }
+  },
+  "body_markdown": "Crop and filter are different kinds of decisions. A crop changes what the viewer is allowed to see. A filter or look changes how the visible content is treated. If the problem is a distracting edge, too much empty space, or a weak subject position, a filter cannot solve it. If the framing is already clear but the image feels flat or too warm, cropping will not solve that either.\n\nThe practical default is: settle the frame first, then adjust the look. Keep the original visible, make reversible changes, and compare the result at the same size. Google Photos documents crop, filters, comparison with the original, undo or revert, and save or save-as-copy options, although exact tools vary by device and app.\n\n## What cropping actually changes\n\nCropping removes part of the original frame and may change the aspect ratio. That can make the subject larger, remove an accidental object at the edge, or shift attention away from empty space. It can also remove context that the photograph needs. A crop is therefore a composition decision, not just a cleanup button.\n\nImagine a portrait with a bright sign at the far edge. If the sign competes with the face, a tighter crop may solve the problem immediately. If the sign explains where the person is, removing it may weaken the story. Before cropping, identify the object that must remain and the object that is merely distracting.\n\nCropping also changes how lines meet the edges of the frame. A road, horizon, or doorway may become more dominant after the crop. Check those lines again instead of judging only whether the subject looks larger.\n\n## What a filter or look actually changes\n\nA filter can alter color, contrast, brightness, saturation, or a broader visual style. The filter does not know which object is the subject; it applies a treatment according to the app’s design. A strong look can make a scene feel warmer, cooler, darker, or more graphic, but it can also hide a framing problem by making the result feel more dramatic.\n\nUse a filter first only when the visual treatment is the question. For example, if you are deciding whether a low-contrast scene should feel soft or punchy, a light look can help you compare moods before you commit to detailed adjustments. Keep the strength low enough that you can still see skin tones, highlights, shadows, and edge distractions.\n\nDo not assume that a filter restores detail. If the original subject is blurred, clipped, or out of focus, a style adjustment changes appearance but does not recreate the missing information.\n\n## Problem-to-tool matrix\n\n| What looks wrong | First tool | Why | Verify with |\n|---|---|---|---|\n| A bright object pulls attention at the edge | Crop | Remove or reduce the competing area | The subject is easier to find |\n| The subject is too small for the intended use | Crop | Change scale and surrounding space | The subject remains readable without losing context |\n| The frame is balanced but too cool | Light filter or temperature control | Change the visual treatment | Neutral areas and skin tones stay believable |\n| Contrast feels flat after framing is settled | Contrast or a restrained look | Improve separation between tones | Shadow detail and highlights remain visible |\n| The photograph tells the wrong story after cropping | Undo crop and reassess | The problem is the selected boundary | The context supports the subject again |\n| The image is out of focus | Neither tool first | Editing cannot replace a missing sharp edge | Recheck the original capture |\n\nThis is a decision matrix, not a required app sequence. If your editor combines crop and filter in one screen, still think of them as separate decisions.\n\n## The two-pass workflow\n\n**Pass one: boundaries.** Open the original and make a copy if your app supports that option. Crop only enough to solve the stated framing problem. Check the subject, the edges, the horizon, and the aspect ratio required by the final use. Save or export a version that you can compare with the original.\n\n**Pass two: appearance.** Apply a restrained filter or manual tonal adjustment to the cropped version. Compare it with the original and with the unfiltered crop. Ask whether the treatment improves the subject or merely makes the image louder.\n\nThis separation makes the edit easier to explain. “The crop removed a bright edge; the filter added a cooler mood” is more useful than “I tried presets until it looked good.”\n\n## When filter first can be reasonable\n\nThere are cases where the look is the question. If you are deciding between a natural color treatment and a monochrome treatment, a quick low-strength preview can reveal which mood fits the subject. If the final output has a known color requirement, a filter preview may also show whether the photograph can support that treatment.\n\nEven then, keep the original and avoid letting the preview decide the crop for you. A dark or high-contrast look can make empty space seem intentional, while a bright look can make an edge distraction easier to notice. Return to the neutral version before making the framing decision.\n\n## Compare without fooling yourself\n\nMany editors provide a press-and-hold comparison, an undo button, or a revert command. Use it. View the original, the crop-only version, and the final look at the same zoom level. Check the corners as well as the center.\n\nIf the editor saves over the original, export a copy before continuing. Google Photos distinguishes saving an edited result from saving a copy on supported workflows; other apps use different language. The principle is the same: preserve a version that lets you go back.\n\nFor a fair comparison, do not judge a cropped image zoomed in while viewing the original fit to screen. Match the display size and ask a specific question: Is the subject easier to find? Are the colors more believable? Is the edge still distracting?\n\n## A practical choice rule\n\nChoose crop first when the photograph’s boundaries, subject scale, or edge distractions are the problem. Choose a filter or look first when framing is already working and the remaining question is mood or tonal treatment. If you are unsure, make a crop-only copy, compare it with the original, and postpone the filter until the composition is settled.\n\nThe best beginner edit is not the most dramatic one. It is the one whose purpose you can name, compare, and undo.",
+  "claims": [
+    {
+      "id": "EDI-02-C1",
+      "statement": "Cropping changes the boundaries and aspect of the image, which can change subject emphasis and remove distractions.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "What cropping solves",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-02-C2",
+      "statement": "Filters or looks change the visual treatment of an image without deciding which objects remain in the frame.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "What filters solve",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-02-C3",
+      "statement": "Google Photos documents crop, filters, comparison with the original, undo/revert, and save or save-as-copy behavior, with features varying by device.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html"
+      ],
+      "body_section": "Editor behavior",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-02-C4",
+      "statement": "A reversible two-pass workflow reduces the chance that a stylistic adjustment hides a framing problem.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Workflow recommendation",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Edit your photos",
+      "url": "https://support.google.com/photos/answer/6128850?hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EDI-02-C1",
+        "EDI-02-C2",
+        "EDI-02-C3",
+        "EDI-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/6128850?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Edit your photos on your Pixel phone or tablet",
+      "url": "https://support.google.com/photos/answer/9940184?hl=en",
+      "publisher": "Google Photos Help",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EDI-02-C1",
+        "EDI-02-C2",
+        "EDI-02-C3",
+        "EDI-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/9940184?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Adobe",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EDI-02-C1",
+        "EDI-02-C2",
+        "EDI-02-C3",
+        "EDI-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Photographic guide for field researchers",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "UK Government",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "institutional",
+      "supports": [
+        "EDI-02-C4"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1087,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}

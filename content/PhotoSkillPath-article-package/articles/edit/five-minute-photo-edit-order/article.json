@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "metadata": {
+    "title": "A Five-Minute Photo Edit: Crop, Light, Color, and Stop",
+    "slug": "five-minute-photo-edit-order",
+    "primary_category": "edit",
+    "style": "guide",
+    "language": "en",
+    "summary": "Complete a restrained edit and compare it with the original. / 完成克制后期并与原图对比。",
+    "seo_title": "A Five-Minute Photo Edit: Crop, Light, Color, and Stop",
+    "meta_description": "Complete a restrained edit and compare it with the original. / 完成克制后期并与原图对比。",
+    "target_reader": "A beginner who moves random sliders and loses the original look. / 随意拉滑块、最后失去原貌的新手。",
+    "search_intent": "Edit one photo without overprocessing / 不过度处理地编辑一张照片",
+    "planned_word_range": {
+      "min": 950,
+      "max": 1200,
+      "reason": "Approved article design range for the reader task."
+    }
+  },
+  "strategy": {
+    "site_strategy_path": "../../../site-strategy.json",
+    "style_rationale": "A short editing sequence is a repeatable task with visible before/after checks. / 简短后期顺序是可重复任务。",
+    "direct_answer_contract": "Open with the four-stage sequence and stop condition. / 开头给出四阶段顺序和停止条件。",
+    "unique_reader_deliverable": "A completed edit log for one hypothetical image. / 一张假设照片的已填写后期记录。",
+    "required_concrete_specifics": [
+      "Original-versus-edit check",
+      "One highlight issue",
+      "One crop decision"
+    ],
+    "evidence_mode": "research_only",
+    "scope_included": [
+      "Crop",
+      "Brightness/exposure",
+      "White balance/color",
+      "Comparison and stop"
+    ],
+    "scope_excluded": [
+      "Preset sales",
+      "Advanced masking",
+      "Brand-specific tutorial"
+    ],
+    "related_article_boundaries": "Owns sequence and stopping; individual tools are explained only as needed. / 本文负责顺序和停止，单项工具只作必要解释。"
+  },
+  "style_contract": {
+    "reader_outcome": "Complete a restrained edit and compare it with the original. / 完成克制后期并与原图对比。",
+    "distinctive_structure": [
+      "Direct answer",
+      "Task sections",
+      "Worked example",
+      "Verification"
+    ],
+    "evidence_requirements": [
+      "Current official or institutional sources",
+      "Independent semantic source check"
+    ],
+    "failure_conditions": [
+      "Unsupported universal setting",
+      "No observable check"
+    ],
+    "style_specific": {
+      "task_outcome": "Complete a restrained edit and compare it with the original. / 完成克制后期并与原图对比。",
+      "prerequisites": [
+        "A phone or beginner camera when supported"
+      ],
+      "verification_method": "Use the article-specific observable check.",
+      "escalation_boundary": "Consult current device documentation for unsupported controls or repeated hardware faults.",
+      "worked_example": "Daylight photo with crop and brightness issue"
+    }
+  },
+  "body_markdown": "Beginner editing often becomes a search for the perfect slider. A more reliable approach is to edit in a short order, solve one visible problem at a time, and stop when the stated problem is solved. The goal is not to make every photo dramatic. It is to make the image clearer while preserving a connection to the original scene.\n\nThis five-minute workflow uses four passes: crop, light, color, and comparison. It works as a concept in many editors. The names and availability of individual tools vary by app and device, so the current help page for the editor you use remains the source of truth.\n\n## Pass one: crop for the actual subject\n\nCrop before applying a style effect. Look at the frame edges and decide whether they support the subject. Remove an accidental edge, straighten a distracting horizon, or choose a ratio that matches the intended destination.\n\nDo not crop simply because a tighter frame feels more dramatic. Ask what the crop changes:\n\n- Does it remove a competing bright shape?\n- Does it keep enough space in the direction the subject faces or moves?\n- Does it preserve the subject’s important edges?\n- Does it fit the place where the photo will be shared or printed?\n\nGoogle Photos, for example, provides crop, rotate, straighten, perspective, and aspect-ratio tools, but feature availability varies across devices and platforms. Make the crop reversible when the editor allows it, and keep the original available.\n\n## Pass two: solve the main light problem\n\nAfter the frame is clear, identify the largest tonal problem. Is the subject too dark? Is a bright area distracting? Is the whole frame flat? Choose the control that addresses that problem rather than moving several sliders together.\n\nFor an overall brightness problem, use the editor’s brightness or exposure control. For a bright window or pale sky that competes with the subject, look for a highlights control if the editor provides one. For dark areas that hide important detail, a shadows control may be more appropriate. These names are not interchangeable across apps, but the reasoning is stable: match the tool to the visible region.\n\nMake a small change, then compare with the starting image. A stronger adjustment is not automatically better. If the subject becomes readable and the image still looks plausible, move to the next pass.\n\n## Pass three: make one restrained color decision\n\nColor adjustments are easier after framing and light are reasonably settled. Start by asking whether the image has a color problem or whether it simply has a mood you prefer. Those are different decisions.\n\nIf indoor light makes a neutral surface look strongly yellow or blue, a white-balance or warmth control may help. If the colors are already believable but the image feels too intense, reduce saturation rather than adding a stronger filter. If the photo is meant to feel stylized, apply the style after the basic problem is solved and keep the intensity low enough that the subject remains readable.\n\nDo not use color to hide a composition problem. A filter cannot remove a distracting object from the edge or restore an important subject that was cropped away.\n\n## Pass four: compare and stop\n\nThe most important editing tool may be the comparison with the original. Google Photos documents a press-and-hold comparison for checking edits, and its editors include undo or revert behavior. Use that habit even when your app uses different controls.\n\nAsk four questions:\n\n1. Is the intended subject easier to read?\n2. Did the crop remove a problem or create a new one?\n3. Are the brightest and darkest important areas still believable?\n4. Did the color change support the scene, or merely make it louder?\n\nIf the answer is satisfactory, stop. Continuing to edit because a slider is available is how a short correction becomes an unrecognizable image.\n\n## A completed five-minute example\n\nImagine a daylight photo of a person near a bright window. The subject is slightly off-center, the window occupies too much of the right edge, and the face is darker than intended.\n\n- **Crop:** remove a little empty edge while keeping space in the direction the person faces.\n- **Light:** raise the overall exposure slightly or lift the relevant shadow area; check that the window does not become a blank patch.\n- **Color:** correct a visible indoor color cast only if neutral areas look wrong.\n- **Compare:** hold the edited image beside the original. Stop when the face is readable and the window still explains the setting.\n\nNotice what the workflow does not include: a long list of filters, a preset recommendation, or a claim that one adjustment works for every file. The result is judged against the problem named at the start.\n\n## Keep the original and the decision visible\n\nWhen an editor offers “Save” and “Save as copy,” understand the difference before choosing. Google Photos notes that saving in place may preserve later adjustment behavior, while saving a copy creates a separate edited file. The exact behavior differs by app, so check the current documentation.\n\nFor your own library, record a short note when the edit matters: “cropped for portrait share,” “lifted face shadow,” or “corrected indoor cast.” The note turns a vague editing session into a repeatable decision.\n\nA good beginner edit is not the one with the most changes. It is the one where the crop, light, and color choices each have a reason—and where the original still gives you a trustworthy comparison.\n\n## What not to repair with editing\n\nEditing cannot reliably recover every capture problem. A crop can remove a distraction, but it cannot restore an important subject that was never included. A brightness adjustment can reveal some shadow detail, but it cannot guarantee detail that was not recorded. A filter can change mood, but it cannot make a distracting background stop competing with the subject.\n\nWhen the edit keeps getting stronger without solving the original problem, return to the capture decision. The next useful action may be a different viewpoint, a new exposure choice, or a clearer focus target. That is not a failure of editing; it is information about where the problem began.",
+  "claims": [
+    {
+      "id": "EDI-01-C1",
+      "statement": "Common photo editors provide crop and undo or revert workflows.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-01-C2",
+      "statement": "Different tonal controls address different visible problems.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-01-C3",
+      "statement": "Comparing with the original helps prevent over-editing.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    },
+    {
+      "id": "EDI-01-C4",
+      "statement": "Feature availability varies by editor and device.",
+      "source_urls": [
+        "https://support.google.com/photos/answer/6128850?hl=en",
+        "https://www.adobe.com/creativecloud/photography/basics.html",
+        "https://support.google.com/photos/answer/9940184?hl=en",
+        "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf"
+      ],
+      "body_section": "Article body",
+      "materiality": "material"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Edit your photos",
+      "url": "https://support.google.com/photos/answer/6128850?hl=en",
+      "publisher": "Edit your photos",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EDI-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/6128850?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Photography for beginners: master the basics",
+      "url": "https://www.adobe.com/creativecloud/photography/basics.html",
+      "publisher": "Photography for beginners: master the basics",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EDI-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://www.adobe.com/creativecloud/photography/basics.html",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "Edit a photo or video on your Pixel phone or tablet",
+      "url": "https://support.google.com/photos/answer/9940184?hl=en",
+      "publisher": "Edit a photo or video on your Pixel phone or tablet",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "official",
+      "supports": [
+        "EDI-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://support.google.com/photos/answer/9940184?hl=en",
+        "verified_at": "2026-11-09"
+      }
+    },
+    {
+      "title": "How to take a good photo: Photo guide",
+      "url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+      "publisher": "How to take a good photo: Photo guide",
+      "author": null,
+      "published_or_updated": null,
+      "accessed": "2026-11-09",
+      "source_type": "government",
+      "supports": [
+        "EDI-01-C1"
+      ],
+      "retrieval": {
+        "status": "read",
+        "http_status": 200,
+        "final_url": "https://assets.publishing.service.gov.uk/media/57a08ba4e5274a31e0000ca4/Photoguide_RIU.pdf",
+        "verified_at": "2026-11-09"
+      }
+    }
+  ],
+  "images": {
+    "stage": "not_started",
+    "visual_diversity_version": 3,
+    "items": []
+  },
+  "publication_handoff": {
+    "public_sources_required": true,
+    "expected_public_source_count": 4,
+    "rendered_preview_path": null,
+    "rendered_public_source_count": null,
+    "author_disclosure": "organization_with_process_disclosure",
+    "reviewer_required": false,
+    "reviewer": null,
+    "result": "pending"
+  },
+  "validation": {
+    "body_word_count": 1012,
+    "validated_at": "2026-11-09",
+    "result": "structural_preflight_pending_independent_audit"
+  }
+}
